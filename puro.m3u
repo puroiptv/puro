@@ -1,7 +1,7 @@
 #EXTM3U @LaQuay https://github.com/LaQuay/TDTChannels
 #EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml"
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://github.com/felixgomez1968/puro/blob/main/estrelas.jpg" group-title="Generalistas" tvg-name="LAS ESTRELLAS 2 HD",LAS ESTRELLAS 2 HD
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/estrelas.jpg" group-title="Generalistas" tvg-name="LAS ESTRELLAS 2 HD",LAS ESTRELLAS 2 HD
 http://globaltvplus.club:25461/KokolIptv2/PasslI0/2
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="CINEMA HD",CINEMA HD
