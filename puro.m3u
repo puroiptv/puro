@@ -4,11 +4,35 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/estrelas.jpg" tvg-name="LAS ESTRELLAS 2 HD",LAS ESTRELLAS 2 HD
 http://globaltvplus.club:25461/KokolIptv2/PasslI0/2
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/5.jpg" tvg-name="CANAL 5 HD",CANAL 5 HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/imagen.jpg" tvg-name="IMAGEN HD",IMAGEN 5 HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/Z.jpg" tvg-name="Z HD",Z HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/5
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/UNO.jpg" tvg-name="UNO HD",UNO HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/6
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/G.jpg" tvg-name="GALA HD",GALA HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/9
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/clic.jpg" tvg-name="CLIC HD",CLIC HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/12
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/mundo.jpg" tvg-name="MUNDO HD",MUNDO HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/14
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/cinema.jpg"  tvg-name="CINEMA HD",CINEMA HD
 http://globaltvplus.club:25461/KokolIptv2/PasslI0/15
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/one.jpg"  tvg-name="ONE HD",ONE HD
 http://globaltvplus.club:25461/KokolIptv2/PasslI0/17
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/ESTRELLAS.jpg"  tvg-name="ESTRELLAS HD",ESTRELLAS HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/20
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/tvc.jpg" tvg-name="TVC HD",TVC HD
 http://globaltvplus.club:25461/KokolIptv2/PasslI0/21
@@ -34,26 +58,142 @@ http://globaltvplus.club:25461/KokolIptv2/PasslI0/28
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/hyh.jpg"  tvg-name="H&H HD",H&H HD
 http://globaltvplus.club:25461/KokolIptv2/PasslI0/29
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/E.jpg"  tvg-name="E HD",E HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/30
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/FOXL.jpg"  tvg-name="FOX LIFE HD",FOX LIFE HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/32
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/glitz.jpg"  tvg-name="GLITZ HD",GLITZ HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/33
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/HOLA.jpg"  tvg-name="HOLA TV HD",HOLA TV HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/34
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/LIFE.jpg"  tvg-name="TELE NOVELAS HD",TELENOVELAS HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/35
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/TLN.jpg"  tvg-name="LIFETIM HD",LIFE TIME HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/36
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/TLN.jpg"  tvg-name="LIFETIM HD",LIFE TIME HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/37
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/TBS.jpg"  tvg-name="TBS HD",TBS HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/39
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/TELEMUNDO.jpg"  tvg-name="TELEMUNDO HD",TELEMUNDO HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/41
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/true.jpg"  tvg-name="TRU TV HD",TRU TV HD
 http://globaltvplus.club:25461/KokolIptv2/PasslI0/42
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/CARACOL.jpg"  tvg-name="CARACOL HD",CARACOL HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/43
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/UNICABLE.jpg"  tvg-name="UNICABLE HD",UNICABLE HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/46
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/TVE.jpg"  tvg-name="TVE HD",TVE HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/47
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/STTV.jpg"  tvg-name="STAR TVE HD",STAR TVE HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/48
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/FILMA.jpg"  tvg-name="FILM ARTS HD",FILM ARTS HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/50
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/FOOD.jpg"  tvg-name="FOOD NETWORK HD",FOOD NETWORK HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/51
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/UNIMAS.jpg"  tvg-name="UNIMAS HD",UNIMAS HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/54
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/NICK.jpg"  tvg-name="NICK HD",NICK HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/56
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/NICKJR.jpg"  tvg-name="NICK JR HD",NICK JR HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/57
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/TNICK.jpg"  tvg-name="TEEN NICK HD ",TEEN NICK HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/58
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/CN.jpg"  tvg-name="CARTOON NETWORK HD ",CARTOON NETWORK HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/60
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/DK.jpg"  tvg-name="DISCOVERY KITS HD ",DISCOVERY KITS HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/61
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/DCH.jpg"  tvg-name="DISNEY CHANNEL HD ",DISNEY CHANNEL HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/62
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/discovrthe.jpg"  tvg-name="DISCOVERY THEATER HD",DISCOVERY THEATER HD
 http://globaltvplus.club:25461/KokolIptv2/PasslI0/71
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/WDIS.jpg"  tvg-name="WORLD DISCOVERY HD",WORLD DISCOVERY HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/72
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/id.jpg"  tvg-name="ID DISCOVERY",ID DISCOVERY HD
 http://globaltvplus.club:25461/KokolIptv2/PasslI0/73
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/DTUR.jpg"  tvg-name="DISCOVERY TURBO HD",DISCOVERY TURBO HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/74
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/sci.jpg"  tvg-name="DISCOVERY SCIENCE HD",DISCOVERY SCIENCE HD
 http://globaltvplus.club:25461/KokolIptv2/PasslI0/75
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/HISTORY.jpg"  tvg-name="HISTORY CHANNEL HD",HISTORY CHANNEL HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/77
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/nagio.jpg"  tvg-name="NAT GEO HD",NAT GEO HD
 http://globaltvplus.club:25461/KokolIptv2/PasslI0/79
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/nagW.jpg"  tvg-name="NAT GEO WILD HD",NAT GEO WILD HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/80
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/TLC.jpg"  tvg-name="TLC HD",NAT TLC HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/82
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/GOURMET.jpg"  tvg-name="GOURMET HD",GOURMET HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/83
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/ANIMAL.jpg"  tvg-name="ANIMAL PLANET HD",ANIMAL PLANET HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/84
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/TNT.jpg"  tvg-name="TNT HD",TNT HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/85
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/TNTS.jpg"  tvg-name="TNT SERIES HD",TNT SERIES HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/86
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/FX.jpg"  tvg-name="FX HD",FX HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/87
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/FXM.jpg"  tvg-name="FXM HD",FXM HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/88
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/UNIVERSAL.jpg"  tvg-name="UNIVERSAL HD",UNIVERSAL HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/89
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/golden.jpg"  tvg-name="GOLDEN HD",GOLDEN HD
 http://globaltvplus.club:25461/KokolIptv2/PasslI0/90
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/EDGE.jpg"  tvg-name="EDGE HD",EDGE HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/91
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/GPLUS.jpg"  tvg-name="G PLUS HD",G PLUS HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/92
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/GPREMIER.jpg"  tvg-name="G PREMIER HD",G PREMIER HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/93
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/warner.jpg"  tvg-name="WARNER HD",WARNER HD
 http://globaltvplus.club:25461/KokolIptv2/PasslI0/95
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/SPACE.jpg"  tvg-name="SPACE HD",SPACE HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/96
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/dp.jpg"  tvg-name="DP HD",DP HD
 http://globaltvplus.club:25461/KokolIptv2/PasslI0/97
@@ -61,8 +201,35 @@ http://globaltvplus.club:25461/KokolIptv2/PasslI0/97
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/dp.jpg"  tvg-name="DE PELICULA HD",DE PELICULA HD
 http://globaltvplus.club:25461/KokolIptv2/PasslI0/98
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/PARAMOUT.jpg"  tvg-name="PARAMOUT HD",PARAMOUT HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/99
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/tcm.jpg"  tvg-name="TCM HD",TCM HD
 http://globaltvplus.club:25461/KokolIptv2/PasslI0/101
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/STUDIO.jpg"  tvg-name="STUDIO UNIVERAL HD",STUDIO UNIVERSAL HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/102
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/DHE.jpg"  tvg-name="DHE HD",DHE HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/103
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/CINEMAX.jpg"  tvg-name="CINEMAX HD",CINEMAX HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/106
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/SYFY.jpg"  tvg-name="SYFY HD",SYFY HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/108
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/SONY.jpg"  tvg-name="SONY HD",SONY HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/109
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/MC.jpg"  tvg-name="MC HD",MC HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/110
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/HBO.jpg"  tvg-name="HBO HD ",HBO HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/112
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/HBO2.jpg"  tvg-name="HBO 2 HD ",HBO 2 HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/113
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/mc.jpg" tvg-name="MC HD",MC HD
 http://176.9.111.70:25461/KokolIptv2/PasslI0/110?token=HRMMUBEMQApAXFJTBlVTAVEBVAAKVFUHU1JWAVFeBwEDB1QAV1NXVlNHTRNBRBZQUw45DFwSXlUABB5GEUtUSjlYABNYRlEDQElDRVtdARcIUlBVDgVUUgEHAkhGSFhcRAtGAFBVVARASUNUSkQBR1wCCjpcVRINUlEQXgpNXVRKEwtfPQAHXQMLBRMIElQXHkEPFkgSXgpEWF5IRlpYTBRQEFRAXkABUFVQEx4SB1pHDRIXQRJeRnV7EEhGXUlMA18XWA0KQApAERITHhINRm0RAxZMQgEFXFFARl4aARpKEwlQGjsBXwwLBFJGWQtbQUFcRwkAVFQTGBAJC1ZYTAlDO0ELAEAKQFRXCQYSGQ==
@@ -70,8 +237,20 @@ http://176.9.111.70:25461/KokolIptv2/PasslI0/110?token=HRMMUBEMQApAXFJTBlVTAVEBV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/hbof.jpg" tvg-name="HBO FAMILY HD",HBO FAMILY HD
 http://globaltvplus.club:25461/KokolIptv2/PasslI0/114
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/hbom.jpg" tvg-name="HBO MUNDI HD",HBO MUNDI HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/hbop.jpg" tvg-name="HBO PLUS HD",HBO PLUS HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/115
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/hbos.jpg" tvg-name="HBO SIGNATURE HD",HBO SIGNATURE HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/116
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/hboM.jpg" tvg-name="HBO MUNDI HD",HBO MUNDI HD
 http://globaltvplus.club:25461/KokolIptv2/PasslI0/117
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/hboPOP.jpg" tvg-name="HBO POP HD",HBO POP HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/118
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/HBOE.jpg" tvg-name="HBO EXTREME HD",HBO EXTREME HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/119
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/foxs.jpg" tvg-name="FOX SERIES HD",FOX SERIES HD
 http://globaltvplus.club:25461/KokolIptv2/PasslI0/120
@@ -79,8 +258,78 @@ http://globaltvplus.club:25461/KokolIptv2/PasslI0/120
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/foxc.jpg"  tvg-name="FOX CINEMA HD",FOX CINEMA HD
 http://globaltvplus.club:25461/KokolIptv2/PasslI0/122
 
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/foxACT.jpg"  tvg-name="FOX ACTION HD",FOX ACTION HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/123
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/foxcs.jpg"  tvg-name="FOX CLASSICS HD",FOX CLASSIC HD
 http://globaltvplus.club:25461/KokolIptv2/PasslI0/124
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/foxfa.jpg"  tvg-name="FOX FAMILY HD",FOX FAMILY HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/125
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/foxcm.jpg"  tvg-name="FOX COMEDY HD",FOX COMEDY HD
 http://globaltvplus.club:25461/KokolIptv2/PasslI0/126
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/foxspo.jpg"  tvg-name="FOX SPORTS HD",FOX SPORTS HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/127
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/SSTV.jpg"  tvg-name="SSTV HD",SSTV HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/129
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/ESPND.jpg"  tvg-name="ESPN DEPORTES HD",ESPN DEPORTES HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/130
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/ESPN2.jpg"  tvg-name="ESPN DEPORTES 2 HD",ESPN DEPORTES 2 HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/132
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/ESPN3.jpg"  tvg-name="ESPN DEPORTES 3 HD",ESPN DEPORTES 3 HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/133
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/ESPNEX.jpg"  tvg-name="ESPN DEPORTES EXTRA HD",ESPN DEPORTES EXTRA HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/134
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/FOXSPO1.jpg"  tvg-name="FOX SPORTS 1 HD",FOX 1 SPORTS HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/136
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/FOXSPO3.jpg"  tvg-name="FOX SPORTS 3 HD",FOX 3 SPORTS HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/138
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/NFL.jpg"  tvg-name="NFLNETWORK HD",NFLNETWORK HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/142
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/NBATV.jpg"  tvg-name="NBA TV HD",NBA TV HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/144
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/TELEH.jpg"  tvg-name="TELEHIT MUSICA PLUS HD",ELEHIT MUSICA PLUS HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/152
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/CLAROS.jpg"  tvg-name="CLARO SPORTS HD",CLARO SPORTS PLUS HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/155
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/DW.jpg"  tvg-name="DW HD",DW HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/164
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/HGTV.jpg"  tvg-name="GHTV HD",HGTV HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/167
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/ADN40.jpg"  tvg-name="ADN40 HD",ADN40  HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/168
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/CNN.jpg"  tvg-name="CNN HD",CNN  HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/169
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/MTV.jpg"  tvg-name="MTV HD",MTV  HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/174
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/COCINA.jpg"  tvg-name="CANAL COCINA HD",CANAL COCINA  HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/298
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/AXNW.jpg"  tvg-name="AXN WHITE HD",AXN WHITE HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/298
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/AXNN.jpg"  tvg-name="AXN HD",AXN HD
+http://globaltvplus.club:25461/KokolIptv2/PasslI0/304
+
