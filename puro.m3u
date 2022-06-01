@@ -1,336 +1,585 @@
-#EXTM3U @LaQuay https://github.com/LaQuay/TDTChannels
-#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml"
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/estrelas.jpg" tvg-name="LAS ESTRELLAS 2 HD",LAS ESTRELLAS 2 HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/2
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/5.jpg" tvg-name="CANAL 5 HD",CANAL 5 HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/3
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/imagen.jpg" tvg-name="IMAGEN HD",IMAGEN 5 HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/Z.jpg" tvg-name="Z HD",Z HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/5
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/UNO.jpg" tvg-name="UNO HD",UNO HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/6
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/G.jpg" tvg-name="GALA HD",GALA HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/9
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/clic.jpg" tvg-name="CLIC HD",CLIC HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/12
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/mundo.jpg" tvg-name="MUNDO HD",MUNDO HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/14
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/cinema.jpg"  tvg-name="CINEMA HD",CINEMA HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/15
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/one.jpg"  tvg-name="ONE HD",ONE HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/17
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/ESTRELLAS.jpg"  tvg-name="ESTRELLAS HD",ESTRELLAS HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/20
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/tvc.jpg" tvg-name="TVC HD",TVC HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/21
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/fox.jpg"  tvg-name="FOX CHANNEL HD",FOX CHANNEL HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/ayes.jpg"  tvg-name="A&E HD",A&E HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/23
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/univisionei.jpg"  tvg-name="UNIVISION EI HD",UNIVISION EI HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/24
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/axn.jpg"  tvg-name="AXN HD",AXN HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/25
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/amc.jpg"  tvg-name="AMC HD",AMC HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/26
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/cc.jpg"  tvg-name="COMEDY CENTRAL HD",COMEDY CENTRAL HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/28
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/hyh.jpg"  tvg-name="H&H HD",H&H HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/29
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/E.jpg"  tvg-name="E HD",E HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/30
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/FOXL.jpg"  tvg-name="FOX LIFE HD",FOX LIFE HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/32
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/glitz.jpg"  tvg-name="GLITZ HD",GLITZ HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/33
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/HOLA.jpg"  tvg-name="HOLA TV HD",HOLA TV HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/34
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/LIFE.jpg"  tvg-name="TELE NOVELAS HD",TELENOVELAS HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/35
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/TLN.jpg"  tvg-name="LIFETIM HD",LIFE TIME HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/36
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/TLN.jpg"  tvg-name="LIFETIM HD",LIFE TIME HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/37
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/TBS.jpg"  tvg-name="TBS HD",TBS HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/39
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/TELEMUNDO.jpg"  tvg-name="TELEMUNDO HD",TELEMUNDO HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/41
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/true.jpg"  tvg-name="TRU TV HD",TRU TV HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/42
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/CARACOL.jpg"  tvg-name="CARACOL HD",CARACOL HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/43
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/UNICABLE.jpg"  tvg-name="UNICABLE HD",UNICABLE HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/46
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/TVE.jpg"  tvg-name="TVE HD",TVE HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/47
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/STTV.jpg"  tvg-name="STAR TVE HD",STAR TVE HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/48
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/FILMA.jpg"  tvg-name="FILM ARTS HD",FILM ARTS HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/50
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/FOOD.jpg"  tvg-name="FOOD NETWORK HD",FOOD NETWORK HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/51
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/UNIMAS.jpg"  tvg-name="UNIMAS HD",UNIMAS HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/54
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/NICK.jpg"  tvg-name="NICK HD",NICK HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/56
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/NICKJR.jpg"  tvg-name="NICK JR HD",NICK JR HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/57
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/TNICK.jpg"  tvg-name="TEEN NICK HD ",TEEN NICK HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/58
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/CN.jpg"  tvg-name="CARTOON NETWORK HD ",CARTOON NETWORK HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/60
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/DK.jpg"  tvg-name="DISCOVERY KITS HD ",DISCOVERY KITS HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/61
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/DCH.jpg"  tvg-name="DISNEY CHANNEL HD ",DISNEY CHANNEL HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/62
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/discovrthe.jpg"  tvg-name="DISCOVERY THEATER HD",DISCOVERY THEATER HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/71
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/WDIS.jpg"  tvg-name="WORLD DISCOVERY HD",WORLD DISCOVERY HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/72
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/id.jpg"  tvg-name="ID DISCOVERY",ID DISCOVERY HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/73
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/DTUR.jpg"  tvg-name="DISCOVERY TURBO HD",DISCOVERY TURBO HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/74
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/sci.jpg"  tvg-name="DISCOVERY SCIENCE HD",DISCOVERY SCIENCE HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/75
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/HISTORY.jpg"  tvg-name="HISTORY CHANNEL HD",HISTORY CHANNEL HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/77
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/nagio.jpg"  tvg-name="NAT GEO HD",NAT GEO HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/79
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/nagW.jpg"  tvg-name="NAT GEO WILD HD",NAT GEO WILD HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/80
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/TLC.jpg"  tvg-name="TLC HD",NAT TLC HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/82
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/GOURMET.jpg"  tvg-name="GOURMET HD",GOURMET HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/83
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/ANIMAL.jpg"  tvg-name="ANIMAL PLANET HD",ANIMAL PLANET HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/84
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/TNT.jpg"  tvg-name="TNT HD",TNT HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/85
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/TNTS.jpg"  tvg-name="TNT SERIES HD",TNT SERIES HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/86
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/FX.jpg"  tvg-name="FX HD",FX HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/87
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/FXM.jpg"  tvg-name="FXM HD",FXM HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/88
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/UNIVERSAL.jpg"  tvg-name="UNIVERSAL HD",UNIVERSAL HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/89
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/golden.jpg"  tvg-name="GOLDEN HD",GOLDEN HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/90
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/EDGE.jpg"  tvg-name="EDGE HD",EDGE HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/91
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/GPLUS.jpg"  tvg-name="G PLUS HD",G PLUS HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/92
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/GPREMIER.jpg"  tvg-name="G PREMIER HD",G PREMIER HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/93
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/warner.jpg"  tvg-name="WARNER HD",WARNER HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/95
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/SPACE.jpg"  tvg-name="SPACE HD",SPACE HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/96
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/dp.jpg"  tvg-name="DP HD",DP HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/97
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/dp.jpg"  tvg-name="DE PELICULA HD",DE PELICULA HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/98
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/PARAMOUT.jpg"  tvg-name="PARAMOUT HD",PARAMOUT HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/99
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/tcm.jpg"  tvg-name="TCM HD",TCM HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/101
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/STUDIO.jpg"  tvg-name="STUDIO UNIVERAL HD",STUDIO UNIVERSAL HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/102
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/DHE.jpg"  tvg-name="DHE HD",DHE HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/103
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/CINEMAX.jpg"  tvg-name="CINEMAX HD",CINEMAX HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/106
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/SYFY.jpg"  tvg-name="SYFY HD",SYFY HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/108
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/SONY.jpg"  tvg-name="SONY HD",SONY HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/109
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/MC.jpg"  tvg-name="MC HD",MC HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/110
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/HBO.jpg"  tvg-name="HBO HD ",HBO HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/112
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/HBO2.jpg"  tvg-name="HBO 2 HD ",HBO 2 HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/113
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/mc.jpg" tvg-name="MC HD",MC HD
-http://176.9.111.70:25461/KokolIptv2/PasslI0/110?token=HRMMUBEMQApAXFJTBlVTAVEBVAAKVFUHU1JWAVFeBwEDB1QAV1NXVlNHTRNBRBZQUw45DFwSXlUABB5GEUtUSjlYABNYRlEDQElDRVtdARcIUlBVDgVUUgEHAkhGSFhcRAtGAFBVVARASUNUSkQBR1wCCjpcVRINUlEQXgpNXVRKEwtfPQAHXQMLBRMIElQXHkEPFkgSXgpEWF5IRlpYTBRQEFRAXkABUFVQEx4SB1pHDRIXQRJeRnV7EEhGXUlMA18XWA0KQApAERITHhINRm0RAxZMQgEFXFFARl4aARpKEwlQGjsBXwwLBFJGWQtbQUFcRwkAVFQTGBAJC1ZYTAlDO0ELAEAKQFRXCQYSGQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/hbof.jpg" tvg-name="HBO FAMILY HD",HBO FAMILY HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/114
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/hbop.jpg" tvg-name="HBO PLUS HD",HBO PLUS HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/115
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/hbos.jpg" tvg-name="HBO SIGNATURE HD",HBO SIGNATURE HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/116
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/hboM.jpg" tvg-name="HBO MUNDI HD",HBO MUNDI HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/117
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/hboPOP.jpg" tvg-name="HBO POP HD",HBO POP HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/118
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/HBOE.jpg" tvg-name="HBO EXTREME HD",HBO EXTREME HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/119
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/foxs.jpg" tvg-name="FOX SERIES HD",FOX SERIES HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/120
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/foxc.jpg"  tvg-name="FOX CINEMA HD",FOX CINEMA HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/122
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/foxACT.jpg"  tvg-name="FOX ACTION HD",FOX ACTION HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/123
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/foxcs.jpg"  tvg-name="FOX CLASSICS HD",FOX CLASSIC HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/124
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/foxfa.jpg"  tvg-name="FOX FAMILY HD",FOX FAMILY HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/125
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/foxcm.jpg"  tvg-name="FOX COMEDY HD",FOX COMEDY HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/126
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/foxspo.jpg"  tvg-name="FOX SPORTS HD",FOX SPORTS HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/127
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/SSTV.jpg"  tvg-name="SSTV HD",SSTV HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/129
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/ESPND.jpg"  tvg-name="ESPN DEPORTES HD",ESPN DEPORTES HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/130
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/ESPN2.jpg"  tvg-name="ESPN DEPORTES 2 HD",ESPN DEPORTES 2 HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/132
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/ESPN3.jpg"  tvg-name="ESPN DEPORTES 3 HD",ESPN DEPORTES 3 HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/133
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/ESPNEX.jpg"  tvg-name="ESPN DEPORTES EXTRA HD",ESPN DEPORTES EXTRA HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/134
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/FOXSPO1.jpg"  tvg-name="FOX SPORTS 1 HD",FOX 1 SPORTS HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/136
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/FOXSPO3.jpg"  tvg-name="FOX SPORTS 3 HD",FOX 3 SPORTS HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/138
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/NFL.jpg"  tvg-name="NFLNETWORK HD",NFLNETWORK HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/142
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/NBATV.jpg"  tvg-name="NBA TV HD",NBA TV HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/144
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/TELEH.jpg"  tvg-name="TELEHIT MUSICA PLUS HD",ELEHIT MUSICA PLUS HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/152
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/CLAROS.jpg"  tvg-name="CLARO SPORTS HD",CLARO SPORTS PLUS HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/155
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/DW.jpg"  tvg-name="DW HD",DW HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/164
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/HGTV.jpg"  tvg-name="GHTV HD",HGTV HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/167
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/ADN40.jpg"  tvg-name="ADN40 HD",ADN40  HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/168
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/CNN.jpg"  tvg-name="CNN HD",CNN  HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/169
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/MTV.jpg"  tvg-name="MTV HD",MTV  HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/174
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/COCINA.jpg"  tvg-name="CANAL COCINA HD",CANAL COCINA  HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/298
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/AXNW.jpg"  tvg-name="AXN WHITE HD",AXN WHITE HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/298
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/felixgomez1968/puro/main/AXNN.jpg"  tvg-name="AXN HD",AXN HD
-http://globaltvplus.club:25461/KokolIptv2/PasslI0/304
-
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="Gourmet1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Uh7stYp.png" group-title="Cocina",El Patio de Ogai Memorias TV (Navidad Pa Goza)
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/72597
+
+#EXTINF:-1 tvg-id="Gourmet1.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title="Cocina",El Gourmet FHD 1
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/8691
+
+#EXTINF:-1 tvg-id="food1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/187033
+#EXTINF:-1 tvg-id="food2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9116
+
+#EXTINF:-1 tvg-id="cocina1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/0VWubHZ.png" group-title="Cocina",Canal Cocina HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1167
+#EXTINF:-1 tvg-id="cocina2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/0VWubHZ.png" group-title="Cocina",Decasa HD FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2771
+
+#EXTINF:-1 tvg-id="discovery1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel HD
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/48706
+#EXTINF:-1 tvg-id="discovery2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel FHD
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45713
+
+#EXTINF:-1 tvg-id="discoveryt1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/lf1TCEg.png" group-title="Discovery",Discovery Theater HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273701
+#EXTINF:-1 tvg-id="discoveryt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/lf1TCEg.png" group-title="Discovery",Discovery Theater FHD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3022
+#EXTINF:-1 tvg-id="discoveryt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/lf1TCEg.png" group-title="Discovery",Discovery Theater HD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9151
+#EXTINF:-1 tvg-id="discoveryt4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/lf1TCEg.png" group-title="Discovery",Discovery Theater FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273741
+
+#EXTINF:-1 tvg-id="discovery3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Investigation Discovery UHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3063
+#EXTINF:-1 tvg-id="discovery4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Investigation Discovery HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9056
+#EXTINF:-1 tvg-id="discovery5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Investigation Discovery FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273732
+#EXTINF:-1 tvg-id="discovery8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Investigation Discovery UHD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/278086
+#EXTINF:-1 tvg-id="discovery9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Investigation Discovery HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3063
+#EXTINF:-1 tvg-id="discovery10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Investigation Discovery FHD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273703
+
+#EXTINF:-1 tvg-id="discoveryh1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9110
+#EXTINF:-1 tvg-id="discoveryh2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H HD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/282881
+#EXTINF:-1 tvg-id="discoveryh3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H HD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172593
+#EXTINF:-1 tvg-id="discoveryh4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H FHD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273857
+
+
+#EXTINF:-1 tvg-id="discoverytur1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3023
+#EXTINF:-1 tvg-id="discoverytur2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273702
+#EXTINF:-1 tvg-id="discoverytur3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo HD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9058
+#EXTINF:-1 tvg-id="discoverytur4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/282878
+
+
+#EXTINF:-1 tvg-id="discoverycien1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Science HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273700
+#EXTINF:-1 tvg-id="discoverycien2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Science FHD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3021
+#EXTINF:-1 tvg-id="discoverycien3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Science HD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9059
+#EXTINF:-1 tvg-id="discoverycien4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Science FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/282879
+
+
+#EXTINF:-1 tvg-id="discoveryw1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World HD ES
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1162
+#EXTINF:-1 tvg-id="discoveryw2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World FHD ES
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273677
+#EXTINF:-1 tvg-id="discoveryw3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World FHD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172591
+#EXTINF:-1 tvg-id="discoveryw4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World HD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/290064
+#EXTINF:-1 tvg-id="discoveryw5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/8894
+#EXTINF:-1 tvg-id="discoveryw6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World FHD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273727
+#EXTINF:-1 tvg-id="discoveryw7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9061
+#EXTINF:-1 tvg-id="discoveryw8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World HD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/279861
+
+#EXTINF:-1 tvg-id="discoveryf1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/vVZOkRT.png" group-title="Discovery",Discovery Familia
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/281672
+#EXTINF:-1 tvg-id="discoveryf2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/vVZOkRT.png" group-title="Discovery",Discovery Familia HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/282893
+#EXTINF:-1 tvg-id="discp1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yimfKbI.png" group-title="Discovery",Caza y Pesca FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1165
+#EXTINF:-1 tvg-id="disg1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/e268KEZ.png" group-title="Discovery",Garage TV HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/23915
+#EXTINF:-1 tvg-id="disg2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/e268KEZ.png" group-title="Discovery",Garage TV FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286054
+
+
+#EXTINF:-1 tvg-id="h1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel HD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1155
+#EXTINF:-1 tvg-id="h4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/274305
+
+#EXTINF:-1 tvg-id="h21.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/VeSbd7b.png" group-title="History",History 2 HD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/40831
+#EXTINF:-1 tvg-id="h22.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/VeSbd7b.png" group-title="History",History 2 HD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/279301
+
+
+#EXTINF:-1 tvg-id="nat1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/G38N8Jh.png" group-title="Nat Geo",NAT GEO FHD ES
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/274082
+#EXTINF:-1 tvg-id="nat2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/G38N8Jh.png" group-title="Nat Geo",NAT GEO HD ES
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/274082
+#EXTINF:-1 tvg-id="nat5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/G38N8Jh.png" group-title="Nat Geo",NAT GEO HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3073
+#EXTINF:-1 tvg-id="nat6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/G38N8Jh.png" group-title="Nat Geo",NAT GEO FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/8725
+#EXTINF:-1 tvg-id="nat7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/G38N8Jh.png" group-title="Nat Geo",NAT GEO FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/274111
+
+#EXTINF:-1 tvg-id="nat8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/G38N8Jh.png" group-title="Nat Geo",Nat Geo Mundo FHD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/267311
+#EXTINF:-1 tvg-id="nat9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/G38N8Jh.png" group-title="Nat Geo",Nat Geo Mundo HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/274184
+
+#EXTINF:-1 tvg-id="natw1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD HD ES
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9072
+#EXTINF:-1 tvg-id="natw2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD FHD ES
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/295923
+#EXTINF:-1 tvg-id="natw3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD HD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38698
+#EXTINF:-1 tvg-id="natw4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD FHD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/274133
+#EXTINF:-1 tvg-id="natw5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38698
+
+#EXTINF:-1 tvg-id="anim3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/VJsLK6F.png" group-title="Animal Planet",ANIMAL PLANET HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2997
+#EXTINF:-1 tvg-id="anim4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/VJsLK6F.png" group-title="Animal Planet",ANIMAL PLANET FHD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273377
+#EXTINF:-1 tvg-id="anim5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/VJsLK6F.png" group-title="Animal Planet",ANIMAL PLANET HD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9113
+#EXTINF:-1 tvg-id="anim6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/VJsLK6F.png" group-title="Animal Planet",ANIMAL PLANET FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9113
+
+#EXTINF:-1 tvg-id="hbo1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO FHD ES
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/285191
+#EXTINF:-1 tvg-id="hbo2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO FHD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38690
+#EXTINF:-1 tvg-id="hbo3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO FHD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3055
+#EXTINF:-1 tvg-id="hbo4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/At51chD.png" group-title="Canales Peliculas",HBO 2 HD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/29301
+#EXTINF:-1 tvg-id="hbo5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/At51chD.png" group-title="Canales Peliculas",HBO 2 HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3056
+#EXTINF:-1 tvg-id="hbo6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/xHWEOkq.png" group-title="Canales Peliculas",HBO+ HD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38690
+#EXTINF:-1 tvg-id="hbo7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/xHWEOkq.png" group-title="Canales Peliculas",HBO+ HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3058
+#EXTINF:-1 tvg-id="hbs1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO SIGNATURE HD ES
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/91989
+#EXTINF:-1 tvg-id="hboe1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/q3a429L.png" group-title="Canales Peliculas",HBO XTREME HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/285192
+#EXTINF:-1 tvg-id="hboe12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/q3a429L.png" group-title="Canales Peliculas",HBO XTREME FHD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172272
+#EXTINF:-1 tvg-id="hboe13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/q3a429L.png" group-title="Canales Peliculas",HBO XTREME HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/148927
+#EXTINF:-1 tvg-id="hbf1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7XNdoFG.png" group-title="Canales Peliculas",HBO FAMILY HD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38687
+#EXTINF:-1 tvg-id="hbf2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7XNdoFG.png" group-title="Canales Peliculas",HBO FAMILY HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3057
+#EXTINF:-1 tvg-id="hbom1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gTs2Lus.png" group-title="Canales Peliculas",HBO MUNDI HD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38701
+#EXTINF:-1 tvg-id="hbom2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gTs2Lus.png" group-title="Canales Peliculas",HBO MUNDI HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/226015
+#EXTINF:-1 tvg-id="hbs1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO SIGNATURE HD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/49289
+#EXTINF:-1 tvg-id="hbs2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO SIGNATURE HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3059
+#EXTINF:-1 tvg-id="hbop1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RU1za2l.png" group-title="Canales Peliculas",HBO POP HD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/29305
+#EXTINF:-1 tvg-id="hbop2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RU1za2l.png" group-title="Canales Peliculas",HBO POP FHD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3069
+
+#EXTINF:-1 tvg-id="fox1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Q8r3byL.png" group-title="Canales Peliculas",FOX FHD ES
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/29559
+#EXTINF:-1 tvg-id="fox2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Q8r3byL.png" group-title="Canales Peliculas",FOX FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1158
+
+#EXTINF:-1 tvg-id="fox4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Q8r3byL.png" group-title="Canales Peliculas",FOX 43 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/151052
+#EXTINF:-1 tvg-id="fox5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r3ihj1I.png" group-title="Canales Peliculas",Fox Life FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/295164
+#EXTINF:-1 tvg-id="fox6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r3ihj1I.png" group-title="Canales Peliculas",Fox Life HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/295922
+
+#EXTINF:-1 tvg-id="fx1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/151052
+#EXTINF:-1 tvg-id="fx2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX HD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172268
+#EXTINF:-1 tvg-id="fx3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX FHD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/34561
+
+#EXTINF:-1 tvg-id="glis1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gAAo4cL.png" group-title="Canales Peliculas",Glitz HD MX
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/4248
+
+#EXTINF:-1 tvg-id="gole1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/8fK98Ze.png" group-title="Canales Peliculas",Golden Edge HD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9076
+#EXTINF:-1 tvg-id="golp2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PPxjbAZ.png" group-title="Canales Peliculas",Golden Plus MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3051
+#EXTINF:-1 tvg-id="gold3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/J8chRLw.png" group-title="Canales Peliculas",Golden Premier FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3051
+
+#EXTINF:-1 tvg-id="sy1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/0K9OWqT.png" group-title="Canales Peliculas",SYFY FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1135
+#EXTINF:-1 tvg-id="sy2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/0K9OWqT.png" group-title="Canales Peliculas",SYFY HD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/49316
+#EXTINF:-1 tvg-id="sy3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/0K9OWqT.png" group-title="Canales Peliculas",SYFY HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/5802
+#EXTINF:-1 tvg-id="sy4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/0K9OWqT.png" group-title="Canales Peliculas",SYFY HD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9081
+
+#EXTINF:-1 tvg-id="tb1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TBS HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/5803
+#EXTINF:-1 tvg-id="tb2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TBS HD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9124
+#EXTINF:-1 tvg-id="tb3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TBS HD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38710
+
+#EXTINF:-1 tvg-id="tcm1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TCM HD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38710
+#EXTINF:-1 tvg-id="tcm2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TCM HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3085
+#EXTINF:-1 tvg-id="tcm3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TCM HD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9131
+#EXTINF:-1 tvg-id="tcm4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TCM HD ES
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1134
+
+#EXTINF:-1 tvg-id="ae1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E HD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38648
+#EXTINF:-1 tvg-id="ae2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E FHD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/290191
+#EXTINF:-1 tvg-id="ae3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E FHD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/5759
+#EXTINF:-1 tvg-id="ae4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E HD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9117
+#EXTINF:-1 tvg-id="ae5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/275193
+#EXTINF:-1 tvg-id="ae6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E FHD ES
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/7731
+#EXTINF:-1 tvg-id="ae7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E HD ES
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/275191
+
+#EXTINF:-1 tvg-id="ax1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD ES
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1172
+#EXTINF:-1 tvg-id="ax2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38651
+#EXTINF:-1 tvg-id="ax3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2998
+#EXTINF:-1 tvg-id="ax4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9138
+#EXTINF:-1 tvg-id="ax5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN White FHD ES
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1171
+
+#EXTINF:-1 tvg-id="cc1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9128
+#EXTINF:-1 tvg-id="cc2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38655
+
+#EXTINF:-1 tvg-id="cm2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax FHD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/5770
+
+#EXTINF:-1 tvg-id="cmc1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD ES
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1164
+#EXTINF:-1 tvg-id="cmc2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/49261
+#EXTINF:-1 tvg-id="cmc4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9106
+
+#EXTINF:-1 tvg-id="dp1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/h4setR5.png" group-title="Canales Peliculas",De Pelicula MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/31740
+
+#EXTINF:-1 tvg-id="dc1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/aS1bw9l.png" group-title="Canales Peliculas",Distrito Comedia HD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9126
+
+#EXTINF:-1 tvg-id="ee1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Nxxe4Dd.png" group-title="Canales Peliculas",E! Entertaiment HD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38668
+#EXTINF:-1 tvg-id="ee2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Nxxe4Dd.png" group-title="Canales Peliculas",E! Entertaiment FHD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/275212
+#EXTINF:-1 tvg-id="ee3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Nxxe4Dd.png" group-title="Canales Peliculas",E! Entertaiment FHD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3029
+#EXTINF:-1 tvg-id="ee4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Nxxe4Dd.png" group-title="Canales Peliculas",E! Entertaiment FHD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/279902
+#EXTINF:-1 tvg-id="ee5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Nxxe4Dd.png" group-title="Canales Peliculas",E! Entertaiment FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/31760
+
+#EXTINF:-1 tvg-id="ee6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Nxxe4Dd.png" group-title="Canales Peliculas",E! Entertaiment FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/295988
+
+#EXTINF:-1 tvg-id="far1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gqEzpRt.png" group-title="Canales Peliculas",Film & Arts HD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9089
+#EXTINF:-1 tvg-id="far2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gqEzpRt.png" group-title="Canales Peliculas",Film & Arts HD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38678
+
+#EXTINF:-1 tvg-id="pc1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Channel FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9146
+#EXTINF:-1 tvg-id="pc2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Channel FHD ES
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2209
+#EXTINF:-1 tvg-id="pc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Channel FHD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38705
+#EXTINF:-1 tvg-id="pc4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Channel FHD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3077
+
+#EXTINF:-1 tvg-id="s1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",Sony Channel HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3081
+#EXTINF:-1 tvg-id="s2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",Sony Channel HD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9115
+#EXTINF:-1 tvg-id="s3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",Sony Channel HD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38708
+
+#EXTINF:-1 tvg-id="sp1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jQi9xVj.png" group-title="Canales Peliculas",Space Sur HD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/14542
+#EXTINF:-1 tvg-id="sp2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jQi9xVj.png" group-title="Canales Peliculas",Space HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/34566
+#EXTINF:-1 tvg-id="sp3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jQi9xVj.png" group-title="Canales Peliculas",Space FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9136
+
+#EXTINF:-1 tvg-id="str1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star FHD ES
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/31779
+#EXTINF:-1 tvg-id="str2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star FHD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/280374
+#EXTINF:-1 tvg-id="str3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star FHD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3035
+#EXTINF:-1 tvg-id="str4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/76401
+#EXTINF:-1 tvg-id="str5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star HD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/280386
+
+#EXTINF:-1 tvg-id="su1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal HD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9071
+#EXTINF:-1 tvg-id="su2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal HD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/280367
+#EXTINF:-1 tvg-id="su3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3083
+
+#EXTINF:-1 tvg-id="tnt1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD ES
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2187
+#EXTINF:-1 tvg-id="tnt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38720
+#EXTINF:-1 tvg-id="tnt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9140
+
+#EXTINF:-1 tvg-id="tnts1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yjriT0J.png" group-title="Canales Peliculas",TNT Series HD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3109
+#EXTINF:-1 tvg-id="tnts2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yjriT0J.png" group-title="Canales Peliculas",TNT Series HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/285147
+
+#EXTINF:-1 tvg-id="wan1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Dv7p7sm.png" group-title="Canales Peliculas",Warner TV FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9142
+#EXTINF:-1 tvg-id="wan2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Dv7p7sm.png" group-title="Canales Peliculas",Warner TV FHD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38722
+#EXTINF:-1 tvg-id="wan3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Dv7p7sm.png" group-title="Canales Peliculas",Warner TV FHD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/60006
+
+#EXTINF:-1 tvg-id="st1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Action HD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/76401
+#EXTINF:-1 tvg-id="st2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Comedy HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3034
+#EXTINF:-1 tvg-id="st3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Black FHD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/295814
+#EXTINF:-1 tvg-id="st4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Cinema East HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38493
+#EXTINF:-1 tvg-id="st5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Cinema HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38495
+#EXTINF:-1 tvg-id="st6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz East HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/65764
+#EXTINF:-1 tvg-id="st7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Edge West FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38499
+#EXTINF:-1 tvg-id="st8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Encore Action FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38498
+#EXTINF:-1 tvg-id="st9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Encore Black FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/47925
+#EXTINF:-1 tvg-id="st10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Encore Classic FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/47924
+#EXTINF:-1 tvg-id="st11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Encore Family HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/47926
+#EXTINF:-1 tvg-id="st12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Encore HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38500
+#EXTINF:-1 tvg-id="st13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Encore Suspense HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38501
+#EXTINF:-1 tvg-id="st14.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Encore Suspense HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/47928
+#EXTINF:-1 tvg-id="st16.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz In Black HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38504
+
+#EXTINF:-1 tvg-id="atre1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/J9W2nV7.png" group-title="Canales Peliculas",A3 Cine HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/283299
+
+#EXTINF:-1 tvg-id="atre2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/J9W2nV7.png" group-title="Canales Peliculas",Atres Series
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9102
+
+#EXTINF:-1 tvg-id="ft1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/sZLTYpZ.png" group-title="Canales Peliculas",Lifetime FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38689
+#EXTINF:-1 tvg-id="ft2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/sZLTYpZ.png" group-title="Canales Peliculas",Lifetime UHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3066
+#EXTINF:-1 tvg-id="ft3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/sZLTYpZ.png" group-title="Canales Peliculas",Lifetime FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9112
+
+#EXTINF:-1 tvg-id="amc1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38654
+#EXTINF:-1 tvg-id="amc2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2996
+
+#EXTINF:-1 tvg-id="cdm1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/wCZ11FM.png" group-title="Canales Peliculas",Cinema Dinamita FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3010
+
+
+#EXTINF:-1 tvg-id="nov1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Boston HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38506
+#EXTINF:-1 tvg-id="nov2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Chicago HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/290482
+#EXTINF:-1 tvg-id="nov3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Denver HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172614
+#EXTINF:-1 tvg-id="nov4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Fresno HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172615
+#EXTINF:-1 tvg-id="nov5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Houston HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172618
+#EXTINF:-1 tvg-id="nov6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Internacional FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/49318
+#EXTINF:-1 tvg-id="nov7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Las Vegas HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172619
+#EXTINF:-1 tvg-id="nov8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Los Angeles HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172620
+#EXTINF:-1 tvg-id="nov9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Miami FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/295850
+#EXTINF:-1 tvg-id="nov10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo New York HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172624
+#EXTINF:-1 tvg-id="nov11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Noticias FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/267316
+#EXTINF:-1 tvg-id="nov12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Orlando Florida HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/295848
+#EXTINF:-1 tvg-id="nov13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Philadelphia HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3119
+#EXTINF:-1 tvg-id="nov14.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Phoenix HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172625
+#EXTINF:-1 tvg-id="nov15.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo San Antonio HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172626
+#EXTINF:-1 tvg-id="nov16.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo San francisco HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172630
+#EXTINF:-1 tvg-id="nov17.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Tampa HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/295847
+#EXTINF:-1 tvg-id="nov18.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Tucson HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172627
+#EXTINF:-1 tvg-id="nov19.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Washington HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/295849
+
+#EXTINF:-1 tvg-id="univ1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision Atlanta FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172645
+#EXTINF:-1 tvg-id="univ2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision Cleveland HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172647
+#EXTINF:-1 tvg-id="univ3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision Fort Lauderdale FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172655
+#EXTINF:-1 tvg-id="univ4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision Los Angeles HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172659
+#EXTINF:-1 tvg-id="univ5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision Miami FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3124
+#EXTINF:-1 tvg-id="univ6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision Noticias HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172641
+#EXTINF:-1 tvg-id="univ7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision Phoenix HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/295844
+#EXTINF:-1 tvg-id="univ8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision Raleigh HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172652
+#EXTINF:-1 tvg-id="univ9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision Salt Lake HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172663
+#EXTINF:-1 tvg-id="univ10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision San Antonio HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172649
+#EXTINF:-1 tvg-id="univ11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision San Francisco HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/295845
+#EXTINF:-1 tvg-id="univ12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision TV Novelas HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/295846
+#EXTINF:-1 tvg-id="univ13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision West HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172661
+
+
+#EXTINF:-1 tvg-id="gala1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QRcgf3F.png" group-title="Galavision",Galavision FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/71860
+
+#EXTINF:-1 tvg-id="unim1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/193457
+#EXTINF:-1 tvg-id="unim2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas Austin HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172675
+#EXTINF:-1 tvg-id="unim3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas East HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172676
+#EXTINF:-1 tvg-id="unim4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/187040
+#EXTINF:-1 tvg-id="unim5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas Fresno HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172670
+#EXTINF:-1 tvg-id="unim6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas Houston HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172679
+#EXTINF:-1 tvg-id="unim7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas Las Vegas HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172673
+#EXTINF:-1 tvg-id="unim8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas NY HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172682
+#EXTINF:-1 tvg-id="unim9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas Philadelphia HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/147654
+#EXTINF:-1 tvg-id="unim10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas Phoenix HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172677
+#EXTINF:-1 tvg-id="unim11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas Sacramento HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172669
+#EXTINF:-1 tvg-id="unim12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas Salt Lake HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172672
+#EXTINF:-1 tvg-id="unim13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas West HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/172678
+#EXTINF:-1 tvg-id="unim14.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Universal Cinema HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/291225
+
+
+#EXTINF:-1 tvg-id="t1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Novelas",Univision TLNovelas
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/295846
+#EXTINF:-1 tvg-id="t2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/oTlRGXU.png" group-title="Novelas",Hola! TV HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3061
+#EXTINF:-1 tvg-id="t3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/oTlRGXU.png" group-title="Novelas",Hola! TV HD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/285202
+#EXTINF:-1 tvg-id="t4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/oTlRGXU.png" group-title="Novelas",Hola! TV HD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9031
+#EXTINF:-1 tvg-id="t5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Y9wV3L4.png" group-title="Novelas",Mas Chic FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3067
+#EXTINF:-1 tvg-id="t6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/TmGIb4y.png" group-title="Novelas",Canal De Las Estrellas HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/295654
+#EXTINF:-1 tvg-id="t7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/TmGIb4y.png" group-title="Novelas",Las Estrellas FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3005
+#EXTINF:-1 tvg-id="t8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7uZzYZx.png" group-title="Novelas",TLC HD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3107
+#EXTINF:-1 tvg-id="t9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7uZzYZx.png" group-title="Novelas",TLC HD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9062
+#EXTINF:-1 tvg-id="t10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7uZzYZx.png" group-title="Novelas",TLC FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273737
+#EXTINF:-1 tvg-id="t11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/45Xqj2n.png" group-title="Novelas",Az Corazon HD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2999
+#EXTINF:-1 tvg-id="t12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/45Xqj2n.png" group-title="Novelas",TLnovelas HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/82450
+
+
+#EXTINF:-1 tvg-id="not1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Emk1Vhm.png" group-title="Noticias",CNN en Español ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/49258
+#EXTINF:-1 tvg-id="not2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Emk1Vhm.png" group-title="Noticias",CNN en Español LHD ARG
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/148939
+#EXTINF:-1 tvg-id="not3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Emk1Vhm.png" group-title="Noticias",CNN en EspañolLHD LA
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/35473
+#EXTINF:-1 tvg-id="not4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Emk1Vhm.png" group-title="Noticias",CNN en Español HD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/31762
+#EXTINF:-1 tvg-id="not5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Emk1Vhm.png" group-title="Noticias",CNN en Español FHD MX
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/226017
+
+
+#EXTINF:-1 tvg-id="r1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/2PtGzKb.png" group-title="Religion",Televida FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/285886
+#EXTINF:-1 tvg-id="r2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/EgyZhRI.png" group-title="Religion",La Voz de Maria HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/7233
+#EXTINF:-1 tvg-id="r3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/EgyZhRI.png" group-title="Religion",La Voz de Maria FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286382
+#EXTINF:-1 tvg-id="r6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QDbW1OP.png" group-title="Religion",Canal Diocesano HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/285741
+#EXTINF:-1 tvg-id="r7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/CAphWzJ.png" group-title="Religion",Hosanna Vision HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/285181
+#EXTINF:-1 tvg-id="r8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/EbVzLpn.png" group-title="Religion",Telefe HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3199
+#EXTINF:-1 tvg-id="r9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/EbVzLpn.png" group-title="Religion",Telefe Sur HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/76277
+#EXTINF:-1 tvg-id="r10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ZEiFOaj.png" group-title="Religion",Comunion TV HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/48232
+
+#EXTINF:-1 tvg-id="var4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ZEiFOaj.png" group-title="Variados",Clan TVE FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2214
+#EXTINF:-1 tvg-id="var5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ZEiFOaj.png" group-title="Variados",Clan TVE HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2214
+#EXTINF:-1 tvg-id="var6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ZEiFOaj.png" group-title="Variados",Galicia TV HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2192
 
