@@ -1,12 +1,8 @@
-#EXTM3U 
+#EXTM3U  
+#EXTINF:-1 tvg-id="baque1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Uh7stYp.png" group-title="Pillo Entartaiment",Navidad Pa Goza Channel FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286380
 
-#EXTINF:-1 tvg-id="baque1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Uh7stYp.png" group-title="Pillo Entartaiment",Felix Channel (Navidad Pa Goza) UMFHD
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/168991
-#EXTINF:-1 tvg-id="baque2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Uh7stYp.png" group-title="Pillo Entartaiment",Pillo TV FHD
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/30699
-
-
-#EXTINF:-1 tvg-id="Gourmet1.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title="Cocina",El Gourmet FHD 1
+#EXTINF:-1 tvg-id="Gourmet2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title="Cocina",El Gourmet FHD 1
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/8691
 
 #EXTINF:-1 tvg-id="food1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD
@@ -20,9 +16,9 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2771
 
 #EXTINF:-1 tvg-id="discovery1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel HD
-http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/48706
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/7868
 #EXTINF:-1 tvg-id="discovery2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel FHD
-http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45713
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273718
 
 #EXTINF:-1 tvg-id="discoveryt1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/lf1TCEg.png" group-title="Discovery",Discovery Theater HD LA
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273701
@@ -45,6 +41,7 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3063
 #EXTINF:-1 tvg-id="discovery10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Investigation Discovery FHD LA
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273703
+
 #EXTINF:-1 tvg-id="discoveryh1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H FHD MX
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/9110
 #EXTINF:-1 tvg-id="discoveryh2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H HD MX
@@ -585,3 +582,83 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 #EXTINF:-1 tvg-id="var6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ZEiFOaj.png" group-title="Variados",Galicia TV HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2192
 
+
+
+#EXTINF:-1 tvg-id="do1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Cinevision Canal 19 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286371
+#EXTINF:-1 tvg-id="do2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Color Vision 9 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38491
+#EXTINF:-1 tvg-id="do3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Comunion TV HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/48232
+#EXTINF:-1 tvg-id="do4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",DAN TV HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286372
+#EXTINF:-1 tvg-id="do5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Digital 15 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/68859
+#EXTINF:-1 tvg-id="do6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Digital Vision HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/31738
+#EXTINF:-1 tvg-id="do7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Ecovisión HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286374
+#EXTINF:-1 tvg-id="do8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Fuego TV HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286375
+#EXTINF:-1 tvg-id="do9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",GDMTV HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286376
+#EXTINF:-1 tvg-id="do10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Television Canal 10 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286377
+#EXTINF:-1 tvg-id="do11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Hermanas Mirabal TV HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286379
+#EXTINF:-1 tvg-id="do12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Hits 360 TV HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286380
+#EXTINF:-1 tvg-id="do13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",HM HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286378
+#EXTINF:-1 tvg-id="do14.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",La Voz de Maria HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/7233
+#EXTINF:-1 tvg-id="do14.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",LVM HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286382
+#EXTINF:-1 tvg-id="do15.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Megavision Canal 43 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286383
+#EXTINF:-1 tvg-id="do16.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Megavision HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/166072
+#EXTINF:-1 tvg-id="do17.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Microvision 10 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286384
+#EXTINF:-1 tvg-id="do18.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Mision ELTV HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286385
+#EXTINF:-1 tvg-id="do19.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",ORBIT TV HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286386
+#EXTINF:-1 tvg-id="do20.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",PH HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286387
+#EXTINF:-1 tvg-id="do21.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Radio 105 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286391
+#EXTINF:-1 tvg-id="do22.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Ready TV Canal 6 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286392
+#EXTINF:-1 tvg-id="do23.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",RNN HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/200011
+#EXTINF:-1 tvg-id="do24.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Super TV 55 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/8668
+#EXTINF:-1 tvg-id="do25.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Telecanal 28 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286406
+#EXTINF:-1 tvg-id="do26.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",TeleCibao HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/278074
+#EXTINF:-1 tvg-id="do27.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Teleimpacto HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/168958
+#EXTINF:-1 tvg-id="do28.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Telemicro 5 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/267352
+#EXTINF:-1 tvg-id="do29.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Telemicro Canal 5 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/267353
+#EXTINF:-1 tvg-id="do30.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Telemicro HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/8669
+#EXTINF:-1 tvg-id="do31.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Telemilenio HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286409
+#EXTINF:-1 tvg-id="do32.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Telenord Canal 10 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286412
+#EXTINF:-1 tvg-id="do33.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Telesistema HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/68862
+#EXTINF:-1 tvg-id="do34.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Teleunion HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/7267
+#EXTINF:-1 tvg-id="do35.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",TV Éxitos HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286402
+#EXTINF:-1 tvg-id="do36.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",TVS HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286403
+#EXTINF:-1 tvg-id="do37.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Vallevision Canal 10 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286414
+#EXTINF:-1 tvg-id="do38.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1IMSQiE.png" group-title="Dominicanos",Zol106 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286418
