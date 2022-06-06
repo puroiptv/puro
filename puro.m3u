@@ -1,6 +1,6 @@
 #EXTM3U  
 #EXTINF:-1 tvg-id="baque1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Uh7stYp.png" group-title="Pillo Entartaiment",Navidad Pa Goza Channel FHD
-https://www.youtube.com/watch?v=QVfe_gmkIk0
+http://173.212.215.227:8083/listen.pls?sid=1
 
 #EXTINF:-1 tvg-id="Gourmet2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title="Cocina",El Gourmet FHD 1
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/8691
