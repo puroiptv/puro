@@ -6,11 +6,19 @@ http://173.212.215.227:8083/listen.pls?sid=1
 
 #EXTINF:-1 tvg-id="Gourmet1.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title="Cocina",El Gourmet FHD ARG
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/8691
+#EXTINF:-1 tvg-id="Gourmet2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title="Cocina",El Gourmet FHD MX
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/8691
+
 
 #EXTINF:-1 tvg-id="food1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD ARG
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/187033
 #EXTINF:-1 tvg-id="food2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD ES
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9116
+#EXTINF:-1 tvg-id="food3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD MX
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/187033
+#EXTINF:-1 tvg-id="food4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD LA
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9116
+
 
 #EXTINF:-1 tvg-id="cocina1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/0VWubHZ.png" group-title="Cocina",Canal Cocina FHD
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1167
@@ -30,6 +38,18 @@ http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1169
 
 #EXTINF:-1 tvg-id="discoveryh1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H FHD ARG
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9110
+#EXTINF:-1 tvg-id="discoveryh2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H FHD MX
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/5774
+#EXTINF:-1 tvg-id="discoveryh3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H FHD ES
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9110
+#EXTINF:-1 tvg-id="discoveryh4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H FHD LA
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172593
+#EXTINF:-1 tvg-id="discoveryh5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172589
+
+
+
+
 
 #EXTINF:-1 tvg-id="discoverytur1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo HD ARG
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3023
@@ -37,30 +57,70 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3023
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9058
 #EXTINF:-1 tvg-id="discoverytur3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo FHD MX
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/49455
+#EXTINF:-1 tvg-id="discoverytur4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo FHD DO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3023
+#EXTINF:-1 tvg-id="discoverytur5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9058
+
+
 
 #EXTINF:-1 tvg-id="discoverycien1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Science HD ARG
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3021
 #EXTINF:-1 tvg-id="discoverycien2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Science FHD ES
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/282879
+#EXTINF:-1 tvg-id="discoverycien3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Science FHD MX
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9059
+
+
+
 #EXTINF:-1 tvg-id="discoveryw1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World FHD ARG
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1162
 #EXTINF:-1 tvg-id="discoveryw2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World HD ES
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/8894
 #EXTINF:-1 tvg-id="discoveryw3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World FHD LA
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9061
+#EXTINF:-1 tvg-id="discoveryw4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World FHD DO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/8894
+#EXTINF:-1 tvg-id="discoveryw5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World FHD MX
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9061
+#EXTINF:-1 tvg-id="discoveryw6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172591
+#EXTINF:-1 tvg-id="discoveryw7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/46569
+
+
 
 #EXTINF:-1 tvg-id="discoveryt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/lf1TCEg.png" group-title="Discovery",Discovery Theater FHD ES
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9151
 #EXTINF:-1 tvg-id="discoveryt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/lf1TCEg.png" group-title="Discovery",Discovery Theater FHD MX
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3022
+#EXTINF:-1 tvg-id="discoveryt4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/lf1TCEg.png" group-title="Discovery",Discovery Theater FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3022
+#EXTINF:-1 tvg-id="discoveryt5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/lf1TCEg.png" group-title="Discovery",Discovery Theater FHD LA
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9151
+#EXTINF:-1 tvg-id="discoveryt6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/lf1TCEg.png" group-title="Discovery",Discovery Theater FHD 
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9056
+#EXTINF:-1 tvg-id="discoveryt7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/lf1TCEg.png" group-title="Discovery",Discovery Theater FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172605
+
+
+
+#EXTINF:-1 tvg-id="discoverycien1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Investigation Discovery HD ES
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3021
+
 
 #EXTINF:-1 tvg-id="discp1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yimfKbI.png" group-title="Discovery",Caza y Pesca FHD
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1165
 
-#EXTINF:-1 tvg-id="disg1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/e268KEZ.png" group-title="Discovery",Garage TV FHD
+#EXTINF:-1 tvg-id="disg1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/e268KEZ.png" group-title="Discovery",Garage TV FHD ARG
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/23915
-#EXTINF:-1 tvg-id="disg2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/e268KEZ.png" group-title="Discovery",Garage TV FHD
+#EXTINF:-1 tvg-id="disg2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/e268KEZ.png" group-title="Discovery",Garage TV FHD ES 
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/286054
+#EXTINF:-1 tvg-id="disg3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/e268KEZ.png" group-title="Discovery",Garage TV FHD MX
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/23915
+
+
+
 
 #EXTINF:-1 tvg-id="h1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel HD ARG
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1155
@@ -78,12 +138,25 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3060
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/40831
 #EXTINF:-1 tvg-id="h11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",Historia FHD
 http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1155
+#EXTINF:-1 tvg-id="h12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9050
+#EXTINF:-1 tvg-id="h13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49293
+
+
 
 #EXTINF:-1 tvg-id="nat2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/G38N8Jh.png" group-title="Nat Geo",Nat Geo HD 
 http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1138
+#EXTINF:-1 tvg-id="nat3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/G38N8Jh.png" group-title="Nat Geo",Nat Geo FHD 
+
 
 #EXTINF:-1 tvg-id="natw01.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO HD
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3073
+#EXTINF:-1 tvg-id="natw31.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/8725
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172598
+
+
 
 
 #EXTINF:-1 tvg-id="natw1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD FHD ARG
@@ -92,17 +165,37 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1137
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9072
 #EXTINF:-1 tvg-id="natw3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD HD ES
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/38698
-#EXTINF:-1 tvg-id="natw5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD FHD 
+#EXTINF:-1 tvg-id="natw5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD FHD LA
 http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1137
+#EXTINF:-1 tvg-id="natw65.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD FHD 
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9072
+#EXTINF:-1 tvg-id="natw66.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38698
+#EXTINF:-1 tvg-id="natw67.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD FHD 
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172601
+
 
 #EXTINF:-1 tvg-id="nat3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/G38N8Jh.png" group-title="Nat Geo",Nat Geo Mundo FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/267311
 
-#EXTINF:-1 tvg-id="anim2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/VJsLK6F.png" group-title="Animal Planet",ANIMAL PLANET FHD ARG
+#EXTINF:-1 tvg-id="anim1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/VJsLK6F.png" group-title="Animal Planet",ANIMAL PLANET FHD ARG
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2997
+#EXTINF:-1 tvg-id="anim2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/VJsLK6F.png" group-title="Animal Planet",ANIMAL PLANET FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/2997
+
+
 
 #EXTINF:-1 tvg-id="ae1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E FHD ES
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9117
+#EXTINF:-1 tvg-id="ae2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/5759
+#EXTINF:-1 tvg-id="ae3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E FHD MX
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9117
+#EXTINF:-1 tvg-id="ae4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E FHD LA
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38648
+
+
+
 
 #EXTINF:-1 tvg-id="hbo1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO FHD ARG
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/285191
@@ -169,6 +262,56 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3058
 #EXTINF:-1 tvg-id="hbo30.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO SIGNATURE FHD
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3059
 
+#EXTINF:-1 tvg-id="hbo39.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3055
+
+#EXTINF:-1 tvg-id="hbo40.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO 2 FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3056
+
+#EXTINF:-1 tvg-id="hbo41.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO FAMILY ARG FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3057
+
+#EXTINF:-1 tvg-id="hbo42.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gTs2Lus.png" group-title="Canales Peliculas",HBO MUNDI HD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/226015
+
+#EXTINF:-1 tvg-id="hbo43.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gTs2Lus.png" group-title="Canales Peliculas",HBO POP HD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3069
+
+#EXTINF:-1 tvg-id="hbo43.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO SIGNATURE FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3059
+
+#EXTINF:-1 tvg-id="hbo44.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/q3a429L.png" group-title="Canales Peliculas",HBO XTREME HD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/148927
+
+#EXTINF:-1 tvg-id="hbo45.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO PLUS FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3058
+
+#EXTINF:-1 tvg-id="hbo46.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38690
+
+#EXTINF:-1 tvg-id="hbo47.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO Family FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38687
+
+#EXTINF:-1 tvg-id="hbo48.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO 2 FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/29301
+
+#EXTINF:-1 tvg-id="hbo49.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO Mundi FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38701
+
+#EXTINF:-1 tvg-id="hbo50.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO Pop FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/29305
+
+#EXTINF:-1 tvg-id="hbo51.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO Signature FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49289
+
+#EXTINF:-1 tvg-id="hbo52.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO Xtreme FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172272
+
+#EXTINF:-1 tvg-id="hbo53.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO+ FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38685
+
+
+
 #EXTINF:-1 tvg-id="fox1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Q8r3byL.png" group-title="Canales Peliculas",FOX FHD ARG
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1158
 
@@ -185,6 +328,16 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/172268
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/295243
 #EXTINF:-1 tvg-id="fx5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX FHD DO
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/49462
+#EXTINF:-1 tvg-id="fx6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/34561
+#EXTINF:-1 tvg-id="fx7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX FHD 
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9105
+#EXTINF:-1 tvg-id="fx8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX FHD 
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172268
+#EXTINF:-1 tvg-id="fx9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX FHD 
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/295243
+
+
 
 
 #EXTINF:-1 tvg-id="glis1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gAAo4cL.png" group-title="Canales Peliculas",Glitz HD ES
@@ -193,21 +346,38 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/45626
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9125
 #EXTINF:-1 tvg-id="glis3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gAAo4cL.png" group-title="Canales Peliculas",Glitz HD MX
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/30712
-#EXTINF:-1 tvg-id="glis4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gAAo4cL.png" group-title="Canales Peliculas",Glitz HD MX
+#EXTINF:-1 tvg-id="glis4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gAAo4cL.png" group-title="Canales Peliculas",Glitz HD DO
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/187040
+#EXTINF:-1 tvg-id="glis5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gAAo4cL.png" group-title="Canales Peliculas",Glitz HD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/45626
+#EXTINF:-1 tvg-id="glis6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gAAo4cL.png" group-title="Canales Peliculas",Glitz FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9125
+#EXTINF:-1 tvg-id="glis7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gAAo4cL.png" group-title="Canales Peliculas",Glitz FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/30712
 
 
 
 #EXTINF:-1 tvg-id="golp1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PPxjbAZ.png" group-title="Canales Peliculas",Golden Plus ARG
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3051
-
-#EXTINF:-1 tvg-id="gold1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/J8chRLw.png" group-title="Canales Peliculas",Golden Premier FHD MX
+#EXTINF:-1 tvg-id="gold2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/J8chRLw.png" group-title="Canales Peliculas",Golden Premier FHD MX
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3052
+#EXTINF:-1 tvg-id="gold3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/J8chRLw.png" group-title="Canales Peliculas",Golden Premier FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3052
+
+
 
 #EXTINF:-1 tvg-id="gole1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/8fK98Ze.png" group-title="Canales Peliculas",Golden EDGE FHD ARG
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9076
+#EXTINF:-1 tvg-id="gole2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/8fK98Ze.png" group-title="Canales Peliculas",Golden EDGE FHD ES
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9076
+
+
 #EXTINF:-1 tvg-id="gole2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/8fK98Ze.png" group-title="Canales Peliculas",Golden PLUS FHD ES
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3051
+#EXTINF:-1 tvg-id="gole3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/8fK98Ze.png" group-title="Canales Peliculas",Golden PLUS FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3051
+
+
 
 #EXTINF:-1 tvg-id="gole4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/8fK98Ze.png" group-title="Canales Peliculas",Golden FHD ES
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3052
@@ -221,10 +391,18 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/5802
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9081
 #EXTINF:-1 tvg-id="sy4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/0K9OWqT.png" group-title="Canales Peliculas",SYFY HD ARG
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/49316
-#EXTINF:-1 tvg-id="sy6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Peliculas",SYFY FHD
+#EXTINF:-1 tvg-id="sy6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Peliculas",SYFY FHD LATINO
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9059
 #EXTINF:-1 tvg-id="sy7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Peliculas",SYFY FHD
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3021
+#EXTINF:-1 tvg-id="sy8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Peliculas",SYFY FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1135
+#EXTINF:-1 tvg-id="sy9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Peliculas",SYFY FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/5802
+#EXTINF:-1 tvg-id="sy10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Peliculas",SYFY FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9081
+#EXTINF:-1 tvg-id="sy11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Peliculas",SYFY FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49316
 
 
 #EXTINF:-1 tvg-id="tcm1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TCM HD ARG
@@ -237,25 +415,53 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9131
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/49314
 #EXTINF:-1 tvg-id="tcm6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TCM FHD
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9131
+#EXTINF:-1 tvg-id="tcm7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TCM FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1134
+#EXTINF:-1 tvg-id="tcm8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TCM FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3085
+#EXTINF:-1 tvg-id="tcm9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TCM FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9131
+#EXTINF:-1 tvg-id="tcm10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TCM FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49314
+
+
 
 #EXTINF:-1 tvg-id="str2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star FHD LA
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3035
 #EXTINF:-1 tvg-id="str3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star+ FHD LA
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3032
 
-#EXTINF:-1 tvg-id="amc2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD ES
+#EXTINF:-1 tvg-id="amc1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD ES
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2996
-#EXTINF:-1 tvg-id="amc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD MX
+#EXTINF:-1 tvg-id="amc2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD MX
 http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1174
+#EXTINF:-1 tvg-id="amc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/2996
+#EXTINF:-1 tvg-id="amc4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD LA
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9083
+#EXTINF:-1 tvg-id="amc5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38654
+
+
+
 
 #EXTINF:-1 tvg-id="ax1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD ARG
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2998
 #EXTINF:-1 tvg-id="ax3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD EX
 http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1171
-#EXTINF:-1 tvg-id="ax4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD DO
+#EXTINF:-1 tvg-id="ax4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD 
 http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1172
 #EXTINF:-1 tvg-id="ax5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD DO
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9138
+#EXTINF:-1 tvg-id="ax6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD ES
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/2998
+#EXTINF:-1 tvg-id="ax7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9138
+#EXTINF:-1 tvg-id="ax8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38651
+#EXTINF:-1 tvg-id="ax9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/46554
+
 
 #EXTINF:-1 tvg-id="cc1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD MX
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9128
@@ -263,44 +469,161 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9128
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9128
 #EXTINF:-1 tvg-id="cc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD LA
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/290335
+#EXTINF:-1 tvg-id="cc4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9128
+#EXTINF:-1 tvg-id="cc5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD 
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38655
+#EXTINF:-1 tvg-id="cc6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD 
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/290335
+#EXTINF:-1 tvg-id="cc7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD 
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3008
+#EXTINF:-1 tvg-id="cc8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD 
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/290334
+
+
+#EXTINF:-1 tvg-id="cm1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax FHD DO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/5770
+#EXTINF:-1 tvg-id="cm2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9080
+#EXTINF:-1 tvg-id="cm3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax FHD ES
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38661
+
+
+
+#EXTINF:-1 tvg-id="cl1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/LM0VtkF.png" group-title="Canales Peliculas",Claro Cinema FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/8706
+#EXTINF:-1 tvg-id="cl2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/LM0VtkF.png" group-title="Canales Peliculas",Claro Sports FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3012
+
 
 #EXTINF:-1 tvg-id="cmc1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD ARG
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3015
 #EXTINF:-1 tvg-id="cmc2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD MX
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9106
-#EXTINF:-1 tvg-id="cmc5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD 
+#EXTINF:-1 tvg-id="cmc5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD ES
 http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1164
+#EXTINF:-1 tvg-id="cmc6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD LA
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3015
+#EXTINF:-1 tvg-id="cmc7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD 
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9106
+#EXTINF:-1 tvg-id="cmc8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD 
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49261
+
 
 
 #EXTINF:-1 tvg-id="dc1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/aS1bw9l.png" group-title="Canales Peliculas",Distrito Comedia HD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9126
+#EXTINF:-1 tvg-id="dc2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/aS1bw9l.png" group-title="Canales Peliculas",Distrito Comedia HD ES
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9126
+
+
 
 #EXTINF:-1 tvg-id="dp1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/h4setR5.png" group-title="Canales Peliculas",De Pelicula MX
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/31740
+#EXTINF:-1 tvg-id="dp2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/h4setR5.png" group-title="Canales Peliculas",De Pelicula ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/31740
+
+
+
 
 #EXTINF:-1 tvg-id="far1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gqEzpRt.png" group-title="Canales Peliculas",Film & Arts HD ARG
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9089
+#EXTINF:-1 tvg-id="far2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gqEzpRt.png" group-title="Canales Peliculas",Film & Arts HD ES
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9089
+#EXTINF:-1 tvg-id="far3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gqEzpRt.png" group-title="Canales Peliculas",Film & Arts HD MX
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38678
+
+
+
 
 #EXTINF:-1 tvg-id="pc1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Channel FHD MX
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9146
-#EXTINF:-1 tvg-id="pc2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Channel FHD ES
+#EXTINF:-1 tvg-id="pc2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Channel FHD LA
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/38705
+#EXTINF:-1 tvg-id="pc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Network FHD ES
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9146
+#EXTINF:-1 tvg-id="pc4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Network FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38705
+
+
 #EXTINF:-1 tvg-id="sp1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jQi9xVj.png" group-title="Canales Peliculas",Space HD LA
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/34566
 #EXTINF:-1 tvg-id="sp2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jQi9xVj.png" group-title="Canales Peliculas",Space HD ES
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9136
 #EXTINF:-1 tvg-id="sp3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jQi9xVj.png" group-title="Canales Peliculas",Space HD MX
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/14542
+#EXTINF:-1 tvg-id="sp4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jQi9xVj.png" group-title="Canales Peliculas",Space HD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/34566
+#EXTINF:-1 tvg-id="sp5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jQi9xVj.png" group-title="Canales Peliculas",Space FHD 
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9136
+#EXTINF:-1 tvg-id="sp6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jQi9xVj.png" group-title="Canales Peliculas",Space Sur FHD 
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/14542
+
+
 
 #EXTINF:-1 tvg-id="str1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star FHD ES
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3035
+#EXTINF:-1 tvg-id="str2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Starz Black FHD MX
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/295814
+#EXTINF:-1 tvg-id="str4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star FHD ES
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/280374
-#EXTINF:-1 tvg-id="str2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star FHD ARG
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/285115
+#EXTINF:-1 tvg-id="str5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Black FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/295814
+#EXTINF:-1 tvg-id="str6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Cinema FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38495
+#EXTINF:-1 tvg-id="str7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Cinema East FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38493
+#EXTINF:-1 tvg-id="str8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz East FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/65764
+#EXTINF:-1 tvg-id="str9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Edge West FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38499
+#EXTINF:-1 tvg-id="str10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Encore FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38500
+#EXTINF:-1 tvg-id="str11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Encore Action FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38498
+#EXTINF:-1 tvg-id="str12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Encore Black FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/47925
+#EXTINF:-1 tvg-id="str13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Encore Classic FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/47924
+#EXTINF:-1 tvg-id="str14.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Encore Family FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/47926
+#EXTINF:-1 tvg-id="str15.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Encore Suspense FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38501
+#EXTINF:-1 tvg-id="str16.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Encore Western FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/47928
+#EXTINF:-1 tvg-id="str17.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Family FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/47929
+#EXTINF:-1 tvg-id="str18.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz In Black FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38504
+#EXTINF:-1 tvg-id="str19.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Channel FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/280386
+#EXTINF:-1 tvg-id="str20.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Action FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/280376
+#EXTINF:-1 tvg-id="str21.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Channel FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/280374
+#EXTINF:-1 tvg-id="str22.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Hits FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/285195
 
-#EXTINF:-1 tvg-id="ee2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Nxxe4Dd.png" group-title="Canales Peliculas",E! Entertaiment FHD ES
+
+
+#EXTINF:-1 tvg-id="tb1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TBS HD ES
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/5803
+#EXTINF:-1 tvg-id="tb2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TBS HD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38710
+
+
+
+#EXTINF:-1 tvg-id="ee2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Nxxe4Dd.png" group-title="Canales Peliculas",E! Entertaiment FHD ARG
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9130
 #EXTINF:-1 tvg-id="ee3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Nxxe4Dd.png" group-title="Canales Peliculas",E! Entertaiment FHD ES
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3029
+#EXTINF:-1 tvg-id="ee3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Nxxe4Dd.png" group-title="Canales Peliculas",E! Entertaiment FHD MX
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/31760
+#EXTINF:-1 tvg-id="ee4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Nxxe4Dd.png" group-title="Canales Peliculas",E! Entertaiment FHD LA
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38668
+
+
+
 
 #EXTINF:-1 tvg-id="su1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal HD MX
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3083
@@ -308,19 +631,74 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3083
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9071
 #EXTINF:-1 tvg-id="su3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal HD LA
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/280367
-#EXTINF:-1 tvg-id="su6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",UNIVERSAL FHD
+#EXTINF:-1 tvg-id="su6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD ES
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9133
-#EXTINF:-1 tvg-id="su7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",UNIVERSAL FHD
+#EXTINF:-1 tvg-id="su7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD LATINO
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3036
+#EXTINF:-1 tvg-id="su8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3083
+#EXTINF:-1 tvg-id="su9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9071
+#EXTINF:-1 tvg-id="su10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/280367
+#EXTINF:-1 tvg-id="su11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/290470
 
-#EXTINF:-1 tvg-id="tnt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD ES
+
+
+#EXTINF:-1 tvg-id="su9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal Cinema FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/291225
+#EXTINF:-1 tvg-id="su10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal Comedy FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/291224
+#EXTINF:-1 tvg-id="su11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal Crime FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/291222
+#EXTINF:-1 tvg-id="su12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal Premiere FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/291223
+#EXTINF:-1 tvg-id="su13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal Reality FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/291217
+#EXTINF:-1 tvg-id="su14.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal TV FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3036
+#EXTINF:-1 tvg-id="su15.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal TV FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9133
+#EXTINF:-1 tvg-id="su15.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal TV FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38719
+
+
+
+#EXTINF:-1 tvg-id="tnt1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD ES
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9140
+#EXTINF:-1 tvg-id="tnt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/2187
+#EXTINF:-1 tvg-id="tnt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT Sports
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/285164
+#EXTINF:-1 tvg-id="tnt4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD MX
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9140
+#EXTINF:-1 tvg-id="tnt5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD LA
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38720
+
+
 
 #EXTINF:-1 tvg-id="tnts1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yjriT0J.png" group-title="Canales Peliculas",TNT Series HD LA
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/285147
+#EXTINF:-1 tvg-id="tnts2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yjriT0J.png" group-title="Canales Peliculas",TNT Series HD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/285147
+#EXTINF:-1 tvg-id="tnts3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yjriT0J.png" group-title="Canales Peliculas",TNT Series HD MX
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3109
+#EXTINF:-1 tvg-id="tnts4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yjriT0J.png" group-title="Canales Peliculas",TNT Sports HD MX
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3204
+
+
 
 #EXTINF:-1 tvg-id="wan1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Dv7p7sm.png" group-title="Canales Peliculas",Warner TV FHD LA
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/60006
+#EXTINF:-1 tvg-id="wan2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Dv7p7sm.png" group-title="Canales Peliculas",Warner TV FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/60006
+#EXTINF:-1 tvg-id="wan3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Dv7p7sm.png" group-title="Canales Peliculas",Warner TV FHD ES
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9142
+#EXTINF:-1 tvg-id="wan4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Dv7p7sm.png" group-title="Canales Peliculas",Warner TV FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38722
+
+
 
 #EXTINF:-1 tvg-id="atre1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/J9W2nV7.png" group-title="Canales Peliculas",A3 Cine FHD
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/283299
@@ -328,34 +706,177 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/283299
 #EXTINF:-1 tvg-id="ft1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/sZLTYpZ.png" group-title="Canales Peliculas",Lifetime FHD
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3066
 
+#EXTINF:-1 tvg-id="st1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IAkJK8k.png" group-title="Canales Peliculas",LA:Showtime Beyond FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/47920
+#EXTINF:-1 tvg-id="st2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IAkJK8k.png" group-title="Canales Peliculas",LA:Showtime East FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/47921
 
-#EXTINF:-1 tvg-id="t2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7uZzYZx.png" group-title="Novelas",TLC HD LA
+#EXTINF:-1 tvg-id="s1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",Sony Channel HD LA
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3081
+#EXTINF:-1 tvg-id="s2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",Sony Channel HD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38708
+
+
+
+
+#EXTINF:-1 tvg-id="t1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7uZzYZx.png" group-title="Novelas",TLC HD LA
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9062
+#EXTINF:-1 tvg-id="t2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7uZzYZx.png" group-title="Novelas",TLC HD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3107
+#EXTINF:-1 tvg-id="t3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7uZzYZx.png" group-title="Novelas",TLC HD ES
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9062
 
-#EXTINF:-1 tvg-id="nov1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Chicago HD
+
+
+#EXTINF:-1 tvg-id="telem1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Chicago HD
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/290482
-#EXTINF:-1 tvg-id="nov1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo 2 HD
+#EXTINF:-1 tvg-id="telem2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo 2 HD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/267316
+#EXTINF:-1 tvg-id="telem3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Boston
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38506
+#EXTINF:-1 tvg-id="telem4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Chicago
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/290482
+#EXTINF:-1 tvg-id="telem5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Fresno
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172615
+#EXTINF:-1 tvg-id="telem6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Houston
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172618
+#EXTINF:-1 tvg-id="telem7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Internacional
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49318
+#EXTINF:-1 tvg-id="telem8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Las Vegas
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172619
+#EXTINF:-1 tvg-id="telem9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Los Angeles
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172620
+#EXTINF:-1 tvg-id="telem10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Miami
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/295850
+#EXTINF:-1 tvg-id="telem11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo New York
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172624
+#EXTINF:-1 tvg-id="telem12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Noticias
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/267316
+#EXTINF:-1 tvg-id="telem13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Orlando Florida
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/295848
+#EXTINF:-1 tvg-id="telem14.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Philadelphia
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3119
+#EXTINF:-1 tvg-id="telem15.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Phoenix
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172625
+#EXTINF:-1 tvg-id="telem16.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo San francisco
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172630
+#EXTINF:-1 tvg-id="telem17.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Tampa
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/295847
+#EXTINF:-1 tvg-id="telem18.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Tucson
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172627
+#EXTINF:-1 tvg-id="telem19.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Washington
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/295849
+
+
 
 
 
 #EXTINF:-1 tvg-id="univ1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision FHD
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/187040
-#EXTINF:-1 tvg-id="univ7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",UNIVISION TLNOVELAS FHD
+#EXTINF:-1 tvg-id="univ2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision Atlanta FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172645
+#EXTINF:-1 tvg-id="univ3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision Cleveland FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172647
+#EXTINF:-1 tvg-id="univ4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision Fort Lauderdale FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172655
+#EXTINF:-1 tvg-id="univ5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision Los Angeles FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172659
+#EXTINF:-1 tvg-id="univ6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision Miami FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/295843
+#EXTINF:-1 tvg-id="univ7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision Mountain FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3124
+#EXTINF:-1 tvg-id="univ8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision Noticias FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172641
+#EXTINF:-1 tvg-id="univ9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision Phoenix FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/295844
+#EXTINF:-1 tvg-id="univ10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision Raleigh FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172652
+#EXTINF:-1 tvg-id="univ11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision Salt Lake FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172663
+#EXTINF:-1 tvg-id="univ12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision San Antonio FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172649
+#EXTINF:-1 tvg-id="univ13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision San Francisco FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/295845
+#EXTINF:-1 tvg-id="univ14.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision TV Novelas FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/295846
+#EXTINF:-1 tvg-id="univ15.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision West FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172661
+
+
+
+#EXTINF:-1 tvg-id="univ16.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",UNIVISION TLNOVELAS FHD
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9141
+#EXTINF:-1 tvg-id="univ156.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",UNIVISION TLNOVELAS FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9141
+
+#EXTINF:-1 tvg-id="gala1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QRcgf3F.png" group-title="Galavision",Galavision FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/71860
+
+#EXTINF:-1 tvg-id="t1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Novelas",Univision TLNovelas
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/82450
+
+#EXTINF:-1 tvg-id="u1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/DIAr19M.png" group-title="Novelas",Unicable
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/5804
+#EXTINF:-1 tvg-id="u2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/DIAr19M.png" group-title="Novelas",Unicable FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9134
+
 
 #EXTINF:-1 tvg-id="unim1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/187040
+#EXTINF:-1 tvg-id="unim2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas Austin
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172675
+#EXTINF:-1 tvg-id="unim3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas East
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172676
+#EXTINF:-1 tvg-id="unim4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas Fresno
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172670
+#EXTINF:-1 tvg-id="unim5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas Houston
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172679
+#EXTINF:-1 tvg-id="unim6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas Las Vegas
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172673
+#EXTINF:-1 tvg-id="unim7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas NY
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172682
+#EXTINF:-1 tvg-id="unim8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas Philadelphia
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/147654
+#EXTINF:-1 tvg-id="unim9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas Phoenix
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172677
+#EXTINF:-1 tvg-id="unim10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas Sacramento
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172669
+#EXTINF:-1 tvg-id="unim11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas Salt Lake
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172672
+#EXTINF:-1 tvg-id="unim12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas West
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172678
 
 
 #EXTINF:-1 tvg-id="t11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/45Xqj2n.png" group-title="Novelas",Az Corazon HD MX
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2999
-#EXTINF:-1 tvg-id="t2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/oTlRGXU.png" group-title="Novelas",Hola! TV HD
+#EXTINF:-1 tvg-id="t31.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/45Xqj2n.png" group-title="Novelas",Az Corazon HD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/2999
+#EXTINF:-1 tvg-id="t32.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/45Xqj2n.png" group-title="Novelas",Az Mundo HD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3000
+
+
+
+#EXTINF:-1 tvg-id="t2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/oTlRGXU.png" group-title="Novelas",Hola! TV FHD
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3061
+#EXTINF:-1 tvg-id="t92.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/oTlRGXU.png" group-title="Novelas",Hola! TV HD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9031
+#EXTINF:-1 tvg-id="t93.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/oTlRGXU.png" group-title="Novelas",Hola! TV HD ES
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/285202
+
+
 
 #EXTINF:-1 tvg-id="t5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Y9wV3L4.png" group-title="Novelas",Mas Chic FHD
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3067
 
+#EXTINF:-1 tvg-id="t6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/TmGIb4y.png" group-title="Novelas",Canal De Las Estrellas HD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/295654
+#EXTINF:-1 tvg-id="t46.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/TmGIb4y.png" group-title="Novelas",Canal De Las Estrellas HD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3005
+
+
+
+#EXTINF:-1 tvg-id="t7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/F16dmV5.png" group-title="Novelas",Pasiones HD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3078
 
 
 
