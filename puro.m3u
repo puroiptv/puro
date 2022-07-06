@@ -5,21 +5,43 @@
 #EXTINF:-1 tvg-wall=”https://imgur.com/Uh7stYp.png”,tvg-id="baque1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Uh7stYp.png" group-title="Pillo Entartaiment",Navidad Pa Goza Channel FHD
 http://173.212.215.227:8083/listen.pls?sid=1
 
-#EXTINF:-1 tvg-id="Gourmet2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title="Cocina",El Gourmet FHD MX
+#EXTINF:-1 tvg-id="Gourmet1.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title="Cocina",El Gourmet FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/8691
-#EXTINF:-1 tvg-id="" tvg-name="ARG: El Gourmet" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ef0691c65eba09e3a371dd85faf04a6d.png" group-title="Cocina",El Gourmet FHD
+#EXTINF:-1 tvg-id="" tvg-name="ARG: El Gourmet" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ef0691c65eba09e3a371dd85faf04a6d.png" group-title="Cocina",El Gourmet FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/8691
+#EXTINF:-1 tvg-id="Gourmet2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title="Cocina",El Gourmet 
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/2019
+#EXTINF:-1 tvg-id="Gourmet2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title="Cocina",El Gourmet HD 
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/40849
+#EXTINF:-1 tvg-id="Gourmet2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title="Cocina",El Gourmet FHD 
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/4570
 
-#EXTINF:-1 tvg-id="food3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD MX
+#EXTINF:-1 tvg-id="food1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/187033
-#EXTINF:-1 tvg-id="food4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD LA
+#EXTINF:-1 tvg-id="food2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9116
+#EXTINF:-1 tvg-id="food3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD MX
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24629
+#EXTINF:-1 tvg-id="food4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD ES
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/27203
 
 #EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: Canal Cocina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Cocina",Canal Cocina
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1167
 
 #EXTINF:-1 tvg-id="discovery1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65793
+#EXTINF:-1 tvg-id="discovery2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/2027
+#EXTINF:-1 tvg-id="discovery3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel FHD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/23301
+#EXTINF:-1 tvg-id="discovery4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32255
+#EXTINF:-1 tvg-id="discovery5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7087
+#EXTINF:-1 tvg-id="discovery6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7088
+
+
 
 #EXTINF:-1 tvg-id="discoveryh2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/5774
@@ -32,6 +54,9 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172589
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3023
 #EXTINF:-1 tvg-id="discoverytur5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo FHD LATINO
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9058
+#EXTINF:-1 tvg-id="discoverytur6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo FHD LATINO
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/15100
+
 
 #EXTINF:-1 tvg-id="discoverycien3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Science FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9059
@@ -55,11 +80,15 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172605
 #EXTINF:-1 tvg-id="discoverycien1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Investigation Discovery HD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3021
 
+#EXTINF:-1 tvg-id="discoveryf1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Familia HD ES
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/27243
+
+
+
 #EXTINF:-1 tvg-id="disg3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/e268KEZ.png" group-title="Discovery",Garage TV FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/23915
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Garage TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7571477b2d1658e99c8b0646b505baec.png" group-title="Discovery",Garage TV
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/23915
-
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: Caza y Pesca" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f6f8c4144320c781876e84ec0a4e4c1e.png" group-title="Discovery",Caza y Pesca
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1165
@@ -86,6 +115,11 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/267311
 
 #EXTINF:-1 tvg-id="anim2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/VJsLK6F.png" group-title="Animal Planet",ANIMAL PLANET FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/2997
+#EXTINF:-1 tvg-id="anim3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/VJsLK6F.png" group-title="Animal Planet",ANIMAL PLANET FHD 
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233953
+
+
+
 
 #EXTINF:-1 tvg-id="ae2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/5759
@@ -727,3 +761,83 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/29311
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38716
 #EXTINF:-1 tvg-id="babytv.es" tvg-name="ES: Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6e80d3d1f2b8abb84a77de8c5d2c9f54.png" group-title="Infantiles",Baby TV
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/5302
+
+
+#EXTINF:-1 tvg-id="2471.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Expedientes X SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102228
+#EXTINF:-1 tvg-id="2472.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Expedientes X HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102234
+#EXTINF:-1 tvg-id="2473.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Tierra de Gigantes
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/160624
+#EXTINF:-1 tvg-id="2474.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",El Túnel del Tiempo
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/160625
+#EXTINF:-1 tvg-id="2475.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Contacto Extranormal
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/34237
+#EXTINF:-1 tvg-id="2476.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Historias de la Biblia
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/101943
+#EXTINF:-1 tvg-id="2477.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Movies Jackie Chan
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/272419
+#EXTINF:-1 tvg-id="2478.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Movies Jim Carrey 
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/272420
+#EXTINF:-1 tvg-id="2479.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Movies Steven Seagal 
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/272421
+#EXTINF:-1 tvg-id="24710.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Movies Tom Cruise 
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/272422
+#EXTINF:-1 tvg-id="24711.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",La Familia Peluche HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/327730
+#EXTINF:-1 tvg-id="24712.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",El Gladiador (1976)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/125342
+#EXTINF:-1 tvg-id="24713.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",El Chavo del 8
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24888
+#EXTINF:-1 tvg-id="24714.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Chapulin Colorado
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/25121
+#EXTINF:-1 tvg-id="24715.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Chespirito (1970)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102078
+#EXTINF:-1 tvg-id="24716.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Chespirito (1980)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102079
+#EXTINF:-1 tvg-id="24717.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Chespirito (1981)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102157
+#EXTINF:-1 tvg-id="24718.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",El Chapulin Colorado
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/25121
+#EXTINF:-1 tvg-id="24719.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Chespirito (1982)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102219
+#EXTINF:-1 tvg-id="24720.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Chespirito (1984)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102220
+#EXTINF:-1 tvg-id="24721.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Chespirito (1985)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102221
+#EXTINF:-1 tvg-id="24722.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Chespirito (1986)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102229
+#EXTINF:-1 tvg-id="24723.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Chespirito (1987)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102230
+#EXTINF:-1 tvg-id="24724.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Chespirito (1988)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102231
+#EXTINF:-1 tvg-id="24725.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Chespirito (1989)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102310
+#EXTINF:-1 tvg-id="24726.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Chespirito (1991)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102311
+#EXTINF:-1 tvg-id="24727.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Chespirito (1992)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102312
+#EXTINF:-1 tvg-id="24728.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Chespirito (1993)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102313
+#EXTINF:-1 tvg-id="24729.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Chespirito (1994)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102314
+#EXTINF:-1 tvg-id="24730.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Chespirito (1995)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102315
+#EXTINF:-1 tvg-id="24731.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Los Picapiedras
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24494
+#EXTINF:-1 tvg-id="24732.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Los Pitufos
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/25132
+#EXTINF:-1 tvg-id="24733.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Birdman
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/25157
+#EXTINF:-1 tvg-id="24734.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Scooby Doo
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26412
+#EXTINF:-1 tvg-id="24735.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Candy Candy
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26588
+#EXTINF:-1 tvg-id="24736.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",El Gallo Claudio
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32260
+#EXTINF:-1 tvg-id="24737.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Cantinflas (Animada)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/34129
+#EXTINF:-1 tvg-id="24738.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",ThunderCats
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/40795
+#EXTINF:-1 tvg-id="24739.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Astro Boy (1980)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/250842
