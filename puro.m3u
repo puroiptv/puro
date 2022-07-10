@@ -1,4 +1,3 @@
-
 #EXTM3U  
 
 #EXTINF:-1,[COLOR red][B][I]Navidad Pa Goza Channel FHD[/I][/B][/COLOR]
@@ -13,15 +12,9 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/8691
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/2019
 #EXTINF:-1 tvg-id="Gourmet2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title="Cocina",El Gourmet HD 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/40849
-#EXTINF:-1 tvg-id="Gourmet2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title="Cocina",El Gourmet FHD 
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/4570
 
 #EXTINF:-1 tvg-id="food1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/187033
-#EXTINF:-1 tvg-id="food2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD LA
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9116
-#EXTINF:-1 tvg-id="food3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD MX
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24629
 #EXTINF:-1 tvg-id="food4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD ES
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/27203
 
@@ -30,8 +23,6 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1167
 
 #EXTINF:-1 tvg-id="discovery1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65793
-#EXTINF:-1 tvg-id="discovery2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/2027
 #EXTINF:-1 tvg-id="discovery3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel FHD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/23301
 #EXTINF:-1 tvg-id="discovery4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel HD
@@ -47,8 +38,8 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7088
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/5774
 #EXTINF:-1 tvg-id="discoveryh3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9110
-#EXTINF:-1 tvg-id="discoveryh5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H FHD LATINO
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172589
+#EXTINF:-1 tvg-id="discoveryh6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H FHD 
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7094
 
 #EXTINF:-1 tvg-id="discoverytur4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo FHD DO
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3023
@@ -95,10 +86,17 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1165
 #EXTINF:-1 tvg-id="" tvg-name="ES: Decasa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3ef6cee1d32af51c61e1f1e60acd6f42.png" group-title="Discovery",Decasa
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/2771
 
-#EXTINF:-1 tvg-id="h12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel FHD
+#EXTINF:-1 tvg-id="h12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9050
-#EXTINF:-1 tvg-id="h13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel FHD
+#EXTINF:-1 tvg-id="h13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel FHD ES 
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49293
+#EXTINF:-1 tvg-id="h14.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel FHD MX
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/4579
+#EXTINF:-1 tvg-id="h15.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel FHD LATINO
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7091
+#EXTINF:-1 tvg-id="h17.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History 2 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/15183
+
 
 #EXTINF:-1 tvg-id="natw31.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO FHD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/8725
@@ -117,6 +115,8 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/267311
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/2997
 #EXTINF:-1 tvg-id="anim3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/VJsLK6F.png" group-title="Animal Planet",ANIMAL PLANET FHD 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233953
+#EXTINF:-1 tvg-id="anim4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/VJsLK6F.png" group-title="Animal Planet",ANIMAL PLANET FHD MX
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24088
 
 
 
@@ -644,6 +644,30 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/198470
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/8345
 #EXTINF:-1 tvg-id="" tvg-name="CO: Win Sports+" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/1438a5a2a8917a271b8f5736c9783d1d.png" group-title="Deportes",Win Sports+
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/294455
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="Deportes",Eurosport 2 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/283006
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="ES: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="Deportes",Eurosport 2 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32570
+#EXTINF:-1 tvg-id="eurosport3.es" tvg-name="ES: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="Deportes",Eurosport 1 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/162
+#EXTINF:-1 tvg-id="eurosport4.es" tvg-name="ES: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="Deportes",Eurosport 1 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3063
+#EXTINF:-1 tvg-id="eurosport5.es" tvg-name="ES: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="Deportes",Eurosport 1 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/163
+#EXTINF:-1 tvg-id="eurosport6.es" tvg-name="ES: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="Deportes",Eurosport 2 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/164
+#EXTINF:-1 tvg-id="eurosport7.es" tvg-name="ES: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="Deportes",Eurosport 2 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/27250
+#EXTINF:-1 tvg-id="eurosport8.es" tvg-name="ES: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="Deportes",Eurosport 1 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/222
+#EXTINF:-1 tvg-id="eurosport9.es" tvg-name="ES: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="Deportes",Eurosport 1 FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1160
+#EXTINF:-1 tvg-id="eurosport10.es" tvg-name="ES: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="Deportes",Eurosport 2 FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1159
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR Deportes" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cfb9e3a05ca4b0452cbcd5bece3485f0.png" group-title="Deportes",MOVISTAR Deportes
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/227121
@@ -841,3 +865,15 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/34129
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/40795
 #EXTINF:-1 tvg-id="24739.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Astro Boy (1980)
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/250842
+#EXTINF:-1 tvg-id="24740.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Tom Y Jerry
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/25140
+#EXTINF:-1 tvg-id="24741.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Pato Aventura
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/25142
+#EXTINF:-1 tvg-id="24742.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Don Gato y su Pandilla
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26432
+#EXTINF:-1 tvg-id="24743.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",El Oso Yogui
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26600
+#EXTINF:-1 tvg-id="24744.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Clasicos de Disney (Latino)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/41425
+#EXTINF:-1 tvg-id="24745.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/JIYcJLe.png" group-title="24/7",Birdman y el Trío Galaxia
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/306609
