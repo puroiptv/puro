@@ -1,8 +1,8 @@
 #EXTM3U  
 
-#EXTINF:-1,[COLOR red][B][I]Navidad Pa Goza Channel FHD[/I][/B][/COLOR]
-#EXTINF:-1 tvg-wall=”https://imgur.com/Uh7stYp.png”,tvg-id="baque1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Uh7stYp.png" group-title="Navida Pa Goza",Navidad Pa Goza Memoria TV Channel FHD
+#EXTINF:-1 tvg-wall="https://imgur.com/tDl1ZnT.png" tvg-id="baque1.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title=Navida Pa Goza",Navidad Pa Goza Memoria TV Channel FHD
 http://k2.usastreams.com:80/merengue
+
 #EXTINF:-1 tvg-id="Gourmet1.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title="Cocina",El Gourmet FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/8691
 #EXTINF:-1 tvg-id="" tvg-name="ARG: El Gourmet" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ef0691c65eba09e3a371dd85faf04a6d.png" group-title="Cocina",El Gourmet FHD ARG
