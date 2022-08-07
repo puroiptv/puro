@@ -5,13 +5,21 @@ http://k2.usastreams.com:80/merengue
 
 #EXTINF:-1 tvg-id="Gourmet1.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title="Cocina",El Gourmet FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/8691
+#EXTINF:-1 tvg-id="Gourmet2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title="Cocina",EL GOURMET HD
+http://compitv.info:8080/Maria/1234567/335283
 
 #EXTINF:-1 tvg-id="food1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD MX 
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/187033
 #EXTINF:-1 tvg-id="food2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9116
+#EXTINF:-1 tvg-id="food3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD ES
+http://compitv.info:8080/Maria/1234567/335287
+#EXTINF:-1 tvg-id="food4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD LA
+http://compitv.info:8080/Maria/1234567/335697
+#EXTINF:-1 tvg-id="food5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD DO
+http://compitv.info:8080/Maria/1234567/339931
 
-#EXTINF:-1 tvg-id="cocina1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/0VWubHZ.png" group-title="Cocina",Canal Cocina HD 
+#EXTINF:-1 tvg-id="cocina1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/0VWubHZ.png" group-title="Cocina",Canal Cocina FHD 
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1167
 
 #EXTINF:-1 tvg-id="gara1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/e268KEZ.png" group-title="Discovery",Garage TV FHD ES
@@ -19,173 +27,201 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/23915
 #EXTINF:-1 tvg-id="gara2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/e268KEZ.png" group-title="Discovery",Garage TV FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/286054
 
-#EXTINF:-1 tvg-id="discp1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yimfKbI.png" group-title="Discovery",Caza y Pesca FHD
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1165
-#EXTINF:-1 tvg-id="discp2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yimfKbI.png" group-title="Discovery",Caza y Pesca FHD
+#EXTINF:-1 tvg-id="discp1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yimfKbI.png" group-title="Discovery",Caza y Pesca FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1165
 
-#EXTINF:-1 tvg-id="cocina1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/0VWubHZ.png" group-title="Cocina",Decasa HD FHD
+#EXTINF:-1 tvg-id="cocina1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/0VWubHZ.png" group-title="Cocina",Decasa FHD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/2771
 
-#EXTINF:-1 tvg-id="discovery1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel HD
+#EXTINF:-1 tvg-id="discovery1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel FHD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1162
+#EXTINF:-1 tvg-id="discovery2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",DISCOVERY Channel HD
+http://compitv.info:8080/Maria/1234567/335273
 
-#EXTINF:-1 tvg-id="anim1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/VJsLK6F.png" group-title="Animal Planet",ANIMAL PLANET HD LA
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/50575
-#EXTINF:-1 tvg-id="anim2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/VJsLK6F.png" group-title="Animal Planet",ANIMAL PLANET FHD LA
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/2997
+#EXTINF:-1 tvg-id="discovery2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",DISCOVERY Familia HD
+http://compitv.info:8080/Maria/1234567/335274
 
-#EXTINF:-1 tvg-id="discoveryt1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/lf1TCEg.png" group-title="Discovery",Discovery Theater HD LA
+#EXTINF:-1 tvg-id="discoveryt1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/lf1TCEg.png" group-title="Discovery",Discovery Theater FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172605
 #EXTINF:-1 tvg-id="discoveryt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/lf1TCEg.png" group-title="Discovery",Discovery Theater HD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3022
+#EXTINF:-1 tvg-id="discoveryt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/lf1TCEg.png" group-title="Discovery",Discovery Theater FHD MX
+http://compitv.info:8080/Maria/1234567/335277
 
-
-#EXTINF:-1 tvg-id="discoveryw3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World HD ES
+#EXTINF:-1 tvg-id="discoveryw1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9061
-#EXTINF:-1 tvg-id="discoveryw4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World HD ES
+#EXTINF:-1 tvg-id="discoveryw2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172591
-#EXTINF:-1 tvg-id="discoveryw5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World HD ES
+#EXTINF:-1 tvg-id="discoveryw3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World FHD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/72607
-#EXTINF:-1 tvg-id="discoveryw6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World HD ES
+#EXTINF:-1 tvg-id="discoveryw4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/46569
-#EXTINF:-1 tvg-id="discoveryw7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World HD ES
+#EXTINF:-1 tvg-id="discoveryw5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World FHD DO
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/8894
-#EXTINF:-1 tvg-id="discoveryw78.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World HD ES
+#EXTINF:-1 tvg-id="discoveryw6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World FHD 
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1162
-
-
-#EXTINF:-1 tvg-id="discoverycien1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Science HD LA
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3021
-#EXTINF:-1 tvg-id="discoverycien2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Science HD LA
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/72602
-
-
-#EXTINF:-1 tvg-id="id1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Investigation Discovery FHD
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/23301
-#EXTINF:-1 tvg-id="id2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Investigation Discovery FHD
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/27790
-#EXTINF:-1 tvg-id="id3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Investigation Discovery FHD
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3063
-#EXTINF:-1 tvg-id="id4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Investigation Discovery FHD
+#EXTINF:-1 tvg-id="discoveryw7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World HD ES
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9059
+#EXTINF:-1 tvg-id="discoveryw8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World HD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9151
+#EXTINF:-1 tvg-id="discoveryw9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World HD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9056
-#EXTINF:-1 tvg-id="id5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Investigation Discovery FHD
+#EXTINF:-1 tvg-id="discoveryw10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World HD LA
+http://compitv.info:8080/Maria/1234567/335279
+
+#EXTINF:-1 tvg-id="discoverycien1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Science FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3021
+#EXTINF:-1 tvg-id="discoverycien2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Science FHD LA
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/72602
+#EXTINF:-1 tvg-id="discoverycien3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Science FHD MX
+http://compitv.info:8080/Maria/1234567/86320
+
+#EXTINF:-1 tvg-id="id1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Investigation Discovery FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/23301
+#EXTINF:-1 tvg-id="id2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Investigation Discovery FHD LA 
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/27790
+#EXTINF:-1 tvg-id="id3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Investigation Discovery FHD MX 
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3063
+#EXTINF:-1 tvg-id="id4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Investigation Discovery FHD DO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9056
+#EXTINF:-1 tvg-id="id5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Investigation Discovery FHD LATNO
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/77778
 #EXTINF:-1 tvg-id="id6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Investigation Discovery FHD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49454
-#EXTINF:-1 tvg-id="id7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Investigation Discovery UHD
+#EXTINF:-1 tvg-id="id7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Investigation Discovery FHD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9056
-#EXTINF:-1 tvg-id="id8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Investigation Discovery HD
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49454
 
 #EXTINF:-1 tvg-id="discoveryh1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/5774
-#EXTINF:-1 tvg-id="discoveryh3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H HD ARG
+#EXTINF:-1 tvg-id="discoveryh2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H HD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9110
-#EXTINF:-1 tvg-id="discoveryh4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H HD ARG
+#EXTINF:-1 tvg-id="discoveryh3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H HD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172593
-#EXTINF:-1 tvg-id="discoveryh8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H HD ARG
+#EXTINF:-1 tvg-id="discoveryh4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H HD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172589
+#EXTINF:-1 tvg-id="discoveryh5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",DISCOVERY Home & Health HD
+http://compitv.info:8080/Maria/1234567/335275
 
-#EXTINF:-1 tvg-id="discoverytur1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo HD
+#EXTINF:-1 tvg-id="discoverytur1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3023
-#EXTINF:-1 tvg-id="discoverytur2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo FHD
+#EXTINF:-1 tvg-id="discoverytur2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9058
-#EXTINF:-1 tvg-id="discoverytur3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo FHD
+#EXTINF:-1 tvg-id="discoverytur3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3063
-#EXTINF:-1 tvg-id="discoverytur4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo FHD
+#EXTINF:-1 tvg-id="discoverytur4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo FHD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49454
+#EXTINF:-1 tvg-id="discoverytur4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",DISCOVERY TURBO HD
+http://compitv.info:8080/Maria/1234567/335278
 
-
-#EXTINF:-1 tvg-id="discoveryw1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World HD ES
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9059
-#EXTINF:-1 tvg-id="discoveryw2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World FHD ES
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/8894
-#EXTINF:-1 tvg-id="discoveryw3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World FHD ARG
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/46569
-#EXTINF:-1 tvg-id="discoveryw4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World HD ARG
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9151
-#EXTINF:-1 tvg-id="discoveryw5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World HD LA
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9056
+#EXTINF:-1 tvg-id="anim1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/VJsLK6F.png" group-title="Animal Planet",ANIMAL PLANET HD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/50575
+#EXTINF:-1 tvg-id="anim2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/VJsLK6F.png" group-title="Animal Planet",ANIMAL PLANET FHD LA
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/2997
+#EXTINF:-1 tvg-id="anim2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/VJsLK6F.png" group-title="Animal Planet",ANIMAL Planet HD
+http://compitv.info:8080/Maria/1234567/335270
 
 #EXTINF:-1 tvg-id="h1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel HD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49293
-#EXTINF:-1 tvg-id="h2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel HD ARG
+#EXTINF:-1 tvg-id="h2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel HD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1155
-#EXTINF:-1 tvg-id="h3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel HD ARG
+#EXTINF:-1 tvg-id="h3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel HD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3060
 #EXTINF:-1 tvg-id="h4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel 2 HD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/40831
-#EXTINF:-1 tvg-id="h7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel HD ARG
+#EXTINF:-1 tvg-id="h7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel HD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/72611
-#EXTINF:-1 tvg-id="h8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel HD ARG
+#EXTINF:-1 tvg-id="h8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel HD DO
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49468
 
-#EXTINF:-1 tvg-id="nat2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/G38N8Jh.png" group-title="Nat Geo",NAT GEO HD ES
+#EXTINF:-1 tvg-id="nat1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/G38N8Jh.png" group-title="Nat Geo",NAT GEO HD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/8725
-#EXTINF:-1 tvg-id="nat5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/G38N8Jh.png" group-title="Nat Geo",NAT GEO HD LA
+#EXTINF:-1 tvg-id="nat2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/G38N8Jh.png" group-title="Nat Geo",NAT GEO HD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172598
-#EXTINF:-1 tvg-id="nat6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/G38N8Jh.png" group-title="Nat Geo",NAT GEO HD LA
+#EXTINF:-1 tvg-id="nat3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/G38N8Jh.png" group-title="Nat Geo",NAT GEO HD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1138
-#EXTINF:-1 tvg-id="nat7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/G38N8Jh.png" group-title="Nat Geo",NAT GEO HD LA
+#EXTINF:-1 tvg-id="nat4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/G38N8Jh.png" group-title="Nat Geo",NAT GEO HD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3073
-#EXTINF:-1 tvg-id="nat8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/G38N8Jh.png" group-title="Nat Geo",NAT GEO HD LA
+#EXTINF:-1 tvg-id="nat5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/G38N8Jh.png" group-title="Nat Geo",NAT GEO HD DO
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/47706
 
-#EXTINF:-1 tvg-id="nat8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/G38N8Jh.png" group-title="Nat Geo",Nat Geo Mundo FHD LA
+#EXTINF:-1 tvg-id="nat6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/G38N8Jh.png" group-title="Nat Geo",Nat Geo Mundo FHD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/267311
 
 #EXTINF:-1 tvg-id="natw1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD HD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38698
-#EXTINF:-1 tvg-id="natw2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD HD ES
+#EXTINF:-1 tvg-id="natw2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1137
-#EXTINF:-1 tvg-id="natw3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD HD ES
+#EXTINF:-1 tvg-id="natw3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD HD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9072
-#EXTINF:-1 tvg-id="natw4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD HD ES
+#EXTINF:-1 tvg-id="natw4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD FHD DO
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172601
-#EXTINF:-1 tvg-id="natw5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD HD ES
+#EXTINF:-1 tvg-id="natw5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD HD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/72633
 
 #EXTINF:-1 tvg-id="fx1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX FHD ES
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/34561
 #EXTINF:-1 tvg-id="fx2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX HD ARG
 http://mains.services:2086/kixy2030/u8zC9nvB69/98786
-#EXTINF:-1 tvg-id="fx3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX HD ARG
+#EXTINF:-1 tvg-id="fx3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172268
-#EXTINF:-1 tvg-id="fx4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX HD ARG
+#EXTINF:-1 tvg-id="fx4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX HD DO
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9105
-#EXTINF:-1 tvg-id="fx6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX HD ARG
+#EXTINF:-1 tvg-id="fx6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX FHD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/295243
-#EXTINF:-1 tvg-id="fx7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX HD ARG
+#EXTINF:-1 tvg-id="fx7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX HD 
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49462
+#EXTINF:-1 tvg-id="fx8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX HD 
+http://compitv.info:8080/Maria/1234567/335347
 
-#EXTINF:-1 tvg-id="fx2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FXM HD ARG
+#EXTINF:-1 tvg-id="fxm1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FXM HD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9079
-#EXTINF:-1 tvg-id="fx3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FXM HD ARG
+#EXTINF:-1 tvg-id="fxm2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FXM FHD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/29302
-
+#EXTINF:-1 tvg-id="fxm3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FXM FHD
+http://compitv.info:8080/Maria/1234567/334508
+#EXTINF:-1 tvg-id="fxm4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FXM SD
+http://compitv.info:8080/Maria/1234567/335348
+#EXTINF:-1 tvg-id="fxm5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FXM FHD
+http://compitv.info:8080/Maria/1234567/340037
 
 #EXTINF:-1 tvg-id="glis1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gAAo4cL.png" group-title="Canales Peliculas",Glitz HD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/45626
-#EXTINF:-1 tvg-id="glis2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gAAo4cL.png" group-title="Canales Peliculas",Glitz HD MX
+#EXTINF:-1 tvg-id="glis2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gAAo4cL.png" group-title="Canales Peliculas",Glitz HD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9125
-#EXTINF:-1 tvg-id="glis3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gAAo4cL.png" group-title="Canales Peliculas",Glitz HD MX
+#EXTINF:-1 tvg-id="glis3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gAAo4cL.png" group-title="Canales Peliculas",Glitz HD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/30712
 
 #EXTINF:-1 tvg-id="gole1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/8fK98Ze.png" group-title="Canales Peliculas",Golden Edge HD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9076
-#EXTINF:-1 tvg-id="golp2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PPxjbAZ.png" group-title="Canales Peliculas",Golden Premier MX
+#EXTINF:-1 tvg-id="golp2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PPxjbAZ.png" group-title="Canales Peliculas",Golden Premier FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3052
+#EXTINF:-1 tvg-id="golp3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PPxjbAZ.png" group-title="Canales Peliculas",GOLDEN HD
+http://compitv.info:8080/Maria/1234567/334482
+#EXTINF:-1 tvg-id="golp4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PPxjbAZ.png" group-title="Canales Peliculas",GOLDEN SD
+http://compitv.info:8080/Maria/1234567/335349
+#EXTINF:-1 tvg-id="golp5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PPxjbAZ.png" group-title="Canales Peliculas",GOLDEN EDGE SD
+http://compitv.info:8080/Maria/1234567/335350
+#EXTINF:-1 tvg-id="golp6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PPxjbAZ.png" group-title="Canales Peliculas",GOLDEN PLUS SD
+http://compitv.info:8080/Maria/1234567/335351
+#EXTINF:-1 tvg-id="golp7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PPxjbAZ.png" group-title="Canales Peliculas",GOLDEN PREMIER SD
+http://compitv.info:8080/Maria/1234567/335352
+#EXTINF:-1 tvg-id="golp8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PPxjbAZ.png" group-title="Canales Peliculas",GOLDEN EDGE FHD
+http://compitv.info:8080/Maria/1234567/340022
+#EXTINF:-1 tvg-id="golp9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PPxjbAZ.png" group-title="Canales Peliculas",GOLDEN PLUS FHD
+http://compitv.info:8080/Maria/1234567/340023
+#EXTINF:-1 tvg-id="golp10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PPxjbAZ.png" group-title="Canales Peliculas",GOLDEN PREMIER FHD
+http://compitv.info:8080/Maria/1234567/340024
 
-
-#EXTINF:-1 tvg-id="tb2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TBS HD ARG
+#EXTINF:-1 tvg-id="tb1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TBS HD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9124
-#EXTINF:-1 tvg-id="tb3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TBS HD LA
+#EXTINF:-1 tvg-id="tb2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TBS HD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38710
-#EXTINF:-1 tvg-id="tb4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TBS HD MX
+#EXTINF:-1 tvg-id="tb3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TBS HD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49479
-#EXTINF:-1 tvg-id="tb1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TBS HD ES
+#EXTINF:-1 tvg-id="tb4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TBS HD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/5803
+#EXTINF:-1 tvg-id="tb5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TBS SD ES
+http://compitv.info:8080/Maria/1234567/335367
 
 #EXTINF:-1 tvg-id="tcm1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TCM HD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3085
@@ -193,220 +229,255 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3085
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49314
 #EXTINF:-1 tvg-id="tcm3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TCM HD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9131
-#EXTINF:-1 tvg-id="tcm5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TCM HD ES
+#EXTINF:-1 tvg-id="tcm4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TCM HD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1134
+#EXTINF:-1 tvg-id="tcm5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TCM HD 
+http://compitv.info:8080/Maria/1234567/334505
+#EXTINF:-1 tvg-id="tcm6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TCM SD 
+http://compitv.info:8080/Maria/1234567/335368
 
 #EXTINF:-1 tvg-id="fox1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Q8r3byL.png" group-title="Canales Peliculas",FOX FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1158
 
-#EXTINF:-1 tvg-id="fox5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r3ihj1I.png" group-title="Canales Peliculas",Fox Life FHD
+#EXTINF:-1 tvg-id="fox2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r3ihj1I.png" group-title="Canales Peliculas",Fox Life FHD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/295164
 
 #EXTINF:-1 tvg-id="hbo1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3055
-#EXTINF:-1 tvg-id="hbo2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO FHD ES
+#EXTINF:-1 tvg-id="hbo2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38690
-#EXTINF:-1 tvg-id="hbo3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO FHD ES
+#EXTINF:-1 tvg-id="hbo3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/285191
-#EXTINF:-1 tvg-id="hbo4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO FHD ES
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38690
-#EXTINF:-1 tvg-id="hbo5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO FHD ES
+#EXTINF:-1 tvg-id="hbo4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO FHD DO
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/14978
-#EXTINF:-1 tvg-id="hbo6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO FHD ES
+#EXTINF:-1 tvg-id="hbo5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO FHD 
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/76290
 
-#EXTINF:-1 tvg-id="hbo7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO+ FHD ES
+#EXTINF:-1 tvg-id="hbo7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO+ FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38685
 #EXTINF:-1 tvg-id="hbo8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO+ FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3058
-#EXTINF:-1 tvg-id="hbo10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO+ FHD ES
+#EXTINF:-1 tvg-id="hbo10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO+ FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49466
 
-#EXTINF:-1 tvg-id="hbo11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO2 FHD ES
+#EXTINF:-1 tvg-id="hbo11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO2 FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/29301
 #EXTINF:-1 tvg-id="hbo12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO2 FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3056
-#EXTINF:-1 tvg-id="hbo14.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO2 FHD ES
+#EXTINF:-1 tvg-id="hbo14.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO2 FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/14979
-#EXTINF:-1 tvg-id="hbo15.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO2 FHD ES
+#EXTINF:-1 tvg-id="hbo15.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO2 FHD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49465
-#EXTINF:-1 tvg-id="hbo16.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO2 FHD ES
+#EXTINF:-1 tvg-id="hbo16.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO2 FHD DO
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/50615
 
-#EXTINF:-1 tvg-id="hbo17.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO Family FHD ES
+#EXTINF:-1 tvg-id="hbo17.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO Family FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3057
 #EXTINF:-1 tvg-id="hbo18.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO Family FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38687
-#EXTINF:-1 tvg-id="hbo19.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO Family FHD ES
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38687
 
-#EXTINF:-1 tvg-id="hbo21.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO Mundi FHD ES
+#EXTINF:-1 tvg-id="hbo19.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO Mundi FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38701
-#EXTINF:-1 tvg-id="hbo31.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO Mundi FHD ES
+#EXTINF:-1 tvg-id="hbo20.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO Mundi FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/226015
-#EXTINF:-1 tvg-id="hbo41.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO Mundi FHD ES
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38701
 
-#EXTINF:-1 tvg-id="hbo51.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas", HBO Pop FHD ES
+#EXTINF:-1 tvg-id="hbo21.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas", HBO Pop FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/29305
-#EXTINF:-1 tvg-id="hbo61.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas", HBO Pop FHD ES
+#EXTINF:-1 tvg-id="hbo21.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas", HBO Pop FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3069
 
-#EXTINF:-1 tvg-id="hbo1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas", HBO Signature FHD ES
+#EXTINF:-1 tvg-id="hbo23.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas", HBO Signature FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49289
-#EXTINF:-1 tvg-id="hbo1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas", HBO Signature FHD ES
+#EXTINF:-1 tvg-id="hbo24.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas", HBO Signature FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/91989
-#EXTINF:-1 tvg-id="hbo1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas", HBO Signature FHD ES
+#EXTINF:-1 tvg-id="hbo25.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas", HBO Signature FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3059
-#EXTINF:-1 tvg-id="hbo1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas", HBO Signature FHD ES
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49289
 
-#EXTINF:-1 tvg-id="hbo1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas", HBO Xtreme FHD ES
+#EXTINF:-1 tvg-id="hbo26.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas", HBO Xtreme FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172272
-#EXTINF:-1 tvg-id="hbo1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas", HBO Xtreme FHD ES
+#EXTINF:-1 tvg-id="hbo27.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas", HBO Xtreme FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/285192
-#EXTINF:-1 tvg-id="hbo1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas", HBO Xtreme FHD ES
+#EXTINF:-1 tvg-id="hbo28.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas", HBO Xtreme FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/148927
-#EXTINF:-1 tvg-id="hbo1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas", HBO Xtreme FHD ES
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172272
+#EXTINF:-1 tvg-id="hbo29.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas", HBO SD
+http://compitv.info:8080/Maria/1234567/335353
+#EXTINF:-1 tvg-id="hbo30.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas", HBO 2 SD
+http://compitv.info:8080/Maria/1234567/335354
+#EXTINF:-1 tvg-id="hbo31.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas", HBO+ SD
+http://compitv.info:8080/Maria/1234567/335355
+#EXTINF:-1 tvg-id="hbo32.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO FAMILY SD
+http://compitv.info:8080/Maria/1234567/335356
+#EXTINF:-1 tvg-id="hbo33.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO MUNDI SD
+http://compitv.info:8080/Maria/1234567/335357
+#EXTINF:-1 tvg-id="hbo34.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO POP SD
+http://compitv.info:8080/Maria/1234567/335358
+#EXTINF:-1 tvg-id="hbo35.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO SIGNATURE SD
+http://compitv.info:8080/Maria/1234567/335359
+#EXTINF:-1 tvg-id="hbo36.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO XTREME SD
+http://compitv.info:8080/Maria/1234567/335360
+#EXTINF:-1 tvg-id="hbo37.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO MUNDI HD
+http://compitv.info:8080/Maria/1234567/340025
+#EXTINF:-1 tvg-id="hbo38.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO POP HD
+http://compitv.info:8080/Maria/1234567/340026
 
-#EXTINF:-1 tvg-id="ae2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E FHD ARG
+#EXTINF:-1 tvg-id="ae1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/7731
-#EXTINF:-1 tvg-id="ae5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E FHD MX
+#EXTINF:-1 tvg-id="ae2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/5759
-#EXTINF:-1 tvg-id="ae7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E HD ES
+#EXTINF:-1 tvg-id="ae3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E HD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9117
-#EXTINF:-1 tvg-id="ae7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E HD ES
+#EXTINF:-1 tvg-id="ae4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E HD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38648
 
 #EXTINF:-1 tvg-id="str1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3035
 #EXTINF:-1 tvg-id="str2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/280374
-#EXTINF:-1 tvg-id="str3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star FHD LA
+#EXTINF:-1 tvg-id="str3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star FHD DO
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/280386
-#EXTINF:-1 tvg-id="str4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star FHD MX
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/280374
-#EXTINF:-1 tvg-id="str5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star HD MX
+#EXTINF:-1 tvg-id="str4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star HD LATINO
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/285115
-
 #EXTINF:-1 tvg-id="str5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Action HD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/280376
-#EXTINF:-1 tvg-id="str5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Action HD MX
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/280376
-
-#EXTINF:-1 tvg-id="str5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Comedy HD MX
+#EXTINF:-1 tvg-id="str6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Comedy HD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/280372
-#EXTINF:-1 tvg-id="str5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Comedy HD MX
+#EXTINF:-1 tvg-id="str7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Comedy HD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3034
-#EXTINF:-1 tvg-id="str5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Comedy HD MX
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/280372
 
-#EXTINF:-1 tvg-id="str5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Hits HD MX
+#EXTINF:-1 tvg-id="str8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Hits HD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/285195
-#EXTINF:-1 tvg-id="str5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Hits HD MX
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/285195
-#EXTINF:-1 tvg-id="str5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Black HD MX
+#EXTINF:-1 tvg-id="str9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Black HD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/295814
-#EXTINF:-1 tvg-id="str5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Cinema HD MX
+#EXTINF:-1 tvg-id="str10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Cinema HD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38495
-#EXTINF:-1 tvg-id="str5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",TVE Star HD MX
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/31779
-
+#EXTINF:-1 tvg-id="str11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",STAR LIFE HD
+http://compitv.info:8080/Maria/1234567/334509
+#EXTINF:-1 tvg-id="str12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",STAR CHANNEL SD
+http://compitv.info:8080/Maria/1234567/335344
+#EXTINF:-1 tvg-id="str13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",STAR SERIES SD
+http://compitv.info:8080/Maria/1234567/335346
+#EXTINF:-1 tvg-id="str14.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",STARZ CINEMA WEST
+http://compitv.info:8080/Maria/1234567/347963
+#EXTINF:-1 tvg-id="str15.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",STARZ COMEDY WEST
+http://compitv.info:8080/Maria/1234567/347964
+#EXTINF:-1 tvg-id="str16.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",STARZ EDGE WEST
+http://compitv.info:8080/Maria/1234567/347965
+#EXTINF:-1 tvg-id="str17.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",STARZENCORE ACTION WEST
+http://compitv.info:8080/Maria/1234567/347966
+#EXTINF:-1 tvg-id="str18.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",STARZENCORE CLASSIC WEST
+http://compitv.info:8080/Maria/1234567/347968
+#EXTINF:-1 tvg-id="str19.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",STARZENCORE SUSPENSE WEST
+http://compitv.info:8080/Maria/1234567/347970
+#EXTINF:-1 tvg-id="str20.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",STARZENCORE WESTERN WEST
+http://compitv.info:8080/Maria/1234567/347971
 
 #EXTINF:-1 tvg-id="ee1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Nxxe4Dd.png" group-title="Canales Peliculas",E! Entertaiment FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/31760
-#EXTINF:-1 tvg-id="ee2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Nxxe4Dd.png" group-title="Canales Peliculas",E! Entertaiment FHD LA
+#EXTINF:-1 tvg-id="ee2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Nxxe4Dd.png" group-title="Canales Peliculas",E! Entertaiment FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38668
 #EXTINF:-1 tvg-id="ee2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Nxxe4Dd.png" group-title="Canales Peliculas",E! Entertaiment FHD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3029
 #EXTINF:-1 tvg-id="ee2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Nxxe4Dd.png" group-title="Canales Peliculas",E! Entertaiment FHD LA
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3029
+http://compitv.info:8080/Maria/1234567/335695
 
-#EXTINF:-1 tvg-id="su8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD
+#EXTINF:-1 tvg-id="su1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3083
-#EXTINF:-1 tvg-id="su9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD
+#EXTINF:-1 tvg-id="su2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9071
-#EXTINF:-1 tvg-id="su10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD
+#EXTINF:-1 tvg-id="su3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/280367
-#EXTINF:-1 tvg-id="su11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD
+#EXTINF:-1 tvg-id="su4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD LA 
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/290470
-#EXTINF:-1 tvg-id="su9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9071
-#EXTINF:-1 tvg-id="su10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/280367
-#EXTINF:-1 tvg-id="su11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/290470
-#EXTINF:-1 tvg-id="su11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD
+#EXTINF:-1 tvg-id="su5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD DO
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38719
-#EXTINF:-1 tvg-id="su11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD
+#EXTINF:-1 tvg-id="su6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD LATINO
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3036
 
+#EXTINF:-1 tvg-id="su7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",UNIVERSAL CINEMA FHD LATINO
+http://compitv.info:8080/Maria/1234567/323741
+#EXTINF:-1 tvg-id="su8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",UNIVERSAL CRIME FHD LATINO
+http://compitv.info:8080/Maria/1234567/323742
+#EXTINF:-1 tvg-id="su9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",UNIVERSAL PREMIERE FHD LATINO
+http://compitv.info:8080/Maria/1234567/323743
+#EXTINF:-1 tvg-id="su10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",UNVERSAL CRIME HD
+http://compitv.info:8080/Maria/1234567/334477
+#EXTINF:-1 tvg-id="su11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",UNVERSAL ESTUDIO HD
+http://compitv.info:8080/Maria/1234567/334478
+#EXTINF:-1 tvg-id="su12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",UNIVERSAL PREMIERE HD
+http://compitv.info:8080/Maria/1234567/334479
+#EXTINF:-1 tvg-id="su13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",UNIVERSAL COMEDY HD
+http://compitv.info:8080/Maria/1234567/334481
 
-#EXTINF:-1 tvg-id="su11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal Cinema FHD
+#EXTINF:-1 tvg-id="su11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal Cinema FHD 
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/291225
-#EXTINF:-1 tvg-id="su11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal Comedy FHD
+#EXTINF:-1 tvg-id="su12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal Comedy FHD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/291224
-#EXTINF:-1 tvg-id="su11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal Crime FHD
+#EXTINF:-1 tvg-id="su13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal Crime FHD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/291222
-#EXTINF:-1 tvg-id="su11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal Reality FHD
+#EXTINF:-1 tvg-id="su14.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal Reality FHD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/291217
-#EXTINF:-1 tvg-id="su11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal TV FHD
+#EXTINF:-1 tvg-id="su15.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal TV FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9133
-#EXTINF:-1 tvg-id="su11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal TV FHD
+#EXTINF:-1 tvg-id="su16.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal TV FHD ES 
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38719
-#EXTINF:-1 tvg-id="su11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal TV FHD
+#EXTINF:-1 tvg-id="su17.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal TV FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/295401
 
-
-#EXTINF:-1 tvg-id="tnt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD ARG
+#EXTINF:-1 tvg-id="tnt1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/2187
-#EXTINF:-1 tvg-id="tnt4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD MX
+#EXTINF:-1 tvg-id="tnt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9140
-#EXTINF:-1 tvg-id="tnt5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD LA
+#EXTINF:-1 tvg-id="tnt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38720
-#EXTINF:-1 tvg-id="tnt5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD LA
+#EXTINF:-1 tvg-id="tnt4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3089
-#EXTINF:-1 tvg-id="tnt5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD LA
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38720
-#EXTINF:-1 tvg-id="tnt5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD LA
+#EXTINF:-1 tvg-id="tnt5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD DO
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49481
+#EXTINF:-1 tvg-id="tnt6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD
+http://compitv.info:8080/Maria/1234567/334498
+#EXTINF:-1 tvg-id="tnt7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD
+http://compitv.info:8080/Maria/1234567/335369
 
-#EXTINF:-1 tvg-id="tnts2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yjriT0J.png" group-title="Canales Peliculas",TNT Series HD ARG
+#EXTINF:-1 tvg-id="tnts1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yjriT0J.png" group-title="Canales Peliculas",TNT Series HD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/285147
-#EXTINF:-1 tvg-id="tnts3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yjriT0J.png" group-title="Canales Peliculas",TNT Series HD MX
+#EXTINF:-1 tvg-id="tnts2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yjriT0J.png" group-title="Canales Peliculas",TNT Series HD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3109
+#EXTINF:-1 tvg-id="tnts3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yjriT0J.png" group-title="Canales Peliculas",TNT SERIES HD
+http://compitv.info:8080/Maria/1234567/334499
 
-#EXTINF:-1 tvg-id="wan2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Dv7p7sm.png" group-title="Canales Peliculas",Warner TV FHD ARG
+#EXTINF:-1 tvg-id="wan1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Dv7p7sm.png" group-title="Canales Peliculas",Warner TV FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/60006
-#EXTINF:-1 tvg-id="wan3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Dv7p7sm.png" group-title="Canales Peliculas",Warner TV FHD ES
+#EXTINF:-1 tvg-id="wan2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Dv7p7sm.png" group-title="Canales Peliculas",Warner TV FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9142
-#EXTINF:-1 tvg-id="wan4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Dv7p7sm.png" group-title="Canales Peliculas",Warner TV FHD LATINO
+#EXTINF:-1 tvg-id="wan3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Dv7p7sm.png" group-title="Canales Peliculas",Warner TV FHD LATINO
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38722
+#EXTINF:-1 tvg-id="wan4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Dv7p7sm.png" group-title="Canales Peliculas",Warner TV FHD LATINO
+http://compitv.info:8080/Maria/1234567/335371
 
 #EXTINF:-1 tvg-id="far1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gqEzpRt.png" group-title="Canales Peliculas",Film & Arts HD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38678
 #EXTINF:-1 tvg-id="far2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gqEzpRt.png" group-title="Canales Peliculas",Film & Arts HD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9089
-#EXTINF:-1 tvg-id="far2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gqEzpRt.png" group-title="Canales Peliculas",Film & Arts HD ARG
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38678
-
-
-
+#EXTINF:-1 tvg-id="far3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gqEzpRt.png" group-title="Canales Peliculas",Film & Arts HD ARG
+http://compitv.info:8080/Maria/1234567/335285
 
 #EXTINF:-1 tvg-id="s1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",Sony Channel HD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3081
 #EXTINF:-1 tvg-id="s2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",Sony Channel HD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38708
-#EXTINF:-1 tvg-id="s3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",Sony Channel FHD
+#EXTINF:-1 tvg-id="s3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",Sony Channel FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9115
-#EXTINF:-1 tvg-id="s3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",Sony Channel FHD
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38708
-#EXTINF:-1 tvg-id="s3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",Sony Channel FHD
+#EXTINF:-1 tvg-id="s4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",Sony Channel FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49474
-#EXTINF:-1 tvg-id="s3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",Sony Max Channel FHD
+#EXTINF:-1 tvg-id="s5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",Sony Max Channel FHD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/77763
+#EXTINF:-1 tvg-id="s6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",SONY CINE HD
+http://compitv.info:8080/Maria/1234567/334495
+#EXTINF:-1 tvg-id="s7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",Sony Channel HD
+http://compitv.info:8080/Maria/1234567/335364
 
+#EXTINF:-1 tvg-id="s5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",SYFY CHANNEL FHD
+http://compitv.info:8080/Maria/1234567/334497
 #EXTINF:-1 tvg-id="sy1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/0K9OWqT.png" group-title="Canales Peliculas",SYFY FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1135
 #EXTINF:-1 tvg-id="sy2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/0K9OWqT.png" group-title="Canales Peliculas",SYFY HD ARG
@@ -415,106 +486,122 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/5802
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9081
 #EXTINF:-1 tvg-id="sy4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/0K9OWqT.png" group-title="Canales Peliculas",SYFY HD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49316
+#EXTINF:-1 tvg-id="sy5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/0K9OWqT.png" group-title="Canales Peliculas",SYFY HD
+http://compitv.info:8080/Maria/1234567/334506
+#EXTINF:-1 tvg-id="sy6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/0K9OWqT.png" group-title="Canales Peliculas",SYFY SD
+http://compitv.info:8080/Maria/1234567/335366
 
-
-
-
-
-#EXTINF:-1 tvg-id="sp1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jQi9xVj.png" group-title="Canales Peliculas",Space Sur HD ARG
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/14542
-#EXTINF:-1 tvg-id="sp2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jQi9xVj.png" group-title="Canales Peliculas",Space HD LA
+#EXTINF:-1 tvg-id="sp1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jQi9xVj.png" group-title="Canales Peliculas",Space HD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/14542
 #EXTINF:-1 tvg-id="sp2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jQi9xVj.png" group-title="Canales Peliculas",Space HD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/34566
-#EXTINF:-1 tvg-id="sp2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jQi9xVj.png" group-title="Canales Peliculas",Space HD LA
+#EXTINF:-1 tvg-id="sp3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jQi9xVj.png" group-title="Canales Peliculas",Space HD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9136
-#EXTINF:-1 tvg-id="sp2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jQi9xVj.png" group-title="Canales Peliculas",Space HD LA
+#EXTINF:-1 tvg-id="sp4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jQi9xVj.png" group-title="Canales Peliculas",Space HD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49477
+#EXTINF:-1 tvg-id="sp5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jQi9xVj.png" group-title="Canales Peliculas",Space SD
+http://compitv.info:8080/Maria/1234567/335365
+#EXTINF:-1 tvg-id="sp6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jQi9xVj.png" group-title="Canales Peliculas",SPACE HD
+http://compitv.info:8080/Maria/1234567/340031
 
-
-#EXTINF:-1 tvg-id="amc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD ARG
+#EXTINF:-1 tvg-id="amc1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/2996
-#EXTINF:-1 tvg-id="amc4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD LA
+#EXTINF:-1 tvg-id="amc2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9083
-#EXTINF:-1 tvg-id="amc5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD LATINO
+#EXTINF:-1 tvg-id="amc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38654
-#EXTINF:-1 tvg-id="amc5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD LATINO
+#EXTINF:-1 tvg-id="amc4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1174
 #EXTINF:-1 tvg-id="amc5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD LATINO
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/72597
 
-
-#EXTINF:-1 tvg-id="ax7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD LATINO
+#EXTINF:-1 tvg-id="ax1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD LATINO
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9138
-#EXTINF:-1 tvg-id="ax8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
+#EXTINF:-1 tvg-id="ax2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38651
-#EXTINF:-1 tvg-id="ax9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
+#EXTINF:-1 tvg-id="ax3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/46554
-#EXTINF:-1 tvg-id="ax10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN White FHD
+#EXTINF:-1 tvg-id="ax4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN White FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1171
-#EXTINF:-1 tvg-id="ax11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
+#EXTINF:-1 tvg-id="ax5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1172
-#EXTINF:-1 tvg-id="ax11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
+#EXTINF:-1 tvg-id="ax6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1174
-#EXTINF:-1 tvg-id="ax11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
+#EXTINF:-1 tvg-id="ax7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/2998
-#EXTINF:-1 tvg-id="ax11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/46554
-#EXTINF:-1 tvg-id="ax11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
+#EXTINF:-1 tvg-id="ax8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/14968
-#EXTINF:-1 tvg-id="ax11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
+#EXTINF:-1 tvg-id="ax9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/72597
-#EXTINF:-1 tvg-id="ax11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
+#EXTINF:-1 tvg-id="ax10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/14969
 #EXTINF:-1 tvg-id="ax11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN white FHD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/14970
-#EXTINF:-1 tvg-id="ax11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
+#EXTINF:-1 tvg-id="ax12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49443
 
-#EXTINF:-1 tvg-id="cl1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/LM0VtkF.png" group-title="Canales Peliculas",Claro Cinema FHD
+#EXTINF:-1 tvg-id="cla1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/LM0VtkF.png" group-title="Canales Peliculas",Claro Cinema FHD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/8706
+#EXTINF:-1 tvg-id="cla2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/LM0VtkF.png" group-title="Canales Peliculas",Claro Cinema FHD
+http://compitv.info:8080/Maria/1234567/335338
+#EXTINF:-1 tvg-id="cla3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/LM0VtkF.png" group-title="Canales Peliculas",Claro Cinema FHD
+http://compitv.info:8080/Maria/1234567/340009
 
-#EXTINF:-1 tvg-id="cc1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD MX
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38655
-#EXTINF:-1 tvg-id="cc2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD ARG
+#EXTINF:-1 tvg-id="cc1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9128
-#EXTINF:-1 tvg-id="cc2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD ARG
+#EXTINF:-1 tvg-id="cc2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38655
-#EXTINF:-1 tvg-id="cc2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD ARG
+#EXTINF:-1 tvg-id="cc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/290335
-#EXTINF:-1 tvg-id="cc2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD ARG
+#EXTINF:-1 tvg-id="cc4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD DO
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3008
-#EXTINF:-1 tvg-id="cc2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD ARG
+#EXTINF:-1 tvg-id="cc5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/290334
+#EXTINF:-1 tvg-id="cc6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD 
+http://compitv.info:8080/Maria/1234567/335340
 
-
-
-
-
-#EXTINF:-1 tvg-id="cmc6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD LA
+#EXTINF:-1 tvg-id="cmc1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3015
-#EXTINF:-1 tvg-id="cmc7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD LATINO
+#EXTINF:-1 tvg-id="cmc2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9106
-#EXTINF:-1 tvg-id="cmc8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD 
+#EXTINF:-1 tvg-id="cmc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49261
-#EXTINF:-1 tvg-id="cmc9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD 
+#EXTINF:-1 tvg-id="cmc4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1164
-#EXTINF:-1 tvg-id="cmc9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD 
+#EXTINF:-1 tvg-id="cmc5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD DO
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/31762
-#EXTINF:-1 tvg-id="cmc9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD 
+#EXTINF:-1 tvg-id="cmc6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD LATINO
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/56761
-#EXTINF:-1 tvg-id="cmc9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central Family FHD 
+#EXTINF:-1 tvg-id="cmc7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central Family FHD 
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/77771
+#EXTINF:-1 tvg-id="cmc7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",COMEDY CENTRAL HD
+http://compitv.info:8080/Maria/1234567/335272
+#EXTINF:-1 tvg-id="cmc8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",COMEDY CENTRAL HD
+http://compitv.info:8087/Maria/1234567/335693
+#EXTINF:-1 tvg-id="cmc9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",COMEDY CENTRAL HD
+http://compitv.info:8080/Maria/1234567/335704
 
-#EXTINF:-1 tvg-id="pc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Network FHD ES
+#EXTINF:-1 tvg-id="pc1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" grouFHD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9146
-#EXTINF:-1 tvg-id="pc4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Network FHD ARG
+#EXTINF:-1 tvg-id="pc2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Network FHD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38705
-#EXTINF:-1 tvg-id="pc4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Network FHD ARG
+#EXTINF:-1 tvg-id="pc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Network FHD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/2209
-#EXTINF:-1 tvg-id="pc4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Network FHD ARG
+#EXTINF:-1 tvg-id="pc4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Network FHD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3077
+#EXTINF:-1 tvg-id="pc5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Network FHD LA
+http://compitv.info:8080/Maria/1234567/335363
 
+#EXTINF:-1 tvg-id="cm1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax FHD ES
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/5770
+#EXTINF:-1 tvg-id="cm2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax FHD ARG
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9080
+#EXTINF:-1 tvg-id="cm3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax FHD MX
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38661
+#EXTINF:-1 tvg-id="cm4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax FHD DO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/14994
+#EXTINF:-1 tvg-id="cm5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax 2 FHD LA
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/50607
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: A3 Cine" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b2b830d75a0869caf54c795029de436f.png" group-title="Canales Peliculas",A3 Cine
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/283299
@@ -543,69 +630,58 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1140
 #EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="ES: MOVISTAR Series 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/232233041bb3162468c17ee19edd0ecc.png" group-title="Canales Peliculas",MOVISTAR Series 2
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1139
 
-
-#EXTINF:-1 tvg-id="t2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7uZzYZx.png" group-title="Novelas",TLC HD ARG
+#EXTINF:-1 tvg-id="t1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7uZzYZx.png" group-title="Novelas",TLC HD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3107
-#EXTINF:-1 tvg-id="t3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7uZzYZx.png" group-title="Novelas",TLC HD ES
+#EXTINF:-1 tvg-id="t2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7uZzYZx.png" group-title="Novelas",TLC HD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9062
-
-#EXTINF:-1 tvg-id="t32.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/45Xqj2n.png" group-title="Novelas",Az Mundo HD ARG
+#EXTINF:-1 tvg-id="t3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/45Xqj2n.png" group-title="Novelas",Az Mundo HD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3000
-#EXTINF:-1 tvg-id="t92.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/oTlRGXU.png" group-title="Novelas",Hola! TV HD ARG
+#EXTINF:-1 tvg-id="t4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/oTlRGXU.png" group-title="Novelas",Hola! TV HD ARG
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9031
-#EXTINF:-1 tvg-id="t93.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/oTlRGXU.png" group-title="Novelas",Hola! TV HD ES
+#EXTINF:-1 tvg-id="t5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/oTlRGXU.png" group-title="Novelas",Hola! TV HD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/285202
-#EXTINF:-1 tvg-id="t93.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/oTlRGXU.png" group-title="Novelas",Hola! TV HD ES
+#EXTINF:-1 tvg-id="t6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/oTlRGXU.png" group-title="Novelas",Hola! TV HD ES
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3061
-
-
-#EXTINF:-1 tvg-id="cm1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax FHD ES
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/5770
-#EXTINF:-1 tvg-id="cm2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax FHD ARG
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9080
-#EXTINF:-1 tvg-id="cm3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax FHD MX
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38661
-#EXTINF:-1 tvg-id="cm4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax FHD DO
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49449
-#EXTINF:-1 tvg-id="cm4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax FHD DO
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/14994
-#EXTINF:-1 tvg-id="cm4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax 2 FHD DO
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/50607
-
-
-#EXTINF:-1 tvg-id="gala1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QRcgf3F.png" group-title="Galavision",Galavision FHD
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/71860
-#EXTINF:-1 tvg-id="unim5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas Fresno HD
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172670
-#EXTINF:-1 tvg-id="unim6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas Houston HD
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172679
-#EXTINF:-1 tvg-id="unim7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas  HD
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172673
-#EXTINF:-1 tvg-id="unim8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas NY HD
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172682
-#EXTINF:-1 tvg-id="unim9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas Philadelphia HD
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/147654
-
-#EXTINF:-1 tvg-id="t6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/TmGIb4y.png" group-title="Novelas",Canal De Las Estrellas HD
+#EXTINF:-1 tvg-id="t7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/TmGIb4y.png" group-title="Novelas",Canal De Las Estrellas HD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3005
-#EXTINF:-1 tvg-id="t7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/TmGIb4y.png" group-title="Novelas",Las Estrellas FHD
+#EXTINF:-1 tvg-id="t8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/TmGIb4y.png" group-title="Novelas",Las Estrellas FHD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/295654
-#EXTINF:-1 tvg-id="t7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/F16dmV5.png" group-title="Novelas",Pasiones HD
+#EXTINF:-1 tvg-id="t9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/F16dmV5.png" group-title="Novelas",Pasiones HD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3078
-#EXTINF:-1 tvg-id="t8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7uZzYZx.png" group-title="Novelas",TLC HD LA
+#EXTINF:-1 tvg-id="t10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7uZzYZx.png" group-title="Novelas",TLC HD LA
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3107
-#EXTINF:-1 tvg-id="t9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7uZzYZx.png" group-title="Novelas",TLC HD MX
+#EXTINF:-1 tvg-id="t11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7uZzYZx.png" group-title="Novelas",TLC HD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9062
 #EXTINF:-1 tvg-id="t12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/45Xqj2n.png" group-title="Novelas",TLnovelas HD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9141
-#EXTINF:-1 tvg-id="not5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Emk1Vhm.png" group-title="Noticias",CNN en Español FHD MX
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/76353
+#EXTINF:-1 tvg-id="t13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/45Xqj2n.png" group-title="Novelas",Las Estrellas HD
+http://compitv.info:8080/Maria/1234567/335057
+#EXTINF:-1 tvg-id="t14.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/45Xqj2n.png" group-title="Novelas",Las Estrellas SD
+http://compitv.info:8080/Maria/1234567/335058
+#EXTINF:-1 tvg-id="t14.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/45Xqj2n.png" group-title="Novelas",PASIONES HD
+http://compitv.info:8080/Maria/1234567/335297
+#EXTINF:-1 tvg-id="t15.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/45Xqj2n.png" group-title="Novelas",PASIONES HD
+http://compitv.info:8080/Maria/1234567/335699
+#EXTINF:-1 tvg-id="t16.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/45Xqj2n.png" group-title="Novelas",TLnovelas HD
+http://compitv.info:8080/Maria/1234567/335700
+#EXTINF:-1 tvg-id="t17.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/TmGIb4y.png" group-title="Novelas",ESTRELLA TV FHD
+http://compitv.info:8080/Maria/1234567/342945
 
-#EXTINF:-1 tvg-id="r2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/EgyZhRI.png" group-title="Religion",La Voz de Maria HD
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/7233
+#EXTINF:-1 tvg-id="gala1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QRcgf3F.png" group-title="Galavision",Galavision FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/71860
+#EXTINF:-1 tvg-id="gala2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QRcgf3F.png" group-title="Galavision",Galavision HD
+http://compitv.info:8080/Maria/1234567/335702
 
-#EXTINF:-1 tvg-id="nat3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/G38N8Jh.png" group-title="Nat Geo",Nat Geo Mundo FHD ES
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/267311
+#EXTINF:-1 tvg-id="unim1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas Fresno HD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172670
+#EXTINF:-1 tvg-id="unim2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas Houston HD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172679
+#EXTINF:-1 tvg-id="unim3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas  HD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172673
+#EXTINF:-1 tvg-id="unim4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas NY HD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172682
+#EXTINF:-1 tvg-id="unim5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas Philadelphia HD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/147654
 
 #EXTINF:-1 tvg-id="R1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ZJzfK9u.png" group-title="Noticias",RT en Español
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/166663
@@ -613,7 +689,16 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/166663
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1173
 #EXTINF:-1 tvg-id="" tvg-name="ES: CNN en Espanol" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ed51eda47ce082e6ab48b65848b7bc2c.png" group-title="Noticias",CNN en Espanol
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/31762
-
+#EXTINF:-1 tvg-id="not5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Emk1Vhm.png" group-title="Noticias",CNN en Español FHD MX
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/76353
+#EXTINF:-1 tvg-id="not6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Emk1Vhm.png" group-title="Noticias",CNN USA FHD 
+http://compitv.info:8080/Maria/1234567/285886
+#EXTINF:-1 tvg-id="not7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Emk1Vhm.png" group-title="Noticias",CNN CHILE FHD 
+http://compitv.info:8080/Maria/1234567/334097
+#EXTINF:-1 tvg-id="not8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Emk1Vhm.png" group-title="Noticias",CNN en Espanol
+http://compitv.info:8080/Maria/1234567/335701
+#EXTINF:-1 tvg-id="not9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Emk1Vhm.png" group-title="Noticias",CNN International
+http://compitv.info:8080/Maria/1234567/335703
 
 #EXTINF:-1 tvg-id="nov1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Boston HD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3119
@@ -649,6 +734,32 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172627
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/147654
 #EXTINF:-1 tvg-id="nov17.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",Telemundo Tampa HD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172679
+#EXTINF:-1 tvg-id="nov18.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",⭐TELE-MUNDO Internacional
+http://compitv.info:8080/Maria/1234567/342954
+#EXTINF:-1 tvg-id="nov19.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",⭐TELE-MUNDO Miami
+http://compitv.info:8080/Maria/1234567/342955
+#EXTINF:-1 tvg-id="nov20.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",⭐TELE-MUNDO Los Angeles
+http://compitv.info:8080/Maria/1234567/342956
+#EXTINF:-1 tvg-id="nov21.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",⭐TELE-MUNDO Salt Lake City
+http://compitv.info:8080/Maria/1234567/342957
+#EXTINF:-1 tvg-id="nov22.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",⭐TELE-MUNDO New York
+http://compitv.info:8080/Maria/1234567/342958
+#EXTINF:-1 tvg-id="nov23.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",TELE-MUND 22 KTMD Galveston
+http://compitv.info:8080/Maria/1234567/318625
+#EXTINF:-1 tvg-id="nov24.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",TELE-MUND 20 KBLR Paradise
+http://compitv.info:8080/Maria/1234567/318628
+#EXTINF:-1 tvg-id="nov25.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",⭐TELE-MUND 20 KTMW Salt Lake City
+http://compitv.info:8080/Maria/1234567/318635
+#EXTINF:-1 tvg-id="nov25.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",⭐TELE-MUND 19 KFBI Medford
+http://compitv.info:8080/Maria/1234567/318636
+#EXTINF:-1 tvg-id="nov27.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",⭐TELE-MUND 3 KCSO Sacramento
+http://compitv.info:8080/Maria/1234567/318636
+#EXTINF:-1 tvg-id="nov28.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",⭐TELE-MUND 3 KCSO Sacramento
+http://compitv.info:8080/Maria/1234567/318639
+#EXTINF:-1 tvg-id="nov29.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",⭐TELE-MUND 27 KOHA Omaha
+http://compitv.info:8080/Maria/1234567/318647
+#EXTINF:-1 tvg-id="nov30.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/T4L9IMZ.png" group-title="Telemundo",⭐Tele-mund Internacional
+http://compitv.info:8080/Maria/1234567/318650
 
 #EXTINF:-1 tvg-id="unim1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/GF6FPEx.png" group-title="Unimas",Unimas FHD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172682
@@ -677,12 +788,24 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172652
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/295846
 #EXTINF:-1 tvg-id="univ11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision San Francisco HD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/172661
+#EXTINF:-1 tvg-id="univ12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",Univision Puerto Rico HD
+http://compitv.info:8080/Maria/1234567/279733
+#EXTINF:-1 tvg-id="univ13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",⭐Univision Houston
+http://compitv.info:8080/Maria/1234567/342960
+#EXTINF:-1 tvg-id="univ14.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",⭐UnivisionLos Angeles
+http://compitv.info:8080/Maria/1234567/342961
+#EXTINF:-1 tvg-id="univ15.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",⭐Univision Miami
+http://compitv.info:8080/Maria/1234567/342962
+#EXTINF:-1 tvg-id="univ16.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",⭐Univision New York
+http://compitv.info:8080/Maria/1234567/342963
+#EXTINF:-1 tvg-id="univ17.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",⭐Univision Puerto rico
+http://compitv.info:8080/Maria/1234567/348489
 
-
-
+#EXTINF:-1 tvg-id="cl1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/LM0VtkF.png" group-title="Deportes",Claro Sports FHD LA
+http://compitv.info:8080/Maria/1234567/334410
 #EXTINF:-1 tvg-id="cl2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/LM0VtkF.png" group-title="Deportes",Claro Sports FHD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3012
-#EXTINF:-1 tvg-id="tnt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Deportes",TNT Sports
+#EXTINF:-1 tvg-id="tntS3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Deportes",TNT Sports
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/285164
 #EXTINF:-1 tvg-id="tnts4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yjriT0J.png" group-title="Deportes",TNT Sports HD MX
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3204
@@ -783,9 +906,6 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1159
 #EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="Deportes",Espn 2 FHD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9068
 
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="ES: Canal Diocesano" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/21428e4af9751561b721aace0a5bfed6.png" group-title="Religion",Canal Diocesano
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/285741
 #EXTINF:-1 tvg-id="" tvg-name="ES: Esperanza TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/93c1b6e28b9f3964cb15a2779ba982c6.png" group-title="Religion",Esperanza TV
@@ -796,9 +916,8 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/285181
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/163056
 #EXTINF:-1 tvg-id="" tvg-name="LA: Telefe" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ff5d11bc762b78299c7277f5ed66880e.png" group-title="Religion",Telefe
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/281073
-
-
-
+#EXTINF:-1 tvg-id="r2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/EgyZhRI.png" group-title="Religion",La Voz de Maria HD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/7233
 
 #EXTINF:-1 tvg-id="clantve.es" tvg-name="ES: Clan TVE" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1f30472c5af04230e55b054e8bfe234d.png" group-title="Variados",Clan TVE
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/2214
@@ -824,12 +943,8 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1150
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/187008
 #EXTINF:-1 tvg-id="" tvg-name="LA: tru TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/71e1db48bca40a49540888ded096b9f0.png" group-title="Variados",tru TV
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/284515
-
-#EXTINF:-1 tvg-id="tr1.us" tvg-country="US" tvg-language="English" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/71e1db48bca40a49540888ded096b9f0.png" group-title="Novelas",Tru TV
 #EXTINF:-1 tvg-id="" tvg-name="EC: Teleamazonas" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/915b530c0e27e8381bf984a0fdf8ef20.png" group-title="Variados",Teleamazonas
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9168
-
-
 #EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",Cuatro HD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1163
 #EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",Calle 3
@@ -838,11 +953,53 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1168
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1173
 #EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",RTL 9
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1178
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",AZ Click HD
+http://compitv.info:8080/Maria/1234567/335066
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",AZ Mundo
+http://compitv.info:8080/Maria/1234567/335068
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",MULTICINE HD
+http://compitv.info:8080/Maria/1234567/334501
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",MULTIPREMIER HD
+http://compitv.info:8080/Maria/1234567/334504
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",DISTRITO Comedia HD
+http://compitv.info:8080/Maria/1234567/335280
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",DOG TV HD
+http://compitv.info:8080/Maria/1234567/335281
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",FASHION HD
+http://compitv.info:8080/Maria/1234567/335284
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",FISH TV
+http://compitv.info:8080/Maria/1234567/335286
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",HGTV LA
+http://compitv.info:8080/Maria/1234567/335288
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",CINE LATINO
+http://compitv.info:8080/Maria/1234567/335341
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",Antena 3
+http://compitv.info:8080/Maria/1234567/335692
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",DISTRITO Comedia
+http://compitv.info:8080/Maria/1234567/335694
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",HOLA TV
+http://compitv.info:8080/Maria/1234567/335698
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",TELEAMAZONAS SD
+http://compitv.info:8080/Maria/1234567/335946
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",TELEAMAZONAS SIERRA HD
+http://compitv.info:8080/Maria/1234567/335947
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",TELEAMAZONAS COSTA HD
+http://compitv.info:8080/Maria/1234567/335948
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",SAT SD
+http://compitv.info:8080/Maria/1234567/335361
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",MULTIPREMIER SD
+http://compitv.info:8080/Maria/1234567/335362
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",DHE FHD
+http://compitv.info:8080/Maria/1234567/340042
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",RCN NACIONAL HD
+http://compitv.info:8080/Maria/1234567/340054
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",RCN NUESTRA TELE HD
+http://compitv.info:8080/Maria/1234567/340055
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",RCN INTERNACIONAL HD
+http://compitv.info:8080/Maria/1234567/340056
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",RCN NOVELAS FHD
+http://compitv.info:8080/Maria/1234567/340057
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/ab5da439d14bf891a27395f4592a1da5.png" group-title="Conciertos",MTV
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/29307
 #EXTINF:-1 tvg-id="" tvg-name="ES: MTV Espana" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/29c1e128ba3a6e05e3fd3e529e63f435.png" group-title="Conciertos",MTV Espana
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/5308
 #EXTINF:-1 tvg-id="" tvg-name="ES: Sol Musica" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/51acf582039c8597fe72c5906943a67e.png" group-title="Conciertos",Sol Musica
@@ -853,12 +1010,6 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/8701
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/281789
 #EXTINF:-1 tvg-id="" tvg-name="ES: Hit TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b0e4445ee0db0e29c515cebb44e0f738.png" group-title="Conciertos",Tele Ritmo
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/9066
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR Deportes" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cfb9e3a05ca4b0452cbcd5bece3485f0.png" group-title="Deportes",MOVISTAR Deportes
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/227121
@@ -936,9 +1087,6 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/29311
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38716
 #EXTINF:-1 tvg-id="babytv.es" tvg-name="ES: Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6e80d3d1f2b8abb84a77de8c5d2c9f54.png" group-title="Infantiles",Baby TV
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/5302
-
-
-
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml.gz"
 #EXTINF:-1 channel-id="pluto-5f1aa7aab66c76000790ee7e" tvg-id="5f1aa7aab66c76000790ee7e" tvg-chno="779" tvg-logo="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png" group-title="Infantil",Big Time Rush
@@ -1417,5 +1565,4 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545dbb5c34b2000798db
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-62b218fc511d4b00070ddc0c" tvg-id="62b218fc511d4b00070ddc0c" tvg-chno="914" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" group-title="Música",MTV MIAW Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b218fc511d4b00070ddc0c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 
