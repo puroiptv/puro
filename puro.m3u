@@ -25,9 +25,9 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28824
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1167
 
 
-#EXTINF:-1 tvg-id="gara1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/e268KEZ.png" group-title="Discovery",Garage TV FHD ES
+#EXTINF:-1 tvg-id="gara1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/e268KEZ.png" group-title="Discovery",Garage TV FHD ARG
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1116294
-http://myl tvg-id="gara2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/e268KEZ.png" group-title="Discovery",Garage TV FHD ARG
+#EXTINF:-1 tvg-id="gara1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/e268KEZ.png" group-title="Discovery",Garage TV FHD ES
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81906
 
 #EXTINF:-1 tvg-id="discp1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yimfKbI.png" group-title="Discovery",Caza y Pesca FHD
@@ -525,7 +525,8 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19388
 #EXTINF:-1 tvg-id="" tvg-name="ES: Atreseries" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e3240330cb88d6a9880ac11d9d09ec8c.png" group-title="Canales Peliculas",Atreseries HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1152416
 
-TAR Accion" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a3f49074be2fa2a463d5ee69a1bd9407.png" group-title="Canales Peliculas",MOVISTAR Action Plus
+
+#EXTINF:-1 tvg-id="ms1.us" tvg-country="US" tvg-language="English" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a3f49074be2fa2a463d5ee69a1bd9407.png" group-title="Canales Peliculas",MOVISTAR Action Plus
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1113355
 
 #EXTINF:-1 tvg-id="t1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7uZzYZx.png" group-title="Novelas",TLC HD ARG
