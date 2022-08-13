@@ -40,6 +40,8 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/18951
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19398
 #EXTINF:-1 tvg-id="discovery3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",DISCOVERY Channel FHD MX
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25230
+#EXTINF:-1 tvg-id="discovery4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",DISCOVERY Channel FHD MX
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103584
 
 #EXTINF:-1 tvg-id="discoveryf1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/2oStBHp.png" group-title="Discovery",DISCOVERY Familia HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25227
@@ -60,6 +62,7 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81716
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81883
 #EXTINF:-1 tvg-id="discoveryw4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World FHD DO
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103594
+
 
 #EXTINF:-1 tvg-id="discoverycien1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ISY0A0g.png" group-title="Discovery",Discovery Science FHD ARG
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19332
@@ -94,8 +97,6 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103583
 
 #EXTINF:-1 tvg-id="discoverytur1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo FHD MX
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/71728
-#EXTINF:-1 tvg-id="discoverytur2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo FHD ES
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19408
 #EXTINF:-1 tvg-id="discoverytur3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo FHD LA
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19330
 
@@ -159,6 +160,8 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81696
 
 #EXTINF:-1 tvg-id="fxm1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/aEeD0VN.png" group-title="Canales Peliculas",FXM FHD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25255
+#EXTINF:-1 tvg-id="fxm2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/aEeD0VN.png" group-title="Canales Peliculas",FXM FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81948
 
 #EXTINF:-1 tvg-id="glis1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gAAo4cL.png" group-title="Canales Peliculas",Glitz FHD MX
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1116295
@@ -169,13 +172,13 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19488
 
 #EXTINF:-1 tvg-id="golp3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/V1JnAAr.png" group-title="Canales Peliculas",Golden HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19379
-#EXTINF:-1 tvg-id="golp4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/V1JnAAr.png" group-title="Canales Peliculas",Golden SD
+#EXTINF:-1 tvg-id="golp4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PPxjbAZ.png" group-title="Canales Peliculas",Golden Plus HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19446
-#EXTINF:-1 tvg-id="golp5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/8fK98Ze.png" group-title="Canales Peliculas",Golden EDGE SD
+#EXTINF:-1 tvg-id="golp5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PPxjbAZ.png" group-title="Canales Peliculas",Golden Plus SD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23475
 #EXTINF:-1 tvg-id="gole1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/8fK98Ze.png" group-title="Canales Peliculas",Golden Edge HD MX
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81690
-#EXTINF:-1 tvg-id="golp2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hx6IcHg.png" group-title="Canales Peliculas",Golden Premier FHD ARG
+#EXTINF:-1 tvg-id="golp2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PPxjbAZ.png" group-title="Canales Peliculas",Golden Plus FHD ARG
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81858
 #EXTINF:-1 tvg-id="golp7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hx6IcHg.png" group-title="Canales Peliculas",Golden Premier SD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/18941
@@ -227,10 +230,10 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/82534
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/71729
 #EXTINF:-1 tvg-id="hbo16.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO ZONE
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/82530
-#EXTINF:-1 tvg-id="hbo17.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO HD Sur
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103542
+#EXTINF:-1 tvg-id="hbo17.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO HD East
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28781
 #EXTINF:-1 tvg-id="hbo23.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/r0BlOKS.png" group-title="Canales Peliculas",HBO FHD ES
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103652
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1210661
 
 
 #EXTINF:-1 tvg-id="hbo1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/9Y5uUlH.png" group-title="Canales Peliculas",HBO Family SD
@@ -243,7 +246,7 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103613
 
 #EXTINF:-1 tvg-id="hbo2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/KGkbWR1.png" group-title="Canales Peliculas",Hbo Plus HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42159
-#EXTINF:-1 tvg-id="hbo3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/KGkbWR1.png" group-title="Canales Peliculas",Hbo Plus HD
+#EXTINF:-1 tvg-id="hbo3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/KGkbWR1.png" group-title="Canales Peliculas",Hbo HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42158
 #EXTINF:-1 tvg-id="hbo7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/KGkbWR1.png" group-title="Canales Peliculas",Hbo Plus HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19352
@@ -286,12 +289,12 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1210660
 #EXTINF:-1 tvg-id="ae9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E MUNDO FHD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19346
 
-#EXTINF:-1 tvg-id="str1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Cinema HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23549
-#EXTINF:-1 tvg-id="str2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Fun FHD ARG
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23487
-#EXTINF:-1 tvg-id="str3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Fun HD FHD DO
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23596
+#EXTINF:-1 tvg-id="str1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Cinema HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42143
+#EXTINF:-1 tvg-id="str2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Family FHD ARG
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42135
+#EXTINF:-1 tvg-id="str3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Black HD FHD DO
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/53923
 #EXTINF:-1 tvg-id="str4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Edge FHD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28662
 #EXTINF:-1 tvg-id="str5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz East FHD
@@ -306,24 +309,13 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42135
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42130
 #EXTINF:-1 tvg-id="str10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Kids & Family HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42128
-#EXTINF:-1 tvg-id="str11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Fun HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19353
-#EXTINF:-1 tvg-id="str12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Fun SD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19458
-#EXTINF:-1 tvg-id="str13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Cinema SD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81871
-#EXTINF:-1 tvg-id="str14.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Channel SD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81742
+#EXTINF:-1 tvg-id="str11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Cinema East HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/53922
+#EXTINF:-1 tvg-id="str13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Comedy East HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/53919
+#EXTINF:-1 tvg-id="str14.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Starz Encore Western
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/53899
 #EXTINF:-1 tvg-id="str15.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Channel SD Opc 1
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81791
-#EXTINF:-1 tvg-id="str16.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Cinema SD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81703
-#EXTINF:-1 tvg-id="str17.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Cinema HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19360
-#EXTINF:-1 tvg-id="str18.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Cinema 446
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/73071
-#EXTINF:-1 tvg-id="str19.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/QLrBEeh.png" group-title="Canales Peliculas",Star Fun 438
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/71710
 
 #EXTINF:-1 tvg-id="ee2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Nxxe4Dd.png" group-title="Canales Peliculas",E! Latinoamérica 
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/71722
@@ -346,22 +338,14 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81951
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103557
 #EXTINF:-1 tvg-id="su5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD DO
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23507
-#EXTINF:-1 tvg-id="su6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD LATINO
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19425
 #EXTINF:-1 tvg-id="su7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal CINEMA FHD LATINO
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1242801
 #EXTINF:-1 tvg-id="su8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal CRIME FHD LATINO
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1242799
-#EXTINF:-1 tvg-id="su9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal PREMIERE FHD LATINO
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1242803
-#EXTINF:-1 tvg-id="su11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal Cinema FHD 
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1242801
 #EXTINF:-1 tvg-id="su11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal Reality
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1242802
 #EXTINF:-1 tvg-id="su12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal TV México 
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/71717
-#EXTINF:-1 tvg-id="su13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Universal COMEDY HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1242800
 #EXTINF:-1 tvg-id="su12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",UNIVERSAL SD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81785
 #EXTINF:-1 tvg-id="su13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",UNIVERSAL CHANNEL HD
@@ -370,20 +354,16 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103573
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/16514
 
 #EXTINF:-1 tvg-id="tnt1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD ARG
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/16514
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/109924
 #EXTINF:-1 tvg-id="tnt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD MX
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/16514
-#EXTINF:-1 tvg-id="tnt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD ES
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/16514
-#EXTINF:-1 tvg-id="tnt4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD LA
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19409
+#EXTINF:-1 tvg-id="tnt4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT series FHD LA
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81739
-#EXTINF:-1 tvg-id="tnt5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD DO
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49481
 #EXTINF:-1 tvg-id="tnt6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103611
 
 #EXTINF:-1 tvg-id="tnts1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yjriT0J.png" group-title="Canales Peliculas",TNT Series HD ARG
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/16514
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19409
 #EXTINF:-1 tvg-id="tnts2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yjriT0J.png" group-title="Canales Peliculas",TNT Series HD MX
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81739
 #EXTINF:-1 tvg-id="tnts3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yjriT0J.png" group-title="Canales Peliculas",TNT SERIES HD
@@ -420,8 +400,6 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25445
 #EXTINF:-1 tvg-id="s7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",Sony Channel HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25202
 
-#EXTINF:-1 tvg-id="sy1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",SYFY Channel FHD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1210674
 #EXTINF:-1 tvg-id="sy2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/0K9OWqT.png" group-title="Canales Peliculas",SYFY FHD MX
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25205
 #EXTINF:-1 tvg-id="sy3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/0K9OWqT.png" group-title="Canales Peliculas",SYFY HD ARG
@@ -463,8 +441,6 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/73073
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81778
 #EXTINF:-1 tvg-id="ax4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN White FHD MX
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81945
-#EXTINF:-1 tvg-id="ax5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD MX
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103575
 #EXTINF:-1 tvg-id="ax6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD LA
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/18943
 #EXTINF:-1 tvg-id="ax7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
@@ -474,8 +450,6 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19844
 #EXTINF:-1 tvg-id="ax9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23525
 
-#EXTINF:-1 tvg-id="cc1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD ARG
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1210677
 #EXTINF:-1 tvg-id="cc2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD ES
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/18954
 #EXTINF:-1 tvg-id="cc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD MX
@@ -491,8 +465,6 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/73084
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/18969
 #EXTINF:-1 tvg-id="cmc2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD ARG
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19417
-#EXTINF:-1 tvg-id="cmc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD ES
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19842
 #EXTINF:-1 tvg-id="cmc4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD MX
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23499
 #EXTINF:-1 tvg-id="cmc5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD DO
@@ -515,8 +487,6 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28708
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1210679
 #EXTINF:-1 tvg-id="cm2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax FHD ARG
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23524
-#EXTINF:-1 tvg-id="cm3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax FHD MX
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42162
 #EXTINF:-1 tvg-id="cm4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax FHD DO
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81859
 #EXTINF:-1 tvg-id="cm5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax 2 FHD LA
@@ -630,6 +600,9 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/82542
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103589
 #EXTINF:-1 tvg-id="not9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Emk1Vhm.png" group-title="Noticias",CNN International
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19342
+#EXTINF:-1 tvg-id="" tvg-name="CO|| CABLENOTICIAS HD" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/b5541f3f9e643c4341f0e0e6382a049f.jpg" group-title="Noticias",CO|| CABLENOTICIAS HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103527
+
 
 #EXTINF:-1 tvg-id="cl1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/LM0VtkF.png" group-title="Deportes",Claro Sports FHD LA
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1210675
@@ -641,8 +614,6 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/50841
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/50842
 #EXTINF:-1 tvg-id="" tvg-name="ES: beIN Sports Xtra en Espanol" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/707da2cc95064a5008bf9d851f46ef9d.png" group-title="Deportes",beIN Sports Xtra en Espanol
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/26786
-#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9e115dbf65e6d57e284718788f7f6338.png" group-title="Deportes",ESPN
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/26797
 #EXTINF:-1 tvg-id="" tvg-name="ES: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ec52431ae56bf89fe9aec30084bd613f.png" group-title="Deportes",ESPN 2
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/38503
 #EXTINF:-1 tvg-id="" tvg-name="ES: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/5c432b98e228de745d3de84f5526e459.png" group-title="Deportes",ESPN 3
@@ -681,12 +652,6 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/71708
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81654
 #EXTINF:-1 tvg-id="" tvg-name="LA: TNT Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/1f392bb0f495628af2609a2def01a745.png" group-title="Deportes",TNT Sports
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/50841
-#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fef20f5cb1951c51371fc68e1eb0a32c.png" group-title="Deportes",ESPN
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1210657
-#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d5d65be98111905704b0ebcd7d06e3bd.png" group-title="Deportes",ESPN 2
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1210658
-#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c47d68dc2974632c15a07f4a6714854d.png" group-title="Deportes",ESPN 3 Extra
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1210659
 #EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/58f557ffa761091f837f5c289ac13208.png" group-title="Deportes",ESPN
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/18938
 #EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/826ab86530a6d609f3c9e0a5108ae8d1.png" group-title="Deportes",ESPN 
@@ -714,10 +679,6 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1113093
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR Deportes 6" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/e75a0e864a8daae27d3c86a3af556102.png" group-title="Deportes",MOVISTAR Deportes 6
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/22623
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: Esperanza TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/93c1b6e28b9f3964cb15a2779ba982c6.png" group-title="Religion",Esperanza TV
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1117451
-#EXTINF:-1 tvg-id="" tvg-name="MX: Maria+Vision" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ef1c95874a83ad90fc037dafbaea536f.png" group-title="Religion",Maria Vision
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1137363
 #EXTINF:-1 tvg-id="" tvg-name="LA: Telefe" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ff5d11bc762b78299c7277f5ed66880e.png" group-title="Religion",Telefe
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/22088
 #EXTINF:-1 tvg-id="r2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/EgyZhRI.png" group-title="Religion",La Voz de Maria HD
@@ -745,7 +706,7 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81844
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81900
 #EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",THE FILM ZONE HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103566
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",MULTIPREMIER HD
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",Film & Arts HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103568
 #EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",DOG TV HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/94336
@@ -779,6 +740,18 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1125092
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1133424
 #EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",RCN NOVELAS FHD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23501
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",TVE FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19380
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",TV5 FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103597
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",TVE FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103619
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",VEPLUSTV FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19347
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",Multimedios Plus FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81980
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",Caracol Internacional FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103538
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: MTV Espana" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/29c1e128ba3a6e05e3fd3e529e63f435.png" group-title="Conciertos",MTV Espana
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19435
@@ -788,6 +761,14 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19431
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19348
 #EXTINF:-1 tvg-id="" tvg-name="LA: Concert Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/188475ffb4a2ba53742721797c9b5b09.png" group-title="Conciertos",Concert Channel
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23527
+#EXTINF:-1 tvg-id="VH1 HD" tvg-name="CLARO2: VH1 CLASSIC" tvg-logo="https://www.pngkit.com/png/detail/272-2722146_vh1-classic-vh1-classic-logo-png.png" group-title="Musica",CLARO2: VH1 CLASSIC
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19344
+#EXTINF:-1 tvg-id="" tvg-name="CLARO2: VH1" tvg-logo="https://i.imgur.com/YN9L6CV.png" group-title="Musica",CLARO2: VH1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19369
+#EXTINF:-1 tvg-id="Argentina|| QUIERO MUSICA. :)" tvg-name="Argentina|| QUIERO MUSICA. :)" tvg-logo="https://i.imgur.com/jzX15q5.jpg" group-title="Argentina",Argentina|| QUIERO MUSICA. :)
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1116297
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA || CANAL NTV MUSICA DE LOS 80 :)" tvg-logo="" group-title="Colombia",COLOMBIA || CANAL NTV MUSICA DE LOS 80 :)
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1125082
 
 #EXTINF:-1 tvg-id="" tvg-name="LA: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/24c5abcd3b88a3d9382fd2df13623209.png" group-title="Infantiles",Cartoon Network
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/71724
