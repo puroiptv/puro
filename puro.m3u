@@ -823,73 +823,73 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/22088
 #EXTINF:-1 tvg-id="r2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/EgyZhRI.png" group-title="Religion",La Voz de Maria HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1115830
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: Distrito TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/672158c1d2769e8fd607c8d7faeff387.png" group-title="Variados",Distrito Comedia
+#EXTINF:-1 tvg-id="" tvg-name="Distrito TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/672158c1d2769e8fd607c8d7faeff387.png" group-title="Variados",Distrito TV
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81903
-#EXTINF:-1 tvg-id="" tvg-name="CO: Caracol TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/c848226d632b3177fde36c97a51d21f9.png" group-title="Variados",Caracol TV
+#EXTINF:-1 tvg-id="" tvg-name="Caracol TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/c848226d632b3177fde36c97a51d21f9.png" group-title="Variados",Caracol TV
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103518
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: TVE La 1 Madrid" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e5906bbed37a53f28eee2ecf0a04a7d3.png" group-title="Variados",TVE La 1 Madrid
+#EXTINF:-1 tvg-id="la1.es" tvg-name="TVE La 1 Madrid" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e5906bbed37a53f28eee2ecf0a04a7d3.png" group-title="Variados",TVE La 1 Madrid
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103619
-#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: TVE La 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9d91abdf7030eabf63c8781012882b9.png" group-title="Variados",TVE La 2
+#EXTINF:-1 tvg-id="la2.es" tvg-name="TVE La 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9d91abdf7030eabf63c8781012882b9.png" group-title="Variados",TVE La 2
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1149027
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",HGTV
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",HGTV
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81709
-#EXTINF:-1 tvg-id="" tvg-name="LA: tru TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/71e1db48bca40a49540888ded096b9f0.png" group-title="Variados",tru TV
+#EXTINF:-1 tvg-id="" tvg-name="tru TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/71e1db48bca40a49540888ded096b9f0.png" group-title="Variados",tru TV
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81772
-#EXTINF:-1 tvg-id="" tvg-name="EC: Teleamazonas" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/915b530c0e27e8381bf984a0fdf8ef20.png" group-title="Variados",Teleamazonas
+#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/915b530c0e27e8381bf984a0fdf8ef20.png" group-title="Variados",Teleamazonas
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/65207
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/OWMC2WJ.png" group-title="Variados",Cuatro HD
+#EXTINF:-1 tvg-id="" tvg-name="Cuatro HD" tvg-logo="https://imgur.com/OWMC2WJ.png" group-title="Variados",Cuatro HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1134174
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/hpHH76n.png" group-title="Variados",AZ Click HD
+#EXTINF:-1 tvg-id="" tvg-name="AZ Click HD" tvg-logo="https://imgur.com/hpHH76n.png" group-title="Variados",AZ Click HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81844
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/ZFiG3BH.png" group-title="Variados",AZ Mundo
+#EXTINF:-1 tvg-id="" tvg-name="AZ Mundo" tvg-logo="https://imgur.com/ZFiG3BH.png" group-title="Variados",AZ Mundo
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81900
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/undefined.png" group-title="Variados",THE FILM ZONE HD
+#EXTINF:-1 tvg-id="" tvg-name="THE FILM ZONE HD" tvg-logo="https://imgur.com/undefined.png" group-title="Variados",THE FILM ZONE HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103566
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/rpapDsD.png" group-title="Variados",Film & Arts HD
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts HD" tvg-logo="https://imgur.com/rpapDsD.png" group-title="Variados",Film & Arts HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103568
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/q972RhZ.png" group-title="Variados",DOG TV HD
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV HD" tvg-logo="https://imgur.com/q972RhZ.png" group-title="Variados",DOG TV HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/94336
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/ShMtynN.png" group-title="Variados",FISH TV
+#EXTINF:-1 tvg-id="" tvg-name="FISH TV" tvg-logo="https://imgur.com/ShMtynN.png" group-title="Variados",FISH TV
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1120879
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",HGTV LA
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Variados",HGTV LA
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81709
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/UpRZYwW.png" group-title="Variados",CINE LATINO
+#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="https://imgur.com/UpRZYwW.png" group-title="Variados",CINE LATINO
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/18914
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/undefined.png" group-title="Variados",Antena 3
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="https://imgur.com/undefined.png" group-title="Variados",Antena 3
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/27559
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/uWLvj3p.png" group-title="Variados",HOLA TV
+#EXTINF:-1 tvg-id="" tvg-name="HOLA TV" tvg-logo="https://imgur.com/uWLvj3p.png" group-title="Variados",HOLA TV
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23576
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/undefined.png" group-title="Variados",TELEAMAZONAS SD
+#EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONAS SD" tvg-logo="https://imgur.com/undefined.png" group-title="Variados",TELEAMAZONAS SD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/65207
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/undefined.png" group-title="Variados",TELEAMAZONAS SIERRA HD
+#EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONAS SIERRA HD" tvg-logo="https://imgur.com/undefined.png" group-title="Variados",TELEAMAZONAS SIERRA HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/18714
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/undefined.png" group-title="Variados",TELEAMAZONAS QUITO HD
+#EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONAS QUITO HD" tvg-logo="https://imgur.com/undefined.png" group-title="Variados",TELEAMAZONAS QUITO HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/18719
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/undefined.png" group-title="Variados",SAT SD
+#EXTINF:-1 tvg-id="" tvg-name="SAT SD" tvg-logo="https://imgur.com/undefined.png" group-title="Variados",SAT SD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19465
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/undefined.png" group-title="Variados",MULTIPREMIER SD
+#EXTINF:-1 tvg-id="" tvg-name="MULTIPREMIER SD" tvg-logo="https://imgur.com/undefined.png" group-title="Variados",MULTIPREMIER SD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19436
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/fuQccqz.png" group-title="Variados",DHE FHD
+#EXTINF:-1 tvg-id="" tvg-name="DHE FHD" tvg-logo="https://imgur.com/fuQccqz.png" group-title="Variados",DHE FHD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23581
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/jvgLHlm7.png" group-title="Variados",RCN NACIONAL HD
+#EXTINF:-1 tvg-id="" tvg-name="RCN NACIONAL HD tvg-logo="https://imgur.com/jvgLHlm7.png" group-title="Variados",RCN NACIONAL HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/31614
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/jvgLHlm.png" group-title="Variados",RCN NUESTRA TELE HD
+#EXTINF:-1 tvg-id="" tvg-name="RCN NUESTRA TELE HD" tvg-logo="https://imgur.com/jvgLHlm.png" group-title="Variados",RCN NUESTRA TELE HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1125092
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/jvgLHlm7.png" group-title="Variados",RCN INTERNACIONAL HD
+#EXTINF:-1 tvg-id="" tvg-name="RCN INTERNACIONAL HD" tvg-logo="https://imgur.com/jvgLHlm7.png" group-title="Variados",RCN INTERNACIONAL HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1133424
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/jvgLHlm.png" group-title="Variados",RCN NOVELAS FHD
+#EXTINF:-1 tvg-id="" tvg-name="RCN NOVELAS FHD" tvg-logo="https://imgur.com/jvgLHlm.png" group-title="Variados",RCN NOVELAS FHD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23501
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/undefined.png" group-title="Variados",TVE FHD
+#EXTINF:-1 tvg-id="" tvg-name="TVE FHD" tvg-logo="https://imgur.com/undefined.png" group-title="Variados",TVE FHD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19380
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/undefined.png" group-title="Variados",TV5 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TV5 FHD" tvg-logo="https://imgur.com/undefined.png" group-title="Variados",TV5 FHD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103597
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/undefined.png" group-title="Variados",TVE FHD
+#EXTINF:-1 tvg-id="" tvg-name="TVE FHD" tvg-logo="https://imgur.com/undefined.png" group-title="Variados",TVE FHD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103619
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/undefined.png" group-title="Variados",VEPLUSTV FHD
+#EXTINF:-1 tvg-id="" tvg-name="VEPLUSTV FHD" tvg-logo="https://imgur.com/undefined.png" group-title="Variados",VEPLUSTV FHD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19347
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/cLaBSbj.png" group-title="Variados",Multimedios Plus FHD
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios Plus FHD" tvg-logo="https://imgur.com/cLaBSbj.png" group-title="Variados",Multimedios Plus FHD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81980
-#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="https://imgur.com/undefined.png" group-title="Variados",Caracol Internacional FHD
+#EXTINF:-1 tvg-id="" tvg-name="Caracol Internacional FHD" tvg-logo="https://imgur.com/undefined.png" group-title="Variados",Caracol Internacional FHD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103538
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: MTV Espana" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/29c1e128ba3a6e05e3fd3e529e63f435.png" group-title="Conciertos",MTV Espana
@@ -904,9 +904,9 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23527
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19344
 #EXTINF:-1 tvg-id="" tvg-name="CLARO2: VH1" tvg-logo="https://i.imgur.com/YN9L6CV.png" group-title="Musica",CLARO2: VH1
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19369
-#EXTINF:-1 tvg-id="Argentina|| QUIERO MUSICA. :)" tvg-name="Argentina|| QUIERO MUSICA. :)" tvg-logo="https://i.imgur.com/jzX15q5.jpg" group-title="Argentina",Argentina|| QUIERO MUSICA. :)
+#EXTINF:-1 tvg-id="Argentina|| QUIERO MUSICA. :)" tvg-name="Argentina|| QUIERO MUSICA. :)" tvg-logo="https://i.imgur.com/jzX15q5.jpg" group-title="Conciertos",QUIERO MUSICA
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1116297
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA || CANAL NTV MUSICA DE LOS 80 :)" tvg-logo="" group-title="Colombia",COLOMBIA || CANAL NTV MUSICA DE LOS 80 :)
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA || CANAL NTV MUSICA DE LOS 80 :)" tvg-logo="" group-title="Conciertos",CANAL NTV MUSICA DE LOS 80
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1125082
 
 #EXTINF:-1 tvg-id="" tvg-name="LA: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/24c5abcd3b88a3d9382fd2df13623209.png" group-title="Infantiles",Cartoon Network
