@@ -823,6 +823,7 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/22088
 #EXTINF:-1 tvg-id="r2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/EgyZhRI.png" group-title="Religion",La Voz de Maria HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1115830
 
+
 #EXTINF:-1 tvg-id="" tvg-name="Distrito TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/672158c1d2769e8fd607c8d7faeff387.png" group-title="Variados",Distrito TV
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81903
 #EXTINF:-1 tvg-id="" tvg-name="Caracol TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/c848226d632b3177fde36c97a51d21f9.png" group-title="Variados",Caracol TV
@@ -908,6 +909,69 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19369
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1116297
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA || CANAL NTV MUSICA DE LOS 80 :)" tvg-logo="" group-title="Conciertos",CANAL NTV MUSICA DE LOS 80
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1125082
+#EXTINF:-1 tvg-id="~ Garage TV" tvg-name="Garage" tvg-logo="https://forounivers.com/uploads/monthly_2021_05/large.GarageTV.png.baac6b420c99240dbe09e48e58b81f08.png" group-title="Variados",Garage
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1116294
+#EXTINF:-1 tvg-id="Chile|| UFROVISION :)" tvg-name="Ufrovision" tvg-logo="https://cdn.mitvstatic.com/channels/cl_ufrovision_m.png" group-title="Variados",Ufrovision
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1115312
+#EXTINF:-1 tvg-id="Peru|| ATV SD" tvg-name="ATV  HD" tvg-logo="https://i.imgur.com/xx8hDiQ.jpg" group-title="Variados",ATV  HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1118002
+#EXTINF:-1 tvg-id="Peru|| Antares TV" tvg-name="Antares TV" tvg-logo="https://pbs.twimg.com/profile_images/2306398664/anatares_tv_radio_400x400.jpg" group-title="Variados",Antares TV
+#EXTINF:-1 tvg-id="" tvg-name="Caracol FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1024px-Caracol_TV_HD_logo.svg.png" group-title="Variados",Caracol FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1133407
+#EXTINF:-1 tvg-id="" tvg-name="CITY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Citytv_logo.svg" group-title="Variados",CITY TV
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1125094
+#EXTINF:-1 tvg-id="" tvg-name="MUNDO MAS" tvg-logo="" group-title="Variados",MUNDO MAS
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1125081
+#EXTINF:-1 tvg-id="" tvg-name="Teleamiga" tvg-logo="" group-title="Variados",Teleamiga
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1133422
+#EXTINF:-1 tvg-id="" tvg-name="Teleantioquia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleantioquia.png" group-title="Variados",Teleantioquia
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1125091
+#EXTINF:-1 tvg-id="" tvg-name="Telemedellin" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tele_medellin.jpg" group-title="Variados",Telemedellin
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1125073
+#EXTINF:-1 tvg-id="" tvg-name="Telepacifico" tvg-logo="https://i0.pngocean.com/files/380/727/756/telepacifico-television-channel-logo-colombia-enterprises-album.jpg" group-title="Variados",Telepacifico
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1125087
+#EXTINF:-1 tvg-id="" tvg-name="Telerama" tvg-logo="" group-title="Variados",Telerama
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1203778
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="TV Chile" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/TV-Chile-en-vivo-Online-1.png" group-title="Variados",TV Chile
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1163816
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Telefe Córdoba Canal 8" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Variados",Telefe Córdoba Canal 8
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1167998
+#EXTINF:-1 tvg-id="Chile|| Chilevision*" tvg-name="Chilevision FHD" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="Variados",Chilevision FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1121383
+#EXTINF:-1 tvg-id="Peru|| America TV" tvg-name="America TV" tvg-logo="https://i.imgur.com/6aze59g.png" group-title="Variados",America TV
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/22621
+#EXTINF:-1 tvg-id="" tvg-name="Argentinisima" tvg-logo="https://pbs.twimg.com/profile_images/607708464257896448/1JrRLGLc_400x400.jpg" group-title="Variados",Argentinisima 
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1148854
+#EXTINF:-1 tvg-id="Telesur" tvg-name="Telesur" tvg-logo="https://i.imgur.com/WABbbJF.jpg" group-title="Variados",Telesur
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1116301
+#EXTINF:-1 tvg-id="TLX Telemax" tvg-name="TLX Telemax" tvg-logo="https://i.imgur.com/ObGrtzZ.png" group-title="Variados",TLX Telemax
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1116302
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Net TV" tvg-logo="https://media.canalnet.tv/2018/10/N-345x414.png" group-title="Variados",Net TV
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1115812
+#EXTINF:-1 tvg-id="Argentina|| AMERICA 24. :)" tvg-name="America" tvg-logo="https://i.imgur.com/6aze59g.png" group-title="Variados",America
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1116288
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Canal 26 HD" tvg-logo="https://i.imgur.com/u0I9gU1.png" group-title="Variados",Canal 26 HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/15317
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="TV Publica" tvg-logo="https://i.pinimg.com/originals/3c/d6/4a/3cd64a0f01fdd69f1f6b8f7aa3f1cccd.png" group-title="Variados",TV Publica
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/22078
+#EXTINF:-1 tvg-id="Argentina|| TN HD *" tvg-name="TN HD" tvg-logo="https://www.dalessio.com.ar/xpublico/LogoTN.png" group-title="Variados",TN HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/22082
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="TN" tvg-logo="https://www.dalessio.com.ar/xpublico/LogoTN.png" group-title="Variados",TN
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/22083
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Multivision" tvg-logo="https://vivotvhd.com/img/cha/895.gif" group-title="Variados",Multivision
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/50629
+#EXTINF:-1 tvg-id="Argentina|| C5N" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="Variados",C5N
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/50633
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="LA: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/24c5abcd3b88a3d9382fd2df13623209.png" group-title="Infantiles",Cartoon Network
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/71724
