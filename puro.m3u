@@ -1000,24 +1000,7 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19347
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81980
 #EXTINF:-1 tvg-id="" tvg-name="Caracol Internacional FHD" tvg-logo="https://i.imgur.com/qslVWtE.png" group-title="Variados",Caracol Internacional FHD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103538
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV Espana" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/29c1e128ba3a6e05e3fd3e529e63f435.png" group-title="Conciertos",MTV Espana
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19435
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/ab5da439d14bf891a27395f4592a1da5.png" group-title="Conciertos",MTV HITS
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19431
-#EXTINF:-1 tvg-id="" tvg-name="ES: Hit TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b0e4445ee0db0e29c515cebb44e0f738.png" group-title="Conciertos",Hit TV LIVE HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19348
-#EXTINF:-1 tvg-id="" tvg-name="LA: Concert Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/188475ffb4a2ba53742721797c9b5b09.png" group-title="Conciertos",Concert Channel
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23527
-#EXTINF:-1 tvg-id="VH1 HD" tvg-name="CLARO2: VH1 CLASSIC" tvg-logo="https://www.pngkit.com/png/detail/272-2722146_vh1-classic-vh1-classic-logo-png.png" group-title="Musica",CLARO2: VH1 CLASSIC
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19344
-#EXTINF:-1 tvg-id="" tvg-name="CLARO2: VH1" tvg-logo="https://i.imgur.com/YN9L6CV.png" group-title="Musica",CLARO2: VH1
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19369
-#EXTINF:-1 tvg-id="Argentina|| QUIERO MUSICA. :)" tvg-name="Argentina|| QUIERO MUSICA. :)" tvg-logo="https://i.imgur.com/jzX15q5.jpg" group-title="Conciertos",QUIERO MUSICA
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1116297
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA || CANAL NTV MUSICA DE LOS 80 :)" tvg-logo="" group-title="Conciertos",CANAL NTV MUSICA DE LOS 80
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1125082
-#EXTINF:-1 tvg-id="~ Garage TV" tvg-name="Garage" tvg-logo="https://forounivers.com/uploads/monthly_2021_05/large.GarageTV.png.baac6b420c99240dbe09e48e58b81f08.png" group-title="Variados",Garage
+#EXTINF:-1 tvg-id="~ Garage TV" tvg-name="Garage" tvg-logo="https://i.imgur.com/IeW8U6o.png" group-title="Variados",Garage
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1116294
 #EXTINF:-1 tvg-id="Chile|| UFROVISION :)" tvg-name="Ufrovision" tvg-logo="https://cdn.mitvstatic.com/channels/cl_ufrovision_m.png" group-title="Variados",Ufrovision
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1115312
@@ -1026,19 +1009,19 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1118002
 #EXTINF:-1 tvg-id="Peru|| Antares TV" tvg-name="Antares TV" tvg-logo="https://pbs.twimg.com/profile_images/2306398664/anatares_tv_radio_400x400.jpg" group-title="Variados",Antares TV
 #EXTINF:-1 tvg-id="" tvg-name="Caracol FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1024px-Caracol_TV_HD_logo.svg.png" group-title="Variados",Caracol FHD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1133407
-#EXTINF:-1 tvg-id="" tvg-name="CITY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Citytv_logo.svg" group-title="Variados",CITY TV
+#EXTINF:-1 tvg-id="" tvg-name="CITY TV" tvg-logo="https://i.imgur.com/daGLsKk.png" group-title="Variados",CITY TV
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1125094
-#EXTINF:-1 tvg-id="" tvg-name="MUNDO MAS" tvg-logo="" group-title="Variados",MUNDO MAS
+#EXTINF:-1 tvg-id="" tvg-name="MUNDO MAS" tvg-logo="https://i.imgur.com/BTEE8Bf.png" group-title="Variados",MUNDO MAS
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1125081
-#EXTINF:-1 tvg-id="" tvg-name="Teleamiga" tvg-logo="" group-title="Variados",Teleamiga
+#EXTINF:-1 tvg-id="" tvg-name="Teleamiga" tvg-logo="https://i.imgur.com/nqKH6Ig.png" group-title="Variados",Teleamiga
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1133422
 #EXTINF:-1 tvg-id="" tvg-name="Teleantioquia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleantioquia.png" group-title="Variados",Teleantioquia
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1125091
-#EXTINF:-1 tvg-id="" tvg-name="Telemedellin" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tele_medellin.jpg" group-title="Variados",Telemedellin
+#EXTINF:-1 tvg-id="" tvg-name="Telemedellin" tvg-logo="https://i.imgur.com/sRnBptq.png" group-title="Variados",Telemedellin
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1125073
 #EXTINF:-1 tvg-id="" tvg-name="Telepacifico" tvg-logo="https://i0.pngocean.com/files/380/727/756/telepacifico-television-channel-logo-colombia-enterprises-album.jpg" group-title="Variados",Telepacifico
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1125087
-#EXTINF:-1 tvg-id="" tvg-name="Telerama" tvg-logo="" group-title="Variados",Telerama
+#EXTINF:-1 tvg-id="" tvg-name="Telerama" tvg-logo="https://i.imgur.com/bcaIEYr.png" group-title="Variados",Telerama
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1203778
 #EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="TV Chile" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/TV-Chile-en-vivo-Online-1.png" group-title="Variados",TV Chile
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1163816
@@ -1072,14 +1055,22 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/50629
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/50633
 
 
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="MTV Espana" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/29c1e128ba3a6e05e3fd3e529e63f435.png" group-title="Conciertos",MTV Espana
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19435
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/ab5da439d14bf891a27395f4592a1da5.png" group-title="Conciertos",MTV HITS
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19431
+#EXTINF:-1 tvg-id="" tvg-name="Hit TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b0e4445ee0db0e29c515cebb44e0f738.png" group-title="Conciertos",Hit TV LIVE HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19348
+#EXTINF:-1 tvg-id="" tvg-name="Concert Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/188475ffb4a2ba53742721797c9b5b09.png" group-title="Conciertos",Concert Channel
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23527
+#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 CLASSIC" tvg-logo="https://www.pngkit.com/png/detail/272-2722146_vh1-classic-vh1-classic-logo-png.png" group-title="Conciertos",VH1 CLASSIC
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19344
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="https://i.imgur.com/YN9L6CV.png" group-title="Conciertos",VH1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19369
+#EXTINF:-1 tvg-id="Quiero Musica" tvg-name="Quiero Musica" tvg-logo="https://i.imgur.com/jzX15q5.jpg" group-title="Conciertos",Quiero Musica
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1116297
+#EXTINF:-1 tvg-id="" tvg-name="Caracol Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1024px-Caracol_TV_HD_logo.svg.png" group-title="Conciertos",Caracol Internacional
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1125082
 
 #EXTINF:-1 tvg-id="" tvg-name="LA: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/24c5abcd3b88a3d9382fd2df13623209.png" group-title="Infantiles",Cartoon Network
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/71724
