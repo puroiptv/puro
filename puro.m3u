@@ -742,7 +742,124 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19342
 #EXTINF:-1 tvg-id="" tvg-name="CO|| CABLENOTICIAS HD" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/b5541f3f9e643c4341f0e0e6382a049f.jpg" group-title="Noticias",CO|| CABLENOTICIAS HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103527
 
-
+#EXTINF:-1 tvg-id="3" tvg-name="Fox Sports FHD" tvg-logo="https://i.imgur.com/NMIWiAt.png" group-title="Deportes",Fox Sports 1 FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1121404
+#EXTINF:-1 tvg-id="4" tvg-name="Fox Sports 1 FHD" tvg-logo="https://i.imgur.com/NMIWiAt.png" group-title="Deportes",Fox Sports 4 FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/22098
+#EXTINF:-1 tvg-id="6" tvg-name="Fox Sports 1 Norte FHD" tvg-logo="https://i.imgur.com/NMIWiAt.png" group-title="Deportes",Fox Sports 1 Norte FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/14451
+#EXTINF:-1 tvg-id="7" tvg-name="Fox Sports 1 FHD" tvg-logo="https://i.imgur.com/NMIWiAt.png" group-title="Deportes",Fox Sports Premim FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/14452
+#EXTINF:-1 tvg-id="8" tvg-name="Fox Sports 1 Premium FHD" tvg-logo="https://i.imgur.com/NMIWiAt.png" group-title="Deportes",Fox Sports 3 FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/14453
+#EXTINF:-1 tvg-id="9" tvg-name="Fox Sports 1 Sur FHD" tvg-logo="https://i.imgur.com/NMIWiAt.png" group-title="Deportes",Fox Sports 1 Sur FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/14455
+#EXTINF:-1 tvg-id="10" tvg-name="Fox Sports Latinoamerica FHD" tvg-logo="https://i.imgur.com/NMIWiAt.png" group-title="Deportes",Fox Sports Latinoamerica FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19452
+#EXTINF:-1 tvg-id="11" tvg-name="Fox Sports 1 Mx FHD" tvg-logo="https://i.imgur.com/NMIWiAt.png" group-title="Deportes",Fox Sports 1 Mx FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/27563
+#EXTINF:-1 tvg-id="12" tvg-name="Fox Sports FHD" tvg-logo="https://i.imgur.com/NMIWiAt.png" group-title="Deportes",Fox Sports FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23481
+#EXTINF:-1 tvg-id="13" tvg-name="Fox Sports 1 FHD" tvg-logo="https://i.imgur.com/NMIWiAt.png" group-title="Deportes",Fox Sports 1 FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81654
+#EXTINF:-1 tvg-id="14" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://i.imgur.com/NMIWiAt.png" group-title="Deportes",FOX SPORTS 2 HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/22097
+#EXTINF:-1 tvg-id="16" tvg-name="FOX SPORTS 2 MX HD" tvg-logo="https://i.imgur.com/NMIWiAt.png" group-title="Deportes",FOX SPORTS 2 MX HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23599
+#EXTINF:-1 tvg-id="17" tvg-name="FOX SPORTS 3 MX HD" tvg-logo="https://i.imgur.com/NMIWiAt.png" group-title="Deportes",FOX SPORTS 3 MX HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/18971
+#EXTINF:-1 tvg-id="18" tvg-name="FOX SPORTS 3 MX HD" tvg-logo="https://i.imgur.com/NMIWiAt.png" group-title="Deportes",FOX SPORTS 3 FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23600
+#EXTINF:-1 tvg-id="19" tvg-name="FOX SPORTS 3 MX HD" tvg-logo="https://i.imgur.com/NMIWiAt.png" group-title="Deportes",FOX SPORTS 3 FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19452
+#EXTINF:-1 tvg-id="e1" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://i.imgur.com/NMIWiAt.png" group-title="Deportes",ESPN Premium HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/50839
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="ESPN ARGENTINA" tvg-logo="https://a1.espncdn.com/combiner/i?img=/i/espn/espn_logos/espn_red.png" group-title="Deportes",ESPN ARGENTINA
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/22101
+#EXTINF:-1 tvg-id="Chile|| Directv Sports Chile" tvg-name="Directv Sports" tvg-logo="https://i.imgur.com/vPRpKsy.png" group-title="Deportes",Directv Sports
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1130307
+#EXTINF:-1 tvg-id="Chile|| Directv Sports Chile" tvg-name="Directv Sports" tvg-logo="https://i.imgur.com/vPRpKsy.png" group-title="Deportes",Directv Sports
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/22629
+#EXTINF:-1 tvg-id="" tvg-name="Directv" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pe-tv-peru-2373.jpg" group-title="Deportes",Directv
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1164450
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1" tvg-logo="https://i.imgur.com/vPRpKsy.png" group-title="Deportes",Directv Sports 1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1133426
+#EXTINF:-1 tvg-id="Ecuador|| DIRECTV Sports 1" tvg-name="Directv Sports 1" tvg-logo="http://mylatinotv.com:8080/images/mexico/directv.png" group-title="Deportes",Directv Sports 1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/30273
+#EXTINF:-1 tvg-id="Ecuador|| Directv Sports 2" tvg-name="Directv Sports 2" tvg-logo="http://mylatinotv.com:8080/images/mexico/directv.png" group-title="Deportes",Directv Sports 2
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/26814
+#EXTINF:-1 tvg-id="Ecuador|| DIRECTV Sports Plus" tvg-name="Directv Sports Plus" tvg-logo="http://mylatinotv.com:8080/images/mexico/directv.png" group-title="Deportes",Directv Sports Plus
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/30274
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1" tvg-logo="http://mylatinotv.com:8080/images/mexico/directv.png" group-title="Deportes",Directv Sports 1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1203775
+#EXTINF:-1 tvg-id="" tvg-name="D Sports Fight" tvg-logo="https://i.imgur.com/vPRpKsy.png" group-title="Deportes",D Sports Fight
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1133428
+#EXTINF:-1 tvg-id="Argentina|| DeporTV" tvg-name="DeporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Canal_DeporTV.jpg" group-title="Deportes",DeporTV
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/22109
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="" group-title="Deportes",Claro Sports
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1210675
+#EXTINF:-1 tvg-id="Chile|| CDF ESTADIO HD -" tvg-name="Estadio TNT Sports" tvg-logo="https://cdn2.webdamdb.com/1280_gOimjYmur754.png" group-title="Deportes",Estadio TNT Sports
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1121370
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="TNT SPORTS" tvg-logo="https://i.imgur.com/4HYiMSq.png" group-title="Deportes",TNT SPORTS
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/50841
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="TNT SPORTS" tvg-logo="https://i.imgur.com/4HYiMSq.png" group-title="Deportes",TNT SPORTS
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/50842
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="TNT SPORTS" tvg-logo="https://i.imgur.com/4HYiMSq.png" group-title="Deportes",TNT SPORTS
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1119917
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="TNT Sports HD" tvg-logo="https://pbs.twimg.com/profile_images/1410282401754927104/vuyUXYnE_400x400.jpg" group-title="Deportes",TNT Sports HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1121375
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="TNT Sports HD" tvg-logo="https://pbs.twimg.com/profile_images/1410282401754927104/vuyUXYnE_400x400.jpg" group-title="Deportes",TNT Sports HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1124982
+#EXTINF:-1 tvg-id="CHILE || CL CDF HD *" tvg-name="TNT Sports 2 HD" tvg-logo="https://www.entel.cl/public/logos/canales/tnt-sports-2.png" group-title="Deportes",TNT Sports 2 HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1121379
+#EXTINF:-1 tvg-id="Dep|| Tnt Sports" tvg-name="TNT Sports 3" tvg-logo="https://pbs.twimg.com/profile_images/1410282401754927104/vuyUXYnE_400x400.jpg" group-title="Deportes",TNT Sports 3
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1121374
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="TNT Sports 3" tvg-logo="https://pbs.twimg.com/profile_images/1410282401754927104/vuyUXYnE_400x400.jpg" group-title="Deportes",TNT Sports 3
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1121372
+#EXTINF:-1 tvg-id="Chile|| CDF ESTADIO HD -" tvg-name="TNT Sports 3" tvg-logo="https://pbs.twimg.com/profile_images/1410282401754927104/vuyUXYnE_400x400.jpg" group-title="Deportes",TNT Sports 3
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1121369
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/1280px-Winsports.svg.png" group-title="Deportes",Win Sports
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1125101
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/1280px-Winsports.svg.png" group-title="Deportes",Win Sports
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1133401
+#EXTINF:-1 tvg-id="" tvg-name="WinSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/1280px-Winsports.svg.png" group-title="Deportes",WinSports
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1133429
+#EXTINF:-1 tvg-id="" tvg-name="WinSports Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/1280px-Winsports.svg.png" group-title="Deportes",WinSports Plus
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1133430
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports 2" tvg-logo="http://mylatinotv.com:8080/images/mexico/win.png" group-title="Deportes",Win Sports 2
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19545
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports 1" tvg-logo="https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x600.jpg" group-title="Deportes",Win Sports 1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1130771
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports 2" tvg-logo="https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x600.jpg" group-title="Deportes",Win Sports 2
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1130772
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports 3" tvg-logo="https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x600.jpg" group-title="Deportes",Win Sports 3
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1130773
+#EXTINF:-1 tvg-id="Dep|| Espn | Colombia" tvg-name="Espn" tvg-logo="https://www.numeroservicioalcliente.com/wp-content/uploads/2017/01/espn-servicio-al-cliente-deporte-750x410.png" group-title="Deportes",Espn
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/18938
+#EXTINF:-1 tvg-id="Dep|| Gol Peru SD | Peru" tvg-name="Gol peru 3" tvg-logo="http://www.brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="Deportes",Gol peru 3
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19008
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES HD VIP HD" tvg-logo="http://mylatinotv.com:8080/images/mexico/mdeportes.png" group-title="Deportes",MOVISTAR DEPORTES HD VIP HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/16365
+#EXTINF:-1 tvg-id="~ Espn 3" tvg-name="Espn 3" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="Deportes",Espn 3
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/26787
+#EXTINF:-1 tvg-id="~ Espn 3" tvg-name="Espn 3 HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="Deportes",Espn 3 HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/26791
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS SD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/espn_.png" group-title="Deportes",ESPN PLUS SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/26797
+#EXTINF:-1 tvg-id="Dep|| ESPN 2 | Latinoamerica" tvg-name="Espn Latinoamerica" tvg-logo="https://i.imgur.com/2IPssYz.png" group-title="Deportes",Espn Latinoamerica
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19355
+#EXTINF:-1 tvg-id="Dep|| ESPN 2 | Latinoamerica" tvg-name="Espn 2 latinoamerica " tvg-logo="https://i.imgur.com/2IPssYz.png" group-title="Deportes",Espn 2 Latinoamerica 
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19444
+#EXTINF:-1 tvg-id="Dep|| ESPN 3 | Latinoamerica" tvg-name="Espn 3 Latinoamerica" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="Deportes",Espn 3 Latinoamerica
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19441
+#EXTINF:-1 tvg-id="" tvg-name="CDN Sport MAX" tvg-logo="http://www.eltecsa.com/logos/cdn-2-logo.jpg" group-title="Deportes",CDN Sport MAX
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28448
+#EXTINF:-1 tvg-id="" tvg-name="Claro:ESPN" tvg-logo="http://mylatinotv.com:8080/images/mexico/espn.png" group-title="Deportes",Claro:ESPN
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23469
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/espn2.png" group-title="Deportes",ESPN 2
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23473
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/espn3.png" group-title="Deportes",ESPN 3
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23470
 #EXTINF:-1 tvg-id="cl1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/LM0VtkF.png" group-title="Deportes",Claro Sports FHD LA
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1210675
 #EXTINF:-1 tvg-id="cl2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/LM0VtkF.png" group-title="Deportes",Claro Sports FHD
@@ -761,10 +878,6 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/26787
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19355
 #EXTINF:-1 tvg-id="" tvg-name="ES: Esport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f776a81abf0db9643bdbc1d785285578.jpg" group-title="Deportes",Esport 3
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19441
-#EXTINF:-1 tvg-id="" tvg-name="ES: FOX SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/99879c9e81db62ac9c15709cb2ce0bd4.png" group-title="Deportes",Fox Sports 1
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19452
-#EXTINF:-1 tvg-id="" tvg-name="ES: FOX SPORTS 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a91f57154339bcdd6ae38a27f1e20a48.png" group-title="Deportes",FOX SPORTS 2
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23479
 #EXTINF:-1 tvg-id="gol.es" tvg-name="ES: Gol" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/7ae2b23972da8518c6ac18a192581947.png" group-title="Deportes",Gol
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19448
 #EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="Deportes",EUROSPORT 1
@@ -783,12 +896,6 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28839
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28842
 #EXTINF:-1 tvg-id="" tvg-name="LA: ESPN Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/55f937782e1eff60fd0d2ed936aa5ce7.png" group-title="Deportes",ESPN Extra
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/26794
-#EXTINF:-1 tvg-id="" tvg-name="LA: FOX SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b2da659c16bc64a81f7fde756fc5850b.png" group-title="Deportes",FOX SPORTS 3
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/73080
-#EXTINF:-1 tvg-id="" tvg-name="LA: FOX SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/380799e8f8cd7549abef0a92601254bb.png" group-title="Deportes",FOX SPORTS 3
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/71708
-#EXTINF:-1 tvg-id="" tvg-name="LA: FOX SPORTS 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/14abd21acf87b4acf252690eda33dc6b.png" group-title="Deportes",FOX SPORTS 1
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81654
 #EXTINF:-1 tvg-id="" tvg-name="LA: TNT Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/1f392bb0f495628af2609a2def01a745.png" group-title="Deportes",TNT Sports
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/50841
 #EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/58f557ffa761091f837f5c289ac13208.png" group-title="Deportes",ESPN
@@ -817,6 +924,7 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/16365
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1113093
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR Deportes 6" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/e75a0e864a8daae27d3c86a3af556102.png" group-title="Deportes",MOVISTAR Deportes 6
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/22623
+
 
 #EXTINF:-1 tvg-id="" tvg-name="LA: Telefe" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ff5d11bc762b78299c7277f5ed66880e.png" group-title="Religion",Telefe
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/22088
