@@ -1,4 +1,3 @@
-
 #EXTM3U  
 
 #EXTINF:-1 tvg-id="goza1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Uh7stYp.png" group-title="Navidad",⭐ Navidad Pa Goza FHD
@@ -781,7 +780,7 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/22101
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1130307
 #EXTINF:-1 tvg-id="Chile|| Directv Sports Chile" tvg-name="Directv Sports" tvg-logo="https://i.imgur.com/vPRpKsy.png" group-title="Deportes",Directv Sports
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/22629
-#EXTINF:-1 tvg-id="Chile|| Directv Sports Chile2" tvg-name="Directv" tvg-logo="https://i.imgur.com/vPRpKsy.png" group-title="Deportes",Directv
+#EXTINF:-1 tvg-id="Chile|| Directv Sports Chile" tvg-name="Directv Sports one" tvg-logo="https://i.imgur.com/vPRpKsy.png" group-title="Deportes",Directv Sports one
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1164450
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1" tvg-logo="https://i.imgur.com/vPRpKsy.png" group-title="Deportes",Directv Sports 1
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1133426
@@ -853,7 +852,7 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19355
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19444
 #EXTINF:-1 tvg-id="Dep|| ESPN 3 | Latinoamerica" tvg-name="Espn 3 Latinoamerica" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="Deportes",Espn 3 Latinoamerica
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19441
-#EXTINF:-1 tvg-id="" tvg-name="CDN Sport MAX" tvg-logo="http://www.eltecsa.com/logos/cdn-2-logo.jpg" group-title="Deportes",CDN Sport MAX
+#EXTINF:-1 tvg-id="" tvg-name="CDN Sport MAX" tvg-logo="https://imgur.com/Tomb7vX.png" group-title="Deportes",CDN Sport MAX
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28448
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/espn2.png" group-title="Deportes",ESPN
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23469
