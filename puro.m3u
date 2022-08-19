@@ -1,3 +1,4 @@
+
 #EXTM3U  
 
 #EXTINF:-1 tvg-id="goza1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Uh7stYp.png" group-title="Navidad",⭐ Navidad Pa Goza FHD
@@ -780,7 +781,7 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/22101
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1130307
 #EXTINF:-1 tvg-id="Chile|| Directv Sports Chile" tvg-name="Directv Sports" tvg-logo="https://i.imgur.com/vPRpKsy.png" group-title="Deportes",Directv Sports
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/22629
-#EXTINF:-1 tvg-id="" tvg-name="Directv" tvg-logo="https://i.imgur.com/vPRpKsy.png" group-title="Deportes",Directv
+#EXTINF:-1 tvg-id="Chile|| Directv Sports Chile2" tvg-name="Directv" tvg-logo="https://i.imgur.com/vPRpKsy.png" group-title="Deportes",Directv
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1164450
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1" tvg-logo="https://i.imgur.com/vPRpKsy.png" group-title="Deportes",Directv Sports 1
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1133426
@@ -790,7 +791,7 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/30273
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/26814
 #EXTINF:-1 tvg-id="Ecuador|| DIRECTV Sports Plus" tvg-name="Directv Sports Plus" tvg-logo="https://i.imgur.com/vPRpKsy.png" group-title="Deportes",Directv Sports Plus
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/30274
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1" tvg-logo="http://mylatinotv.com:8080/images/mexico/directv.png" group-title="Deportes",Directv Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1" tvg-logo="https://i.imgur.com/vPRpKsy.png" group-title="Deportes",Directv Sports 1
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1203775
 #EXTINF:-1 tvg-id="" tvg-name="D Sports Fight" tvg-logo="https://i.imgur.com/vPRpKsy.png" group-title="Deportes",D Sports Fight
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1133428
