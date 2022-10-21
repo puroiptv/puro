@@ -1,449 +1,647 @@
-#EXTM3U  
 
-#EXTINF:-1 tvg-id="goza1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Uh7stYp.png" group-title="Navidad",⭐ Navidad Pa Goza FHD
-http://k2.usastreams.com:80/merengue
 #EXTM3U 
 
-#EXTINF:-1,LA: EL GOURMET
+#EXTINF:-1 tvg-id="Gourmet1.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title="Cocina",El Gourmet 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044427
-#EXTINF:-1,MEX: EL GOURMET
+#EXTINF:-1 tvg-id="Gourmet2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title="Cocina",El Gourmet HD 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044490
-#EXTINF:-1,PREMIUM | EL GOURMET LATINO
+#EXTINF:-1 tvg-id="Gourmet3.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title="Cocina",El Gourmet FHD COLOMBIA
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059264
-#EXTINF:-1,ARG: GOURMET
+#EXTINF:-1 tvg-id="Gourmet4.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title="Cocina",El Gourmet FHD COLOMBIA
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061335
 
-#EXTINF:-1,MEX: FOOD NETWORK
+#EXTINF:-1 tvg-id="food2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD ES
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044497
 
 
-#EXTINF:-1,CANAL COCINA HD 2
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: Canal Cocina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Cocina",Canal Cocina HD
 http://145310734294321148.niceapy.xyz:80/play/Antonio123/Antonio123/321148.ts
-#EXTINF:-1,CANAL COCINA HD 3
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: Canal Cocina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Cocina",Canal Cocina HD
 http://145310734294321149.niceapy.xyz:80/play/Antonio123/Antonio123/321149.ts
-#EXTINF:-1,CANAL COCINA HD 4
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: Canal Cocina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Cocina",Canal Cocina HD
 http://145310734294326822.niceapy.xyz:80/play/Antonio123/Antonio123/326822.ts
-#EXTINF:-1,CANAL COCINA HD 6
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: Canal Cocina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Cocina",Canal Cocina HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10304.ts
-#EXTINF:-1,CANAL COCINA HD 7
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: Canal Cocina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Cocina",Canal Cocina HD
 http://145310734294321147.niceapy.xyz:80/play/Antonio123/Antonio123/321147.ts
 
-#EXTINF:-1,DECASA HD 1
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: De Casa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Cocina",De Casa HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10305.ts
-#EXTINF:-1,DECASA HD 2
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: De Casa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Cocina",De Casa HD
 http://145310734294321205.niceapy.xyz:80/play/Antonio123/Antonio123/321205.ts
-#EXTINF:-1,DECASA HD 3
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: De Casa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Cocina",De Casa HD
 http://145310734294321206.niceapy.xyz:80/play/Antonio123/Antonio123/321206.ts
-#EXTINF:-1,DECASA HD 4
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: De Casa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Cocina",De Casa HD
 http://145310734294321207.niceapy.xyz:80/play/Antonio123/Antonio123/321207.ts
-#EXTINF:-1,MEX: GARAGE TV
+
+#EXTINF:-1 tvg-id="disg3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/e268KEZ.png" group-title="Discovery",Garage TV FHD MX
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044504
+#EXTINF:-1,ARG: GARAGE
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Garage TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7571477b2d1658e99c8b0646b505baec.png" group-title="Discovery",Garage TV
 
-#EXTINF:-1,DISCOVERY HD 1 
+
+
+#EXTINF:-1 tvg-id="discovery1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel FHD MX
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10303.ts
-#EXTINF:-1,DISCOVERY HD 2
+#EXTINF:-1 tvg-id="discovery2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel FHD ARG
 http://145310734294321209.niceapy.xyz:80/play/Antonio123/Antonio123/321209.ts
-#EXTINF:-1,DISCOVERY HD 3
+#EXTINF:-1 tvg-id="discovery3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel FHD ES
 http://145310734294321210.niceapy.xyz:80/play/Antonio123/Antonio123/321210.ts
-#EXTINF:-1,DISCOVERY HD 4
+#EXTINF:-1 tvg-id="discovery4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel FHD LATINO
 http://145310734294321211.niceapy.xyz:80/play/Antonio123/Antonio123/321211.ts
-#EXTINF:-1,DISCOVERY HD 5
+#EXTINF:-1 tvg-id="discovery5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel FHD COLOMBIA
 http://145310734294321212.niceapy.xyz:80/play/Antonio123/Antonio123/321212.ts
-#EXTINF:-1,DISCOVERY HD 6
+#EXTINF:-1 tvg-id="discovery6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel FHD 
 http://145310734294326817.niceapy.xyz:80/play/Antonio123/Antonio123/326817.ts
-#EXTINF:-1,MEX: DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="discovery7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044477
-#EXTINF:-1,ESPAÑA | Discovery Channel HD
+#EXTINF:-1 tvg-id="discovery8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044833
-
-#EXTINF:-1,DISCOVERY WORLD HD
-http://145310734294321213.niceapy.xyz:80/play/Antonio123/Antonio123/321213.ts
-
-#EXTINF:-1,INVESTIGATION DISCOVERY HD 1
-http://145310734294321275.niceapy.xyz:80/play/Antonio123/Antonio123/321275.ts
-#EXTINF:-1,INVESTIGATION DISCOVERY HD 2
-http://145310734294326827.niceapy.xyz:80/play/Antonio123/Antonio123/326827.ts
-
-#EXTINF:-1,LA: DISCOVERY CIENCE
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044278
-#EXTINF:-1,LA: DISCOVERY SCIENCE
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044398
-#EXTINF:-1,MEX: DISCOVERY SCIENCE
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044481
-#EXTINF:-1,MEX: DISCOVERY THEATER
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044482
-#EXTINF:-1,MEX: DISCOVERY TURBO
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044483
-#EXTINF:-1,MEX: DISCOVERY WORLD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044484
-
-#EXTINF:-1,LA: DISCOVERY THEATER
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044361
-
-#EXTINF:-1,LA: DISCOVERY TURBO
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044397
-#EXTINF:-1,LA: DISCOVERY HOME & HEALTH
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044400
-#EXTINF:-1,LA: DISCOVERY INVESTIGATION
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044401
-#EXTINF:-1,MEX: INVESTIGATION DISCOVERY
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044515
-
-#EXTINF:-1,MEX: DISCOVERY ID
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044580
-#EXTINF:-1,LAT SD: Discovery Channel
+#EXTINF:-1 tvg-id="discovery9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059338
-#EXTINF:-1,LAT HD: Discovery ID
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059339
-#EXTINF:-1,LAT SD: Discovery ID
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059340
-#EXTINF:-1,LAT SD: Discovery TLC
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059341
-#EXTINF:-1,LAT HD: Discovery H&H
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059342
-#EXTINF:-1,LAT SD: Discovery h&h
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059343
-#EXTINF:-1,LAT SD: Discovery Theater
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059344
-#EXTINF:-1,LAT SD: Discovery Turbo
+
+#EXTINF:-1 tvg-id="discoverytur1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo FHD DO FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044483
+#EXTINF:-1 tvg-id="discoverytur2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo FHD MX FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044397
+#EXTINF:-1 tvg-id="discoverytur3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo FHD LATINO
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059345
 
-#EXTINF:-1,LA: ANIMAL PLANET
+#EXTINF:-1 tvg-id="discoveryw1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Pdoey36.png" group-title="Discovery",Discovery World FHD DO
+http://145310734294321213.niceapy.xyz:80/play/Antonio123/Antonio123/321213.ts
+
+#EXTINF:-1 tvg-id="discoveryh1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H FHD MX
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044400
+#EXTINF:-1 tvg-id="discoveryh2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H FHD ES
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059342
+#EXTINF:-1 tvg-id="discoveryh3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/RBOI7hx.png" group-title="Discovery",Discovery H&H FHD 
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059343
+
+#EXTINF:-1 tvg-id="discovery9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery ID HD
+http://145310734294321275.niceapy.xyz:80/play/Antonio123/Antonio123/321275.ts
+#EXTINF:-1 tvg-id="discovery10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery ID FHD
+http://145310734294326827.niceapy.xyz:80/play/Antonio123/Antonio123/326827.ts
+#EXTINF:-1 tvg-id="discovery11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery ID HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044401
+#EXTINF:-1 tvg-id="discovery12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery ID HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044515
+#EXTINF:-1 tvg-id="discovery13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery ID FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044580
+#EXTINF:-1 tvg-id="discovery13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery ID FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059339
+#EXTINF:-1 tvg-id="discovery13.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery ID FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059340
+
+#EXTINF:-1 tvg-id="discoverycien1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Science FHD MX
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044278
+#EXTINF:-1 tvg-id="discoverycien2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Science FHD ARG
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044398
+#EXTINF:-1 tvg-id="discoverycien2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Science FHD ARG
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044481
+
+#EXTINF:-1 tvg-id="discoveryt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/lf1TCEg.png" group-title="Discovery",Discovery Theater FHD LA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044482
+#EXTINF:-1 tvg-id="discoveryt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/lf1TCEg.png" group-title="Discovery",Discovery Theater FHD 
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044361
+#EXTINF:-1 tvg-id="discoveryt5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/lf1TCEg.png" group-title="Discovery",Discovery Theater HD COLOMBIA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059344
+
+
+#EXTINF:-1 tvg-id="anim1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/VJsLK6F.png" group-title="Animal Planet",ANIMAL PLANET FHD ARG
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044396
-#EXTINF:-1,MEX: ANIMAL PLANET
+#EXTINF:-1 tvg-id="anim2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/VJsLK6F.png" group-title="Animal Planet",ANIMAL PLANET FHD 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044442
-#EXTINF:-1,LAT SD: Animal Planet
+#EXTINF:-1 tvg-id="anim3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/VJsLK6F.png" group-title="Animal Planet",ANIMAL PLANET FHD MX
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059323
 
 
-#EXTINF:-1,CRIMEN INVESTIGACION 1
+#EXTINF:-1 tvg-id="discoverycien2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Investigation Discovery FHD ES
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10301.ts
-#EXTINF:-1,CRIMEN INVESTIGACION 2
+#EXTINF:-1 tvg-id="discoverycien4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Investigation Discovery COLOMBIA HD
 http://145310734294321192.niceapy.xyz:80/play/Antonio123/Antonio123/321192.ts
-#EXTINF:-1,CRIMEN INVESTIGACION 3
+#EXTINF:-1 tvg-id="discoverycien6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Investigation Discovery MX
 http://145310734294321193.niceapy.xyz:80/play/Antonio123/Antonio123/321193.ts
-#EXTINF:-1,CRIMEN INVESTIGACION 4
+#EXTINF:-1 tvg-id="discoverycien7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Investigation Discovery MX FHD
 http://145310734294321194.niceapy.xyz:80/play/Antonio123/Antonio123/321194.ts
-#EXTINF:-1,CRIMEN INVESTIGACION 5
+#EXTINF:-1 tvg-id="discoverycien8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Investigation Discovery PY
 http://145310734294321195.niceapy.xyz:80/play/Antonio123/Antonio123/321195.ts
-#EXTINF:-1,ESPAÑA | Crimen & Investigacion
+#EXTINF:-1 tvg-id="discoverycien9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Investigation Discovery PY HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044856
 
-#EXTINF:-1,HISTORY HD
+#EXTINF:-1 tvg-id="h2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel FHD ES 
 http://145310734294321263.niceapy.xyz:80/play/Antonio123/Antonio123/321263.ts
-
-#EXTINF:-1,HISTORIA HD 1
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10302.ts
-#EXTINF:-1,HISTORIA HD 2
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10219.ts
-#EXTINF:-1,HISTORIA HD 3
-http://145310734294321156.niceapy.xyz:80/play/Antonio123/Antonio123/321156.ts
-#EXTINF:-1,HISTORIA HD 4
-http://145310734294321157.niceapy.xyz:80/play/Antonio123/Antonio123/321157.ts
-#EXTINF:-1,HISTORIA HD 5
-http://145310734294321158.niceapy.xyz:80/play/Antonio123/Antonio123/321158.ts
-#EXTINF:-1,LA: H2
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044394
-#EXTINF:-1,MEX: HISTORY
+#EXTINF:-1 tvg-id="h3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel FHD MX
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044510
-#EXTINF:-1,LAT HD: HISTORY
+#EXTINF:-1 tvg-id="h4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel FHD LATINO
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059376
-#EXTINF:-1,LAT SD: History Channel
+#EXTINF:-1 tvg-id="h5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel FHD COLOMBIA
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059377
-#EXTINF:-1,LAT SD:H2
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059378
+#EXTINF:-1 tvg-id="h6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel HD COLOMBIA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061341
 
-#EXTINF:-1,National Geographic FHD 1
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10231.ts
-#EXTINF:-1,National Geographic FHD 2
+#EXTINF:-1 tvg-id="h6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",Historia HD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10302.ts
+#EXTINF:-1 tvg-id="h6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",Historia HD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10219.ts
+#EXTINF:-1 tvg-id="h6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",Historia HD
+http://145310734294321156.niceapy.xyz:80/play/Antonio123/Antonio123/321156.ts
+#EXTINF:-1 tvg-id="h6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",Historia HD
+http://145310734294321157.niceapy.xyz:80/play/Antonio123/Antonio123/321157.ts
+#EXTINF:-1 tvg-id="h6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",Historia HD
+http://145310734294321158.niceapy.xyz:80/play/Antonio123/Antonio123/321158.ts
+
+#EXTINF:-1 tvg-id="h6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",H2 HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044394
+#EXTINF:-1 tvg-id="h6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",H2 HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059378
+#EXTINF:-1 tvg-id="h6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",H2 HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061336
+
+#EXTINF:-1 tvg-id="nat2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO FHD MOVIL
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10297.ts
-#EXTINF:-1,National Geographic FHD 3
+#EXTINF:-1 tvg-id="nat3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO FHD COLOMBIA
 http://145310734294321366.niceapy.xyz:80/play/Antonio123/Antonio123/321366.ts
-#EXTINF:-1,National Geographic FHD 4
+#EXTINF:-1 tvg-id="nat4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO HD COLOMBIA
 http://145310734294321368.niceapy.xyz:80/play/Antonio123/Antonio123/321368.ts
-#EXTINF:-1,National Geographic FHD 5
+#EXTINF:-1 tvg-id="nat5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO FHD COLOMBIA
 http://145310734294321371.niceapy.xyz:80/play/Antonio123/Antonio123/321371.ts
-#EXTINF:-1,National Geographic FHD 6
+#EXTINF:-1 tvg-id="nat6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO SD MX
 http://145310734294321372.niceapy.xyz:80/play/Antonio123/Antonio123/321372.ts
-#EXTINF:-1,National Geographic FHD 7
+#EXTINF:-1 tvg-id="nat6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO SD MX
 http://145310734294321373.niceapy.xyz:80/play/Antonio123/Antonio123/321373.ts
-#EXTINF:-1,LA: NAT GEO
+#EXTINF:-1 tvg-id="nat6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO SD MX
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044403
-#EXTINF:-1,LA: NAT GEO WILD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044402
-#EXTINF:-1,MEX: NAT GEO
+#EXTINF:-1 tvg-id="nat10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO FHD ARG 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044528
-#EXTINF:-1,MEX: NAT GEO KIDS
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044529
-#EXTINF:-1,MEX: NAT GEO WILD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044530
-#EXTINF:-1,ESPAÑA | Nat Geo HD
+#EXTINF:-1 tvg-id="nat10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO FHD 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044832
-#EXTINF:-1,ESPAÑA | Nat Geo Wild HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044835
-#EXTINF:-1,LAT SD: NatGeo
+#EXTINF:-1 tvg-id="nat10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO FHD 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059373
-#EXTINF:-1,LAT SD: NATGEO Wild
+#EXTINF:-1 tvg-id="nat10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO FHD 
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061352
+
+#EXTINF:-1 tvg-id="natw2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD FHD LATINO
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044402
+#EXTINF:-1 tvg-id="natw3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD FHD 
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044530
+#EXTINF:-1 tvg-id="natw3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD FHD 
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044835
+#EXTINF:-1 tvg-id="natw3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD FHD 
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10298.ts
+#EXTINF:-1 tvg-id="natw3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD FHD 
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10232.ts
+#EXTINF:-1 tvg-id="natw3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD FHD 
+http://145310734294321365.niceapy.xyz:80/play/Antonio123/Antonio123/321365.ts
+#EXTINF:-1 tvg-id="natw3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD FHD 
+http://145310734294321364.niceapy.xyz:80/play/Antonio123/Antonio123/321364.ts
+#EXTINF:-1 tvg-id="natw3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD FHD 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059374
 
+#EXTINF:-1 tvg-id="natw3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO KIS
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044529
 
-#EXTINF:-1,NAT GEO WILD FHD 1
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10298.ts
-#EXTINF:-1,NAT GEO WILD FHD 2
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10232.ts
-#EXTINF:-1,NAT GEO WILD FHD 3
-http://145310734294321365.niceapy.xyz:80/play/Antonio123/Antonio123/321365.ts
-#EXTINF:-1,NAT GEO WILD FHD 4
-http://145310734294321364.niceapy.xyz:80/play/Antonio123/Antonio123/321364.ts
 
-#EXTINF:-1,Caza y Pesca HD 1
+#EXTINF:-1 tvg-id="" tvg-name="ES: Caza y Pesca" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f6f8c4144320c781876e84ec0a4e4c1e.png" group-title="Discovery",Caza y Pesca
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10208.ts
-#EXTINF:-1,Caza y Pesca HD 2
+#EXTINF:-1 tvg-id="" tvg-name="ES: Caza y Pesca" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f6f8c4144320c781876e84ec0a4e4c1e.png" group-title="Discovery",Caza y Pesca
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10299.ts
-#EXTINF:-1,Caza y Pesca HD 4
+#EXTINF:-1 tvg-id="" tvg-name="ES: Caza y Pesca" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f6f8c4144320c781876e84ec0a4e4c1e.png" group-title="Discovery",Caza y Pesca
 http://145310734294321168.niceapy.xyz:80/play/Antonio123/Antonio123/321168.ts
-#EXTINF:-1,Caza y Pesca HD 5
+#EXTINF:-1 tvg-id="" tvg-name="ES: Caza y Pesca" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f6f8c4144320c781876e84ec0a4e4c1e.png" group-title="Discovery",Caza y Pesca
 http://145310734294321169.niceapy.xyz:80/play/Antonio123/Antonio123/321169.ts
-#EXTINF:-1,Caza y Pesca HD 6
+#EXTINF:-1 tvg-id="" tvg-name="ES: Caza y Pesca" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f6f8c4144320c781876e84ec0a4e4c1e.png" group-title="Discovery",Caza y Pesca
 http://145310734294321170.niceapy.xyz:80/play/Antonio123/Antonio123/321170.ts
 
+#EXTINF:-1 tvg-id="su8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044374
+#EXTINF:-1 tvg-id="su8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044416
+#EXTINF:-1 tvg-id="su8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044544
+#EXTINF:-1 tvg-id="su8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044571
+#EXTINF:-1 tvg-id="su8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044649
+#EXTINF:-1 tvg-id="su8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059335
+#EXTINF:-1 tvg-id="su8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059336
+#EXTINF:-1 tvg-id="su8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059368
+#EXTINF:-1 tvg-id="su8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061362
+#EXTINF:-1 tvg-id="su8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/L0R8eNS.png" group-title="Canales Peliculas",Studio Universal FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061378
 
 
-#EXTINF:-1,DMAX FHD FHD 1
+#EXTINF:-1 tvg-id="t2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7uZzYZx.png" group-title="Novelas",TLC HD ARG
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059341
+#EXTINF:-1 tvg-id="t2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7uZzYZx.png" group-title="Novelas",TLC HD ARG
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044557
+
+
+#EXTINF:-1 tvg-id="sp5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jQi9xVj.png" group-title="Canales Peliculas",Space FHD 
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044542
+#EXTINF:-1 tvg-id="sp5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jQi9xVj.png" group-title="Canales Peliculas",Space FHD 
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044375
+#EXTINF:-1 tvg-id="sp5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jQi9xVj.png" group-title="Canales Peliculas",Space FHD 
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059366
+#EXTINF:-1 tvg-id="sp5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jQi9xVj.png" group-title="Canales Peliculas",Space FHD 
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059367
+#EXTINF:-1 tvg-id="sp5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jQi9xVj.png" group-title="Canales Peliculas",Space FHD 
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061361
+
+
+
+#EXTINF:-1 tvg-id="s1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",Sony Channel HD LA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044376
+#EXTINF:-1 tvg-id="s1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",Sony Channel HD LA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044541
+#EXTINF:-1 tvg-id="s1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",Sony Channel HD LA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059329
+#EXTINF:-1 tvg-id="s1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",Sony Channel HD LA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059330
+#EXTINF:-1 tvg-id="s1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",Sony Channel HD LA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061360
+
+
+
+#EXTINF:-1 tvg-id="s1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",CINE DINAMITA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044378
+#EXTINF:-1 tvg-id="s1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/SfO62g9.png" group-title="Canales Peliculas",CINE DINAMITA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059358
+#EXTINF:-1 tvg-id="dp1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/h4setR5.png" group-title="Canales Peliculas",De Pelicula FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044476
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: Moviemax" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/5e0d8eca106a9843aa5430fe374e8ccc.png" group-title="Canales Peliculas",Moviemax
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044357
+#EXTINF:-1 tvg-id="" tvg-name="LA: Moviemax" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/5e0d8eca106a9843aa5430fe374e8ccc.png" group-title="Canales Peliculas",Moviemax
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061348
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: Moviemax" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/5e0d8eca106a9843aa5430fe374e8ccc.png" group-title="Canales Peliculas",Moviemax
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061346
+#EXTINF:-1 tvg-id="" tvg-name="LA: Moviemax" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/5e0d8eca106a9843aa5430fe374e8ccc.png" group-title="Canales Peliculas",Moviemax
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061347
+
+#EXTINF:-1 tvg-id="tb1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TBS HD ES
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044364
+#EXTINF:-1 tvg-id="tb1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TBS HD ES
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044546
+#EXTINF:-1 tvg-id="tb1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TBS HD ES
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059364
+#EXTINF:-1 tvg-id="tb1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TBS HD ES
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061364
+
+#EXTINF:-1 tvg-id="ae3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E FHD MX
+http://145310734294321084.niceapy.xyz:80/play/Antonio123/Antonio123/321084.ts
+#EXTINF:-1 tvg-id="ae3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E FHD MX
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044377
+#EXTINF:-1 tvg-id="ae3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E FHD MX
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059324
+#EXTINF:-1 tvg-id="ae3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E FHD MX
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059325
+#EXTINF:-1 tvg-id="ae3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E FHD MX
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061382
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DMAX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3fc73f3c664e7a9f6d4cb5e55d8b1478.png" group-title="Variados",DMAX
 http://145310734294321225.niceapy.xyz:80/play/Antonio123/Antonio123/321225.ts
-#EXTINF:-1,DMAX FHD FHD 2
+#EXTINF:-1 tvg-id="" tvg-name="ES: DMAX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3fc73f3c664e7a9f6d4cb5e55d8b1478.png" group-title="Variados",DMAX
 http://145310734294321226.niceapy.xyz:80/play/Antonio123/Antonio123/321226.ts
 
 
-#EXTINF:-1,PARAMOUNT CHANNEL 1
+#EXTINF:-1 tvg-id="pc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Network FHD ES
 http://145310734294321392.niceapy.xyz:80/play/Antonio123/Antonio123/321392.ts
-#EXTINF:-1,PARAMOUNT CHANNEL 2
+#EXTINF:-1 tvg-id="pc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Network FHD ES
 http://145310734294321393.niceapy.xyz:80/play/Antonio123/Antonio123/321393.ts
-#EXTINF:-1,PARAMOUNT CHANNEL 3
+#EXTINF:-1 tvg-id="pc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Network FHD ES
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10269.ts
-#EXTINF:-1,LA: PARAMOUNT
+#EXTINF:-1 tvg-id="pc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Network FHD ES
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044379
+#EXTINF:-1 tvg-id="pc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Network FHD ES
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044537
+#EXTINF:-1 tvg-id="pc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Network FHD ES
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044887
+#EXTINF:-1 tvg-id="pc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Network FHD ES
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044888
+#EXTINF:-1 tvg-id="pc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Network FHD ES
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059360
 
-#EXTINF:-1,TNT 2
+
+
+#EXTINF:-1 tvg-id="tnt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD ARG
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10316.ts
-#EXTINF:-1,TNT 3
+#EXTINF:-1 tvg-id="tnt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD ARG
 http://145310734294321442.niceapy.xyz:80/play/Antonio123/Antonio123/321442.ts
-#EXTINF:-1,TNT 4
+#EXTINF:-1 tvg-id="tnt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD ARG
 http://145310734294321443.niceapy.xyz:80/play/Antonio123/Antonio123/321443.ts
-#EXTINF:-1,TNT 5
+#EXTINF:-1 tvg-id="tnt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD ARG
 http://145310734294321444.niceapy.xyz:80/play/Antonio123/Antonio123/321444.ts
-#EXTINF:-1,LA: TNT SERIES
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044371
-#EXTINF:-1,LA: TNT
+#EXTINF:-1 tvg-id="tnt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD ARG
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044372
+#EXTINF:-1 tvg-id="tnt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD ARG
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044559
+#EXTINF:-1 tvg-id="tnt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD ARG
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059361
+#EXTINF:-1 tvg-id="tnt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD ARG
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059362
+#EXTINF:-1 tvg-id="tnt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD ARG
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061371
 
+#EXTINF:-1 tvg-id="tnts2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yjriT0J.png" group-title="Canales Peliculas",TNT Series HD ARG
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061372
+#EXTINF:-1 tvg-id="tnts2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yjriT0J.png" group-title="Canales Peliculas",TNT Series HD ARG
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059363
+#EXTINF:-1 tvg-id="tnts2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yjriT0J.png" group-title="Canales Peliculas",TNT Series HD ARG
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044371
+#EXTINF:-1 tvg-id="tnts2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yjriT0J.png" group-title="Canales Peliculas",TNT Series HD ARG
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044560
 
-#EXTINF:-1,Fox HD 1
+#EXTINF:-1 tvg-id="fox1.es" tvg-name="ES: FOX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e327489a02855d7d55521d92c8874877.png" group-title="Canales Peliculas",FOX FHD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10252.ts
-#EXTINF:-1,Fox HD 2
+#EXTINF:-1 tvg-id="fox1.es" tvg-name="ES: FOX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e327489a02855d7d55521d92c8874877.png" group-title="Canales Peliculas",FOX FHD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10217.ts
-#EXTINF:-1,Fox HD 3
+#EXTINF:-1 tvg-id="fox1.es" tvg-name="ES: FOX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e327489a02855d7d55521d92c8874877.png" group-title="Canales Peliculas",FOX FHD
 http://145310734294321251.niceapy.xyz:80/play/Antonio123/Antonio123/321251.ts
-#EXTINF:-1,Fox HD 4
+#EXTINF:-1 tvg-id="fox1.es" tvg-name="ES: FOX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e327489a02855d7d55521d92c8874877.png" group-title="Canales Peliculas",FOX FHD
 http://145310734294321252.niceapy.xyz:80/play/Antonio123/Antonio123/321252.ts
-#EXTINF:-1,Fox HD 5
+#EXTINF:-1 tvg-id="fox1.es" tvg-name="ES: FOX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e327489a02855d7d55521d92c8874877.png" group-title="Canales Peliculas",FOX FHD
 http://145310734294321253.niceapy.xyz:80/play/Antonio123/Antonio123/321253.ts
-#EXTINF:-1,Fox HD 6
+#EXTINF:-1 tvg-id="fox1.es" tvg-name="ES: FOX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e327489a02855d7d55521d92c8874877.png" group-title="Canales Peliculas",FOX FHD
 http://145310734294304684.niceapy.xyz:80/play/Antonio123/Antonio123/304684.ts
+#EXTINF:-1 tvg-id="fox1.es" tvg-name="ES: FOX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e327489a02855d7d55521d92c8874877.png" group-title="Canales Peliculas",FOX FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061408
 
-#EXTINF:-1,FOX LIFE HD 3
+#EXTINF:-1 tvg-id="fox1.es" tvg-name="ES: FOX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e327489a02855d7d55521d92c8874877.png" group-title="Canales Peliculas",FOX LIFEFHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061408
 http://145310734294321250.niceapy.xyz:80/play/Antonio123/Antonio123/321250.ts
 
+#EXTINF:-1 tvg-id="fx7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX FHD 
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059333
+#EXTINF:-1 tvg-id="fx7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX FHD 
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059334
+#EXTINF:-1 tvg-id="fx7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX FHD 
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059359
+#EXTINF:-1 tvg-id="fx7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX FHD 
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061331
+#EXTINF:-1 tvg-id="fx7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX FHD 
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044384
 
-#EXTINF:-1,AXN HD 1
+
+
+
+#EXTINF:-1 tvg-id="ax8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10205.ts
-#EXTINF:-1,AXN HD 2
+#EXTINF:-1 tvg-id="ax8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10254.ts
-#EXTINF:-1,AXN HD 3
+#EXTINF:-1 tvg-id="ax8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10255.ts
-#EXTINF:-1,AXN HD 4
+#EXTINF:-1 tvg-id="ax8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
 http://145310734294321118.niceapy.xyz:80/play/Antonio123/Antonio123/321118.ts
-#EXTINF:-1,AXN HD 5
+#EXTINF:-1 tvg-id="ax8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
 http://145310734294321119.niceapy.xyz:80/play/Antonio123/Antonio123/321119.ts
-#EXTINF:-1,AXN HD 6
+#EXTINF:-1 tvg-id="ax8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
 http://145310734294321120.niceapy.xyz:80/play/Antonio123/Antonio123/321120.ts
-#EXTINF:-1,LA: AXN
+#EXTINF:-1 tvg-id="ax8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044382
+#EXTINF:-1 tvg-id="ax8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044444
+#EXTINF:-1 tvg-id="ax8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044630
+#EXTINF:-1 tvg-id="ax8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059326
+#EXTINF:-1 tvg-id="ax8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059327
 
 
-#EXTINF:-1,AXN White HD 1
+#EXTINF:-1 tvg-id="ax8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN White HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10255.ts
-#EXTINF:-1,AXN White HD 3
+#EXTINF:-1 tvg-id="ax8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN White HD
 http://145310734294321115.niceapy.xyz:80/play/Antonio123/Antonio123/321115.ts
-#EXTINF:-1,AXN White HD 4
+#EXTINF:-1 tvg-id="ax8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN White HD
 http://145310734294321116.niceapy.xyz:80/play/Antonio123/Antonio123/321116.ts
-#EXTINF:-1,AXN White HD 5
+#EXTINF:-1 tvg-id="ax8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN White HD
 http://145310734294321117.niceapy.xyz:80/play/Antonio123/Antonio123/321117.ts
 
 
-#EXTINF:-1,SyFy HD 1
+#EXTINF:-1 tvg-id="sy8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Canales Peliculas",SYFY FHD 
 http://145310734294321422.niceapy.xyz:80/play/Antonio123/Antonio123/321422.ts
-#EXTINF:-1,SyFy HD 2
+#EXTINF:-1 tvg-id="sy8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Canales Peliculas",SYFY FHD 
 http://145310734294321423.niceapy.xyz:80/play/Antonio123/Antonio123/321423.ts
-#EXTINF:-1,SyFy HD 4
+#EXTINF:-1 tvg-id="sy8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Canales Peliculas",SYFY FHD 
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10233.ts
-#EXTINF:-1,SyFy HD 5
+#EXTINF:-1 tvg-id="sy8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Canales Peliculas",SYFY FHD 
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10256.ts
-#EXTINF:-1,LA: SYFY
+#EXTINF:-1 tvg-id="sy8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Canales Peliculas",SYFY FHD 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044392
+#EXTINF:-1 tvg-id="sy8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Canales Peliculas",SYFY FHD 
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044545
+#EXTINF:-1 tvg-id="sy8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Canales Peliculas",SYFY FHD 
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059337
+#EXTINF:-1 tvg-id="sy8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Canales Peliculas",SYFY FHD 
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061363
 
 
-#EXTINF:-1,TCM HD 1
+#EXTINF:-1 tvg-id="tcm7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TCM FHD
 http://145310734294321425.niceapy.xyz:80/play/Antonio123/Antonio123/321425.ts
-#EXTINF:-1,TCM HD 2
+#EXTINF:-1 tvg-id="tcm7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TCM FHD
 http://145310734294321426.niceapy.xyz:80/play/Antonio123/Antonio123/321426.ts
-#EXTINF:-1,TCM HD 3
+#EXTINF:-1 tvg-id="tcm7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TCM FHD
 http://145310734294321427.niceapy.xyz:80/play/Antonio123/Antonio123/321427.ts
-#EXTINF:-1,TCM HD 4
+#EXTINF:-1 tvg-id="tcm7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TCM FHD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10258.ts
-#EXTINF:-1,TCM HD 5
+#EXTINF:-1 tvg-id="tcm7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TCM FHD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10263.ts
-#EXTINF:-1,LA: TCM
+#EXTINF:-1 tvg-id="tcm7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TCM FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044373
+#EXTINF:-1 tvg-id="tcm7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TCM FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044547
+#EXTINF:-1 tvg-id="tcm7.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/NBhVRl0.png" group-title="Canales Peliculas",TCM FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061365
 
-#EXTINF:-1,AMC HD 1
+
+
+#EXTINF:-1 tvg-id="amc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD ARG
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10263.ts
-#EXTINF:-1,AMC HD 2
+#EXTINF:-1 tvg-id="amc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD ARG
 http://145310734294321102.niceapy.xyz:80/play/Antonio123/Antonio123/321102.ts
-#EXTINF:-1,AMC HD 3
+#EXTINF:-1 tvg-id="amc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD ARG
 http://145310734294321103.niceapy.xyz:80/play/Antonio123/Antonio123/321103.ts
-#EXTINF:-1,AMC HD 4
+#EXTINF:-1 tvg-id="amc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD ARG
 http://145310734294321104.niceapy.xyz:80/play/Antonio123/Antonio123/321104.ts
-#EXTINF:-1,AMC HD 5
+#EXTINF:-1 tvg-id="amc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD ARG
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10203.ts
-#EXTINF:-1,AMC HD 7
+#EXTINF:-1 tvg-id="amc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD ARG
 http://145310734294321101.niceapy.xyz:80/play/Antonio123/Antonio123/321101.ts
-#EXTINF:-1,LA: AMC
+#EXTINF:-1 tvg-id="amc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD ARG
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044383
+#EXTINF:-1 tvg-id="amc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD ARG
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044441
+#EXTINF:-1 tvg-id="amc3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD ARG
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061383
 
 
-#EXTINF:-1,COMEDY CENTRAL HD 1
+#EXTINF:-1 tvg-id="cmc6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD LA
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10209.ts
-#EXTINF:-1,COMEDY CENTRAL HD 2
+#EXTINF:-1 tvg-id="cmc6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD LA
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10266.ts
-#EXTINF:-1,COMEDY CENTRAL HD 3
+#EXTINF:-1 tvg-id="cmc6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD LA
 http://145310734294321183.niceapy.xyz:80/play/Antonio123/Antonio123/321183.ts
-#EXTINF:-1,COMEDY CENTRAL HD 4
+#EXTINF:-1 tvg-id="cmc6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD LA
 http://145310734294321184.niceapy.xyz:80/play/Antonio123/Antonio123/321184.ts
-#EXTINF:-1,COMEDY CENTRAL HD 5
+#EXTINF:-1 tvg-id="cmc6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD LA
 http://145310734294321185.niceapy.xyz:80/play/Antonio123/Antonio123/321185.ts
-
-
-#EXTINF:-1,A3SERIES HD 2
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10267.ts
-#EXTINF:-1,A3SERIES HD 3
-http://145310734294321111.niceapy.xyz:80/play/Antonio123/Antonio123/321111.ts
-#EXTINF:-1,A3SERIES HD 4
-http://145310734294321112.niceapy.xyz:80/play/Antonio123/Antonio123/321112.ts
-#EXTINF:-1,A3SERIES HD 5
-http://145310734294321113.niceapy.xyz:80/play/Antonio123/Antonio123/321113.ts
-#EXTINF:-1,A3SERIES HD 6
-http://145310734294321114.niceapy.xyz:80/play/Antonio123/Antonio123/321114.ts
-#EXTINF:-1,A3SERIES HD 7
-http://145310734294321182.niceapy.xyz:80/play/Antonio123/Antonio123/321182.ts
-#EXTINF:-1,A3SERIES HD 8
-http://145310734294321086.niceapy.xyz:80/play/Antonio123/Antonio123/321086.ts
-
-#EXTINF:-1,COMEDI CENTRAL HD
+#EXTINF:-1 tvg-id="cmc6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD LA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044407
+#EXTINF:-1 tvg-id="cmc6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD LA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044475
+#EXTINF:-1 tvg-id="cmc6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD LA
 http://145310734294326815.niceapy.xyz:80/play/Antonio123/Antonio123/326815.ts
+#EXTINF:-1 tvg-id="cmc6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD LA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059328
+#EXTINF:-1 tvg-id="cmc6.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD LA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061315
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A3SERIES HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Variados",A3SERIES HD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10267.ts
+#EXTINF:-1 tvg-id="" tvg-name="A3SERIES HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Variados",A3SERIES HD
+http://145310734294321111.niceapy.xyz:80/play/Antonio123/Antonio123/321111.ts
+#EXTINF:-1 tvg-id="" tvg-name="A3SERIES HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Variados",A3SERIES HD
+http://145310734294321112.niceapy.xyz:80/play/Antonio123/Antonio123/321112.ts
+#EXTINF:-1 tvg-id="" tvg-name="A3SERIES HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Variados",A3SERIES HD
+http://145310734294321113.niceapy.xyz:80/play/Antonio123/Antonio123/321113.ts
+#EXTINF:-1 tvg-id="" tvg-name="A3SERIES HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Variados",A3SERIES HD
+http://145310734294321114.niceapy.xyz:80/play/Antonio123/Antonio123/321114.ts
+#EXTINF:-1 tvg-id="" tvg-name="A3SERIES HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Variados",A3SERIES HD
+http://145310734294321182.niceapy.xyz:80/play/Antonio123/Antonio123/321182.ts
+#EXTINF:-1 tvg-id="" tvg-name="A3SERIES HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Variados",A3SERIES HD
+http://145310734294321086.niceapy.xyz:80/play/Antonio123/Antonio123/321086.ts
+#EXTINF:-1 tvg-id="" tvg-name="A3SERIES HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Variados",A3SERIES HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059402
 
 
 
-#EXTINF:-1,DISTRITO TV HD 1
+
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Variados",DISTRITO TV HD
 http://145310734294272453.niceapy.xyz:80/play/Antonio123/Antonio123/272453.ts
-#EXTINF:-1,DISTRITO TV HD 2
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Variados",DISTRITO TV HD
 http://145310734294321220.niceapy.xyz:80/play/Antonio123/Antonio123/321220.ts
-
-#EXTINF:-1,TVE Internacional
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10250.ts
-#EXTINF:-1,TVE Internacional 24H
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87466.ts
-
-
-#EXTINF:-1,A&E HD
-http://145310734294321084.niceapy.xyz:80/play/Antonio123/Antonio123/321084.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Variados",DISTRITO TV HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044487
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Variados",DISTRITO TV HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044847
+#EXTINF:-1 tvg-id="far3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gqEzpRt.png" group-title="Canales Peliculas",Film & Arts FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044496
 
 
-#EXTINF:-1,Hollywood HD 1
+#EXTINF:-1 tvg-id="" tvg-name=",Hollywood HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Variados",,Hollywood HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10265.ts
-#EXTINF:-1,Hollywood HD 2
+#EXTINF:-1 tvg-id="" tvg-name=",Hollywood HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Variados",,Hollywood HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10268.ts
-#EXTINF:-1,Hollywood HD 3
+#EXTINF:-1 tvg-id="" tvg-name=",Hollywood HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Variados",,Hollywood HD
 http://145310734294321265.niceapy.xyz:80/play/Antonio123/Antonio123/321265.ts
-#EXTINF:-1,Hollywood HD 4
+#EXTINF:-1 tvg-id="" tvg-name=",Hollywood HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Variados",,Hollywood HD
 http://145310734294321266.niceapy.xyz:80/play/Antonio123/Antonio123/321266.ts
-#EXTINF:-1,Hollywood HD 5
+#EXTINF:-1 tvg-id="" tvg-name=",Hollywood HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Variados",,Hollywood HD
 http://145310734294321267.niceapy.xyz:80/play/Antonio123/Antonio123/321267.ts
-#EXTINF:-1,Hollywood HD 6
+#EXTINF:-1 tvg-id="" tvg-name=",Hollywood HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Variados",,Hollywood HD
 http://145310734294321159.niceapy.xyz:80/play/Antonio123/Antonio123/321159.ts
 
-#EXTINF:-1,EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="Deportes",EUROSPORT 1
 http://145310734294290349.niceapy.xyz:80/play/Antonio123/Antonio123/290349.ts
-#EXTINF:-1,EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="Deportes",EUROSPORT 1
 http://145310734294290350.niceapy.xyz:80/play/Antonio123/Antonio123/290350.ts
-#EXTINF:-1,EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="Deportes",EUROSPORT 1
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10289.ts
-#EXTINF:-1,EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="Deportes",EUROSPORT 1
 http://145310734294290348.niceapy.xyz:80/play/Antonio123/Antonio123/290348.ts
 
-#EXTINF:-1,EUROSPORT 2 HD
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="Deportes",EUROSPORT 1
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10290.ts
-#EXTINF:-1,EUROSPORT 2 HD
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="Deportes",EUROSPORT 1
 http://145310734294290351.niceapy.xyz:80/play/Antonio123/Antonio123/290351.ts
-#EXTINF:-1,EUROSPORT 2 HD
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="Deportes",EUROSPORT 1
 http://145310734294290352.niceapy.xyz:80/play/Antonio123/Antonio123/290352.ts
-#EXTINF:-1,EUROSPORT 2 HD
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="Deportes",EUROSPORT 1
 http://145310734294290353.niceapy.xyz:80/play/Antonio123/Antonio123/290353.ts
 
-#EXTINF:-1,A3 CINE HD
+
+
+#EXTINF:-1 tvg-id="" tvg-name=",A3 CINE HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Variados",A3 CINE HD
 http://145310734294321085.niceapy.xyz:80/play/Antonio123/Antonio123/321085.ts
-#EXTINF:-1,Cosmo
+#EXTINF:-1 tvg-id="" tvg-name=",Cosmo HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Variados",Cosmo HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10259.ts
 
-#EXTINF:-1,ANTENNA 3 HD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10247.ts
-#EXTINF:-1,ANTENNA 3 HD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10204.ts
 
-#EXTINF:-1,ENERGY
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10260.ts
-#EXTINF:-1,MEGA HD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10265.ts
-#EXTINF:-1,MTV ESP
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10324.ts
-#EXTM3U
-
-
-#EXTINF:-1,LA: CINEMAX ACTION
+#EXTINF:-1 tvg-id="cm1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax FHD DO
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044291
-#EXTINF:-1,LA: CINEMAX EAST
+#EXTINF:-1 tvg-id="cm1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax FHD DO
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044292
-#EXTINF:-1,LA: CINEMAX
+#EXTINF:-1 tvg-id="cm1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax FHD DO
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044293
-#EXTINF:-1,LA: CINEMAX WEST
+#EXTINF:-1 tvg-id="cm1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax FHD DO
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044294
+#EXTINF:-1 tvg-id="cm1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax FHD DO
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044472
+#EXTINF:-1 tvg-id="cm1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax FHD DO
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059372
+#EXTINF:-1 tvg-id="cm1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/ArPuQpp.png" group-title="Canales Peliculas",Cinemax FHD DO
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061311
 
-#EXTINF:-1,LA: HBO 2
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044299
-#EXTINF:-1,LA: HBO 2 WEST
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044300
-#EXTINF:-1,LA: HBO FAMILY
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044301
-#EXTINF:-1,LA: HBO
+
+#EXTINF:-1 tvg-id="cc4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD LATINO
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044404
+#EXTINF:-1 tvg-id="cc4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD LATINO
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044471
+#EXTINF:-1 tvg-id="cc4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD LATINO
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059365
+#EXTINF:-1 tvg-id="cc4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/4fCtF2b.png" group-title="Canales Peliculas",Cinecanal FHD LATINO
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061310
+
+#EXTINF:-1 tvg-id="" tvg-name=",CINEAR HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Variados",CINEAR HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061309
+
+
+#EXTINF:-1 tvg-id="hbo39.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044302
-#EXTINF:-1,LA: HBO PLUS
+#EXTINF:-1 tvg-id="hbo39.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044301
+#EXTINF:-1 tvg-id="hbo39.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044303
-#EXTINF:-1,LA: HBO PLUS WEST
+#EXTINF:-1 tvg-id="hbo39.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044304
-#EXTINF:-1,LA: HBO SIGNATURE
+#EXTINF:-1 tvg-id="hbo39.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044305
-#EXTINF:-1,LA: HBO WEST
+#EXTINF:-1 tvg-id="hbo39.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044306
+#EXTINF:-1 tvg-id="hbo39.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044299
+#EXTINF:-1 tvg-id="hbo39.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044300
+#EXTINF:-1 tvg-id="hbo39.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059352
+#EXTINF:-1 tvg-id="hbo39.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059353
+#EXTINF:-1 tvg-id="hbo39.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059354
+#EXTINF:-1 tvg-id="hbo39.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059355
+#EXTINF:-1 tvg-id="hbo39.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059356
+#EXTINF:-1 tvg-id="hbo39.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061337
+#EXTINF:-1 tvg-id="hbo39.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061338
+#EXTINF:-1 tvg-id="hbo39.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061339
+#EXTINF:-1 tvg-id="hbo39.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061340
+#EXTINF:-1 tvg-id="hbo39.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059371
+
+
 #EXTINF:-1,LA: SHOWTIME BEYOND
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044319
 #EXTINF:-1,LA: SHOWTIME EAST
@@ -452,6 +650,11 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044320
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044321
 #EXTINF:-1,LA: SHOWTIME WEST
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044322
+#EXTINF:-1,LAT HD: SHOWTIME
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059357
+
+
+
 #EXTINF:-1,LA: STARZ CINEMA
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044323
 #EXTINF:-1,LA: STARZ CINEMA WEST
@@ -468,23 +671,63 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044328
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044329
 #EXTINF:-1,LA: STARZ KIDS & FAMILY
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044330
+#EXTINF:-1,LA: STAR MOVIES
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044385
+#EXTINF:-1,LA: STAR CLASSIC
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044386
+#EXTINF:-1,LA: STAR ACTION
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044387
+#EXTINF:-1,LA: STAR
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044388
+#EXTINF:-1,LA: STAR PREMIUM COMEDY
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044418
+#EXTINF:-1,MEX: STAR CHANNEL
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044500
+#EXTINF:-1,LAT HD: STAR CHANNEL
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059347
+#EXTINF:-1,LAT SD: star channel
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059348
+#EXTINF:-1,LAT SD: Star Fun
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059349
+#EXTINF:-1,LAT SD: Star Action
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059350
+#EXTINF:-1,LAT SD: Star Hits
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059351
+#EXTINF:-1,LAT HD: STARZ KIDS & FAMILY
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059403
+#EXTINF:-1,LAT HD: STARZ COMEDY
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059404
 
 
-#EXTINF:-1,LA: TELEMUNDO BOSTON
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044332
-#EXTINF:-1,LA: TELEMUNDO CHICAGO
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044333
-#EXTINF:-1,MEX: TELEMUNDO MEXICO
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044578
 
-#EXTINF:-1,LA: UNIMAS (NEW YORK)
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044336
-#EXTINF:-1,LA: UNIMAS GEORGIA
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044337
-#EXTINF:-1,LA: UNIMAS ESTE
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044352
-#EXTINF:-1,LA: UNIMAS
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044421
+#EXTINF:-1,LA: GOLDEN PREMIER
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044365
+#EXTINF:-1,MEX: GOLDEN
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044506
+#EXTINF:-1,MEX: GOLDEN EDGE
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044507
+#EXTINF:-1,MEX: GOLDEN PLUS
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044508
+#EXTINF:-1,LA: GOLDEN
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044381
+
+#EXTINF:-1,LA: WARNER CHANNEL
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044369
+#EXTINF:-1,MEX: WARNER
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044575
+#EXTINF:-1,LAT HD: WARNER
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059331
+#EXTINF:-1,ARG: WARNER
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061381
+
+
+
+#EXTINF:-1,LA: CLARO CINEMA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044367
+#EXTINF:-1,LA: CLARO
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044368
+
+
 
 #EXTINF:-1,LA: UNIVISION (NEW YORK)
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044338
@@ -496,357 +739,167 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044340
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044422
 #EXTINF:-1,LA: UNIVISION
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044423
+#EXTINF:-1,LAT SD | Univision
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059381
 
+#EXTINF:-1,LA: GALAVISION
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044353
+#EXTINF:-1,LAT SD: Galavision Usa
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059385
+
+
+#EXTINF:-1,LA: TELEMUNDO BOSTON
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044332
+#EXTINF:-1,LA: TELEMUNDO CHICAGO
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044333
+#EXTINF:-1,MEX: TELEMUNDO MEXICO
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044578
 #EXTINF:-1,LA: TELEMUNDO LAMPA
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044344
 #EXTINF:-1,LA: TELEMUNDO INTERNACIONAL
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044363
+#EXTINF:-1,LAT HD : Telemundo
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059382
+#EXTINF:-1,LAT SD: Telemundo
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059383
 
-#EXTINF:-1,LA: GALAVISION
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044353
-#EXTINF:-1,LA: GOLDEN PREMIER
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044365
-#EXTINF:-1,LA: GLITZ
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044366
-#EXTINF:-1,LA: WARNER CHANNEL
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044369
-#EXTINF:-1,LA: CLARO CINEMA
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044367
-#EXTINF:-1,LA: CLARO
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044368
-#EXTINF:-1,LA: STUDIO UNIVERSAL
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044374
-#EXTINF:-1,LA: SPACE
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044375
-#EXTINF:-1,LA: SONY
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044376
-#EXTINF:-1,LA: CINEMA DINAMITA
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044377
-#EXTINF:-1,LA: A&E
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044378
-#EXTINF:-1,LA: MAX UP
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044357
-#EXTINF:-1,LA: MASCHIC
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044358
-#EXTINF:-1,LA: TBS
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044364
-#EXTINF:-1,LA: LIFETIME
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044380
-#EXTINF:-1,LA: GOLDEN
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044381
-#EXTINF:-1,LA: FX
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044384
-#EXTINF:-1,LA: STAR MOVIES
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044385
-#EXTINF:-1,LA: STAR CLASSIC
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044386
-#EXTINF:-1,LA: STAR ACTION
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044387
-#EXTINF:-1,LA: STAR
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044388
-#EXTINF:-1,LA: CINE CANAL
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044404
-#EXTINF:-1,LA: COMEDY CENTRAL
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044407
-#EXTINF:-1,LA: UNIVERSAL CHANNEL
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044416
-#EXTINF:-1,LA: STAR PREMIUM COMEDY
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044418
+#EXTINF:-1,LA: UNIMAS (NEW YORK)
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044336
+#EXTINF:-1,LA: UNIMAS GEORGIA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044337
+#EXTINF:-1,LA: UNIMAS ESTE
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044352
+#EXTINF:-1,LA: UNIMAS
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044421
+#EXTINF:-1,LAT SD: Unimas
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059384
 
-#EXTINF:-1,LA: HOLA! TV
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044429
-#EXTINF:-1,LA: PASIONES
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044432
-#EXTINF:-1,MEX: AXN
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044444
-#EXTINF:-1,MEX: AZ CINEMA
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044445
-#EXTINF:-1,MEX: AZ CLICK B1
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044446
-#EXTINF:-1,MEX: AZ CORAZON
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044447
-#EXTINF:-1,MEX: AZ MUNDO
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044448
-#EXTINF:-1,MEX: AMC
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044441
 #EXTINF:-1,MEX: CANAL DE LAS ESTRELLAS
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044468
-#EXTINF:-1,MEX: CINECANAL
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044471
-#EXTINF:-1,MEX: CINEMAX
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044472
-#EXTINF:-1,MEX: CNN EN ESPAÑOL
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044473
-#EXTINF:-1,MEX: COMEDY CENTRAL
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044475
-#EXTINF:-1,MEX: DE PELICULA
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044476
-#EXTINF:-1,MEX: DISTRITO COMEDIA
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044487
-#EXTINF:-1,MEX: DW
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044488
-#EXTINF:-1,MEX: E! ENTERTAINMENT
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044489
-#EXTINF:-1,MEX: FILM &AMP; ARTS
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044496
-#EXTINF:-1,MEX: STAR CHANNEL
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044500
-#EXTINF:-1,MEX: FX
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044503
-#EXTINF:-1,MEX: GLITZ
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044505
-#EXTINF:-1,MEX: GOLDEN
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044506
-#EXTINF:-1,MEX: GOLDEN EDGE
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044507
-#EXTINF:-1,MEX: GOLDEN PLUS
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044508
-#EXTINF:-1,MEX: HOLA TV
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044512
 #EXTINF:-1,MEX: LAS ESTRELLAS
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044518
-#EXTINF:-1,MEX: LIFETIME
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044519
+#EXTINF:-1,CO: LAS ESTRELLAS
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044643
+#EXTINF:-1,LAT HD: EstrellaTV
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059386
+
+#EXTINF:-1,LA: PASIONES
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044432
+#EXTINF:-1,MEX: AZ CORAZON
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044447
+
+#EXTINF:-1,MEX: HOLA TV
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044512
+#EXTINF:-1,LA: HOLA! TV
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044429
 #EXTINF:-1,MEX: MAS CHIC
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044520
-#EXTINF:-1,MEX: I SAT
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044516
-#EXTINF:-1,MEX: PARAMOUNT CHANNEL
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044537
-#EXTINF:-1,MEX: SONY CHANNEL
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044541
-#EXTINF:-1,MEX: SPACE
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044542
-#EXTINF:-1,MEX: STAR TVE
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044543
-#EXTINF:-1,MEX: STUDIO UNIVERSAL
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044544
-#EXTINF:-1,MEX: SYFY
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044545
-#EXTINF:-1,MEX: TBS
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044546
-#EXTINF:-1,MEX: TCM
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044547
+#EXTINF:-1,ARG: MAS CHIC
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061345
+
 #EXTINF:-1,MEX: TELENOVELAS
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044551
 #EXTINF:-1,MEX: TELEVISA
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044553
-
-#EXTINF:-1,MEX: TLC
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044557
-#EXTINF:-1,MEX: TNT
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044559
-#EXTINF:-1,MEX: TNT SERIES
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044560
-#EXTINF:-1,MEX: TVE
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044568
-#EXTINF:-1,MEX: UNICABLE
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044570
-#EXTINF:-1,MEX: UNIVERSAL CHANNEL
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044571
-#EXTINF:-1,MEX: WARNER
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044575
-#EXTINF:-1,EC: GAMAVISION
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044611
-#EXTINF:-1,EC: TELE AMAZONAS
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044614
-#EXTINF:-1,CO: AXN CO
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044630
 #EXTINF:-1,CO: CARACOL
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044637
 #EXTINF:-1,CO: CARACOL INTERNACIONAL
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044638
 #EXTINF:-1,CO: CARACOL NACIONAL
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044639
-#EXTINF:-1,CO: LAS ESTRELLAS
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044643
-#EXTINF:-1,CO: STUDIO UNIVERSAL
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044649
-#EXTINF:-1,ESPAÑA | TVE Internacional HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044834
-#EXTINF:-1,ESPAÑA | Distrito TV
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044847
-#EXTINF:-1,ESPAÑA | PARAMOUNT NETWORK HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044887
-#EXTINF:-1,ESPAÑA | PARAMOUNT NETWORK HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044888
-#EXTINF:-1,LAT HD: A&E
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059324
-#EXTINF:-1,LAT SD: A&E
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059325
-#EXTINF:-1,LAT HD: AXN HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059326
-#EXTINF:-1,LAT SD: AXN
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059327
-#EXTINF:-1,LAT SD:Comedy Central
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059328
-#EXTINF:-1,LAT HD: SONY
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059329
-#EXTINF:-1,LAT SD: Sony
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059330
-#EXTINF:-1,LAT HD: WARNER
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059331
-#EXTINF:-1,LAT SD:!E
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059332
-#EXTINF:-1,LAT HD: FX
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059333
-#EXTINF:-1,LAT SD: FX
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059334
-#EXTINF:-1,LAT HD: UNIVERSAL
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059335
-#EXTINF:-1,LAT SD: Universal
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059336
-#EXTINF:-1,LAT SD: SyFy
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059337
-#EXTINF:-1,LAT HD: STAR CHANNEL
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059347
-#EXTINF:-1,LAT SD: star channel
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059348
-#EXTINF:-1,LAT SD: Star Fun
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059349
-#EXTINF:-1,LAT SD: Star Action
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059350
-#EXTINF:-1,LAT SD: Star Hits
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059351
-#EXTINF:-1,LAT HD: HBO
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059352
-#EXTINF:-1,LAT SD: HBO
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059353
-#EXTINF:-1,LAT SD: HBO 2
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059354
-#EXTINF:-1,LAT SD: HBO Plus
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059355
-#EXTINF:-1,LAT SD: HBO Family
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059356
-#EXTINF:-1,LAT HD: SHOWTIME
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059357
-#EXTINF:-1,LAT HD: CINE LATINO
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059358
-#EXTINF:-1,LAT SD: FX Movies Lat
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059359
-#EXTINF:-1,LAT SD: Paramount Channel
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059360
-#EXTINF:-1,LAT HD: TNT
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059361
-#EXTINF:-1,LAT SD:TNT
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059362
-#EXTINF:-1,LAT SD:TNT Series
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059363
-#EXTINF:-1,LAT SD: TBS
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059364
-#EXTINF:-1,LAT SD: CinecanalW
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059365
-#EXTINF:-1,LAT HD: SPACE
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059366
-#EXTINF:-1,LAT SD:Space
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059367
-#EXTINF:-1,LAT SD: Studio
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059368
-#EXTINF:-1,LAT SD:I.Sat
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059369
-#EXTINF:-1,LAT SD: HBO Xtreme
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059371
-#EXTINF:-1,LAT SD:Cinemax
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059372
+#EXTINF:-1,LA: MASCHIC
+
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044358
+#EXTINF:-1,LA: LIFETIME
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044380
+#EXTINF:-1,MEX: LIFETIME
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044519
 #EXTINF:-1,LAT SD: Lifetime
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059379
+#EXTINF:-1,ARG: LIFETIME
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061343
+
+
+#EXTINF:-1,LA: GLITZ
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044366
+#EXTINF:-1,MEX: GLITZ
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044505
+#EXTINF:-1,ARG: GLITZ
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061333
+
+#EXTINF:-1,TVE Internacional
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10250.ts
+#EXTINF:-1,TVE Internacional 24H
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87466.ts
+#EXTINF:-1,ANTENNA 3 HD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10247.ts
+#EXTINF:-1,ANTENNA 3 HD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10204.ts
+
+#EXTINF:-1,ENERGY
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10260.ts
+#EXTINF:-1,MEGA HD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10265.ts
+#EXTINF:-1,MTV ESP
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10324.ts
+
+#EXTINF:-1,MEX: FILM &AMP; ARTS
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044496
 #EXTINF:-1,LAT SD: Arts
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059380
-#EXTINF:-1,LAT SD | Univision
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059381
-#EXTINF:-1,LAT HD : Telemundo
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059382
-#EXTINF:-1,LAT SD: Telemundo
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059383
-#EXTINF:-1,LAT SD: Unimas
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059384
-#EXTINF:-1,LAT SD: Galavision Usa
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059385
-#EXTINF:-1,LAT HD: EstrellaTV
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059386
+#EXTINF:-1,MEX: E! ENTERTAINMENT
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044489
+#EXTINF:-1,LAT SD:!E
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059332
+#EXTINF:-1,ARG: E!
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061322
+
+
+#EXTINF:-1,MEX: AZ CINEMA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044445
+#EXTINF:-1,MEX: AZ CLICK B1
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044446
+#EXTINF:-1,MEX: AZ MUNDO
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044448
+
+#EXTINF:-1,MEX: CNN EN ESPAÑOL
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044473
 #EXTINF:-1,LAT SD:CNN USA
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059396
 #EXTINF:-1,LAT SD:CNN
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059397
-#EXTINF:-1,LAT SD: A3S
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059402
-#EXTINF:-1,LAT HD: STARZ KIDS & FAMILY
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059403
-#EXTINF:-1,LAT HD: STARZ COMEDY
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059404
-#EXTINF:-1,ARG: CINEAR
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061309
-#EXTINF:-1,ARG: CINECANAL
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061310
-#EXTINF:-1,ARG: CINEMAX
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061311
 #EXTINF:-1,ARG: CNN EN ESPANIOL
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061313
 #EXTINF:-1,ARG: CNN
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061314
-#EXTINF:-1,ARG: COMEDY
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061315
+
+
+#EXTINF:-1,MEX: DW
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044488
+#EXTINF:-1,MEX: I SAT
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044516
+#EXTINF:-1,MEX: UNICABLE
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044570
+#EXTINF:-1,EC: GAMAVISION
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044611
+#EXTINF:-1,EC: TELE AMAZONAS
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044614
+#EXTINF:-1,LAT SD:I.Sat
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059369
 #EXTINF:-1,ARG: DW
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061321
-#EXTINF:-1,ARG: E!
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061322
-#EXTINF:-1,ARG: FX
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061331
-#EXTINF:-1,ARG: GARAGE
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061332
-#EXTINF:-1,ARG: GLITZ
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061333
-#EXTINF:-1,ARG: H2
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061336
-#EXTINF:-1,ARG: HBO 2
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061337
-#EXTINF:-1,ARG: HBO FAMILY
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061338
-#EXTINF:-1,ARG: HBO
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061339
-#EXTINF:-1,ARG: HBO SIGNATURE
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061340
-#EXTINF:-1,ARG: HISTORY
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061341
 #EXTINF:-1,ARG: HTV
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061342
-#EXTINF:-1,ARG: LIFETIME
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061343
-#EXTINF:-1,ARG: MAS CHIC
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061345
-#EXTINF:-1,ARG: MAX
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061346
-#EXTINF:-1,ARG: MAX PRIME
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061347
-#EXTINF:-1,ARG: MAX UP
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061348
-#EXTINF:-1,ARG: NAT GEO
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061352
-#EXTINF:-1,ARG: SONY
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061360
-#EXTINF:-1,ARG: SPACE
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061361
-#EXTINF:-1,ARG: STUDIO UNIVERSAL
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061362
-#EXTINF:-1,ARG: SYFY
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061363
-#EXTINF:-1,ARG: TBS VERY FUNNY
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061364
-#EXTINF:-1,ARG: TCM
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061365
-#EXTINF:-1,ARG: TNT
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061371
-#EXTINF:-1,ARG: TNT SERIES
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061372
+
+
+
+
 #EXTINF:-1,ARG: TVE
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061377
-#EXTINF:-1,ARG: UNIVERSAL
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061378
-#EXTINF:-1,ARG: WARNER
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061381
-#EXTINF:-1,ARG: A&E
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061382
-#EXTINF:-1,ARG: AMC
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061383
-#EXTINF:-1,ARG: FOX
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061408
+#EXTINF:-1,MEX: TVE
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044568
+#EXTINF:-1,ESPAÑA | TVE Internacional HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044834
+#EXTINF:-1,MEX: STAR TVE
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044543
+
