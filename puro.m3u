@@ -689,8 +689,7 @@ http://145310734294321266.niceapy.xyz:80/play/Antonio123/Antonio123/321266.ts
 http://145310734294321267.niceapy.xyz:80/play/Antonio123/Antonio123/321267.ts
 #EXTINF:-1 tvg-id="" tvg-name=",Hollywood HD" tvg-logo="https://i.imgur.com/hajkK38.png" group-title="Variados",Hollywood HD
 http://145310734294321159.niceapy.xyz:80/play/Antonio123/Antonio123/321159.ts
-
-tp://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Variados",Cosmo HD
+#EXTINF:-1 tvg-id="" tvg-name=",Cosmo HD" tvg-logo="https://imgur.com/0PErHrN.png" group-title="Variados",Cosmo HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10259.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEAR HD" tvg-logo="https://imgur.com/EXo3nZN.png" group-title="Variados",CINEAR HD
