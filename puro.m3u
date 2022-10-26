@@ -1,7 +1,6 @@
 #EXTM3U 
-#EXTINF:-1 tvg-wall="https://imgur.com/tDl1ZnT.png" tvg-id="baque1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Uh7stYp.png" group-title=Navida Pa Goza",Navidad Pa Goza Memoria TV Channel FHD
+#EXTINF:-1 tvg-wall="https://imgur.com/tDl1ZnT.png" tvg-id="baque1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Uh7stYp.png" group-title="Navidad Pa Goza",Navidad Pa Goza FM
 http://k2.usastreams.com:80/merengue
-
 
 #EXTINF:-1 tvg-id="Gourmet1.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title="Cocina",El Gourmet 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044427
@@ -14,7 +13,6 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061335
 
 #EXTINF:-1 tvg-id="food2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD ES
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044497
-
 
 #EXTINF:-1 tvg-id="canalcocina1.es" tvg-name="ES: Canal Cocina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Cocina",Canal Cocina HD
 http://145310734294321148.niceapy.xyz:80/play/Antonio123/Antonio123/321148.ts
@@ -92,7 +90,6 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059340
 #EXTINF:-1 tvg-id="discovery14.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/I20Erlb.png" group-title="Discovery",Discovery ID HD
 http://145310734294321275.niceapy.xyz:80/play/Antonio123/Antonio123/321275.ts
 
-
 #EXTINF:-1 tvg-id="discovery14.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/I20Erlb.png" group-title="Discovery",Discovery ID HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10301.ts
 #EXTINF:-1 tvg-id="discovery14.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/I20Erlb.png" group-title="Discovery",Discovery ID HD
@@ -105,9 +102,6 @@ http://145310734294321194.niceapy.xyz:80/play/Antonio123/Antonio123/321194.ts
 http://145310734294321195.niceapy.xyz:80/play/Antonio123/Antonio123/321195.ts
 #EXTINF:-1 tvg-id="discovery14.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/I20Erlb.png" group-title="Discovery",Discovery ID HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044856
-
-
-
 
 #EXTINF:-1 tvg-id="discoverycien1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jfvcdPg.png" group-title="Discovery",Discovery Science FHD MX
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044278
@@ -123,15 +117,12 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044361
 #EXTINF:-1 tvg-id="discoveryt5.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/qg7Brmb.png" group-title="Discovery",Discovery Theater HD COLOMBIA
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059344
 
-
 #EXTINF:-1 tvg-id="anim1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/VJsLK6F.png" group-title="Animal Planet",ANIMAL PLANET FHD ARG
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044396
 #EXTINF:-1 tvg-id="anim2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/VJsLK6F.png" group-title="Animal Planet",ANIMAL PLANET FHD 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044442
 #EXTINF:-1 tvg-id="anim3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/VJsLK6F.png" group-title="Animal Planet",ANIMAL PLANET FHD MX
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059323
-
-
 
 #EXTINF:-1 tvg-id="h2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",History Channel FHD ES 
 http://145310734294321263.niceapy.xyz:80/play/Antonio123/Antonio123/321263.ts
@@ -641,12 +632,10 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044489
 #EXTINF:-1 tvg-id="far4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gqEzpRt.png" group-title="Canales Peliculas",Film & Arts FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044445
 
-
 #EXTINF:-1 tvg-id="ee3.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/3hC4K3z.png" group-title="Canales Peliculas",E! Entertaiment FHD 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059332
 #EXTINF:-1 tvg-id="ee3.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/3hC4K3z.png" group-title="Canales Peliculas",E! Entertaiment FHD 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061322
-
 
 #EXTINF:-1 tvg-id="" tvg-name="A3SERIES HD" tvg-logo="https://i.imgur.com/1gTu6XK.png" group-title="Variados",A3SERIES HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10267.ts
@@ -666,7 +655,6 @@ http://145310734294321086.niceapy.xyz:80/play/Antonio123/Antonio123/321086.ts
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059402
 #EXTINF:-1 tvg-id="" tvg-name="A3SERIES HD" tvg-logo="https://i.imgur.com/ro0Xudw.png" group-title="Variados",A3 CINE HD
 http://145310734294321085.niceapy.xyz:80/play/Antonio123/Antonio123/321085.ts
-
 
 #EXTINF:-1 tvg-id="" tvg-name="DISTRITO TV HD" tvg-logo="https://i.imgur.com/XvEHdYK.png" group-title="Variados",DISTRITO TV HD
 http://145310734294272453.niceapy.xyz:80/play/Antonio123/Antonio123/272453.ts
@@ -728,7 +716,6 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044834
 #EXTINF:-1 tvg-id="la1.es" tvg-name="TVE Internacional" tvg-logo="https://imgur.com/BxsJGPQ.png" group-title="Variados",TVE Internacional
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044543
 
-
 #EXTINF:-1 tvg-id="la3.es" tvg-name="ENERGY" tvg-logo="https://imgur.com/5m7Wq37.png" group-title="Variados",ENERGY
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10260.ts
 #EXTINF:-1 tvg-id="la4.es" tvg-name="MEGA HD" tvg-logo="https://i.imgur.com/ju0m2YE.png" group-title="Variados",MEGA HD
@@ -753,7 +740,6 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044611
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044614
 #EXTINF:-1 tvg-id="la1.es" tvg-name="HTV" tvg-logo="https://imgur.com/XUNwFN6.png" group-title="Variados",HTV
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061342
-
 
 #EXTINF:-1 tvg-id="univ1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/n6FvrHA.png" group-title="Univision",UNIVISION (NEW YORK) FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044338
@@ -816,13 +802,10 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059341
 #EXTINF:-1 tvg-id="t34.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7uZzYZx.png" group-title="Novelas",TLC HD 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044557
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7d6d9bf832a0b925f5ec4de7d91dcd96.png" group-title="Noticias",Antena 3
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10247.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7d6d9bf832a0b925f5ec4de7d91dcd96.png" group-title="Noticias",Antena 3
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10204.ts
-
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN en Espanol" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ed51eda47ce082e6ab48b65848b7bc2c.png" group-title="Noticias",CNN en Espanol
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044473
@@ -834,7 +817,6 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059397
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061313
 #EXTINF:-1 tvg-id="" tvg-name="CNN en Espanol" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ed51eda47ce082e6ab48b65848b7bc2c.png" group-title="Noticias",CNN en Espanol
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061314
-
 
 #EXTINF:-1 tvg-id="eurosport1.es" tvg-name="EUROSPORT" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="Deportes",EUROSPORT 
 http://145310734294290349.niceapy.xyz:80/play/Antonio123/Antonio123/290349.ts
@@ -852,7 +834,6 @@ http://145310734294290351.niceapy.xyz:80/play/Antonio123/Antonio123/290351.ts
 http://145310734294290352.niceapy.xyz:80/play/Antonio123/Antonio123/290352.ts
 #EXTINF:-1 tvg-id="eurosport8.es" tvg-name="EUROSPORT" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="Deportes",EUROSPORT 
 http://145310734294290353.niceapy.xyz:80/play/Antonio123/Antonio123/290353.ts
-
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml.gz"
 #EXTINF:-1 channel-id="pluto-5f1aa7aab66c76000790ee7e" tvg-id="5f1aa7aab66c76000790ee7e" tvg-chno="779" tvg-logo="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png" group-title="Pluto TV",Big Time Rush
@@ -1313,8 +1294,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f323397027f90007542b
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9dee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-620ac814864949000724fb77" tvg-id="620ac814864949000724fb77" tvg-chno="508" tvg-logo="https://images.pluto.tv/channels/620ac814864949000724fb77/colorLogoPNG.png" group-title="Pluto TV",Schitt's Creek
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ac814864949000724fb77/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=untitle="Pluto TV",MTV Teen Mom
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620fd9f4afb9a80007a9c6d5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=known&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-620fd9f4afb9a80007a9c6d5" tvg-id="620fd9f4afb9a80007a9c6d5" tvg-chno="161" tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" group-0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-620ff0a01f9e8700076c6f9d" tvg-id="620ff0a01f9e8700076c6f9d" tvg-chno="178" tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" group-title="Pluto TV",Nickelodeon iCarly
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-62154548a2be360007cb02f0" tvg-id="62154548a2be360007cb02f0" tvg-chno="281" tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" group-title="Pluto TV",Ice Pilots
