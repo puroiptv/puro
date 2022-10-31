@@ -6,33 +6,19 @@ http://k2.usastreams.com:80/merengue
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044427
 #EXTINF:-1 tvg-id="Gourmet2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title="Cocina",El Gourmet HD 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044490
-#EXTINF:-1 tvg-id="Gourmet3.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title="Cocina",El Gourmet FHD COLOMBIA
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059264
 #EXTINF:-1 tvg-id="Gourmet4.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dbI1h6C.png" group-title="Cocina",El Gourmet FHD COLOMBIA
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061335
 
-#EXTINF:-1 tvg-id="food2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD ES
+#EXTINF:-1 tvg-id="food2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/OGqHZBv.png" group-title="Cocina",Food Network HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044497
 
-#EXTINF:-1 tvg-id="canalcocina1.es" tvg-name="ES: Canal Cocina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Cocina",Canal Cocina HD
-http://145310734294321148.niceapy.xyz:80/play/Antonio123/Antonio123/321148.ts
-#EXTINF:-1 tvg-id="canalcocina2.es" tvg-name="ES: Canal Cocina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Cocina",Canal Cocina FHD
-http://145310734294321149.niceapy.xyz:80/play/Antonio123/Antonio123/321149.ts
-#EXTINF:-1 tvg-id="canalcocina3.es" tvg-name="ES: Canal Cocina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Cocina",Canal Cocina HD
-http://145310734294326822.niceapy.xyz:80/play/Antonio123/Antonio123/326822.ts
-#EXTINF:-1 tvg-id="canalcocina4.es" tvg-name="ES: Canal Cocina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Cocina",Canal Cocina FHD
+#EXTINF:-1 tvg-id="canalcocina4.es" tvg-name="Canal Cocina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Cocina",Canal Cocina FHD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10304.ts
-#EXTINF:-1 tvg-id="canalcocina5.es" tvg-name="ES: Canal Cocina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Cocina",Canal Cocina HD
-http://145310734294321147.niceapy.xyz:80/play/Antonio123/Antonio123/321147.ts
 
 #EXTINF:-1 tvg-id="canalcocina.es" tvg-name="De Casa FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Cocina",De Casa FHD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10305.ts
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="De Casa HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Cocina",De Casa HD
-http://145310734294321205.niceapy.xyz:80/play/Antonio123/Antonio123/321205.ts
 #EXTINF:-1 tvg-id="canalcocina.es" tvg-name="De Casa HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Cocina",De Casa FHD
 http://145310734294321206.niceapy.xyz:80/play/Antonio123/Antonio123/321206.ts
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="De Casa HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Cocina",De Casa HD
-http://145310734294321207.niceapy.xyz:80/play/Antonio123/Antonio123/321207.ts
 
 #EXTINF:-1 tvg-id="disg3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/e268KEZ.png" group-title="Discovery",Garage TV FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044504
@@ -107,8 +93,12 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044856
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044278
 #EXTINF:-1 tvg-id="discoverycien2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jfvcdPg.png" group-title="Discovery",Discovery Science FHD ARG
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044398
-#EXTINF:-1 tvg-id="discoverycien3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jfvcdPg.png" group-title="Discovery",Discovery Science FHD ARG
+#EXTINF:-1 tvg-id="discoverycien3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jfvcdPg.png" group-title="Discovery",Discovery Science FHD ES
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044481
+#EXTINF:-1 tvg-id="discoverycien3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/jfvcdPg.png" group-title="Discovery",Discovery Science FHD LATINO
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059264
+
+
 
 #EXTINF:-1 tvg-id="discoveryt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/qg7Brmb.png" group-title="Discovery",Discovery Theater FHD LA
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044482
