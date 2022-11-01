@@ -43,6 +43,8 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044477
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044833
 #EXTINF:-1 tvg-id="discovery9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059338
+#EXTINF:-1 tvg-id="discovery9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Wd4J0Q3.png" group-title="Discovery",Discovery Channel FHD
+http://pro.netmos.ovh:7355/samir/azerty/1299
 
 #EXTINF:-1 tvg-id="discoverytur1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/kRRozL9.png" group-title="Discovery",Discovery Turbo FHD DO FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044483
@@ -135,6 +137,8 @@ http://145310734294321156.niceapy.xyz:80/play/Antonio123/Antonio123/321156.ts
 http://145310734294321157.niceapy.xyz:80/play/Antonio123/Antonio123/321157.ts
 #EXTINF:-1 tvg-id="h5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",Historia HD
 http://145310734294321158.niceapy.xyz:80/play/Antonio123/Antonio123/321158.ts
+#EXTINF:-1 tvg-id="h5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Tf1nbO1.png" group-title="History",Historia HD
+http://pro.netmos.ovh:7355/samir/azerty/1294
 
 #EXTINF:-1 tvg-id="h6.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/mcLulto.png" group-title="History",H2 HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044394
@@ -165,6 +169,10 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044832
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059373
 #EXTINF:-1 tvg-id="nat13.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/l0MHPbl.png" group-title="Nat Geo",NAT GEO FHD 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061352
+#EXTINF:-1 tvg-id="nat13.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/l0MHPbl.png" group-title="Nat Geo",NAT GEO FHD 
+http://pro.netmos.ovh:7355/samir/azerty/1297
+
+
 
 #EXTINF:-1 tvg-id="natw2.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD FHD LATINO
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044402
@@ -182,6 +190,8 @@ http://145310734294321365.niceapy.xyz:80/play/Antonio123/Antonio123/321365.ts
 http://145310734294321364.niceapy.xyz:80/play/Antonio123/Antonio123/321364.ts
 #EXTINF:-1 tvg-id="natw9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD FHD 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059374
+#EXTINF:-1 tvg-id="natw9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/IauwVDh.png" group-title="Nat Geo",NAT GEO WILD FHD 
+http://pro.netmos.ovh:7355/samir/azerty/1295
 
 #EXTINF:-1 tvg-id="natw10.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/l0MHPbl.png" group-title="Nat Geo",NAT GEO KIS
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044529
@@ -276,6 +286,8 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059324
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059325
 #EXTINF:-1 tvg-id="ae5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E FHD MX
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061382
+#EXTINF:-1 tvg-id="ae5.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/U9NAu8v.png" group-title="Canales Peliculas",A&E FHD MX
+http://pro.netmos.ovh:7355/samir/azerty/1256
 
 #EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3fc73f3c664e7a9f6d4cb5e55d8b1478.png" group-title="Variados",DMAX
 http://145310734294321225.niceapy.xyz:80/play/Antonio123/Antonio123/321225.ts
@@ -298,6 +310,8 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044887
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044888
 #EXTINF:-1 tvg-id="pc8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Network FHD ES
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059360
+#EXTINF:-1 tvg-id="pc8.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Hfj7E9I.png" group-title="Canales Peliculas",Paramount Network FHD ES
+http://pro.netmos.ovh:7355/samir/azerty/1239
 
 #EXTINF:-1 tvg-id="tnt1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Vjzp7rR.png" group-title="Canales Peliculas",TNT FHD ARG
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10316.ts
@@ -326,6 +340,8 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059363
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044371
 #EXTINF:-1 tvg-id="tnts4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yjriT0J.png" group-title="Canales Peliculas",TNT Series HD ES
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044560
+#EXTINF:-1 tvg-id="tnts4.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/yjriT0J.png" group-title="Canales Peliculas",TNT Series HD ES
+http://pro.netmos.ovh:7355/samir/azerty/1265
 
 #EXTINF:-1 tvg-id="fox1.es" tvg-name="FOX FHD ARG" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e327489a02855d7d55521d92c8874877.png" group-title="Canales Peliculas",FOX FHD ARG
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10252.ts
@@ -341,10 +357,12 @@ http://145310734294321253.niceapy.xyz:80/play/Antonio123/Antonio123/321253.ts
 http://145310734294304684.niceapy.xyz:80/play/Antonio123/Antonio123/304684.ts
 #EXTINF:-1 tvg-id="fox7.es" tvg-name="FOX FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e327489a02855d7d55521d92c8874877.png" group-title="Canales Peliculas",FOX FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061408
+#EXTINF:-1 tvg-id="fox8.es" tvg-name="FOX FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e327489a02855d7d55521d92c8874877.png" group-title="Canales Peliculas",FOX FHD
+http://pro.netmos.ovh:7355/samir/azerty/1273
 
-#EXTINF:-1 tvg-id="fox8.es" tvg-name="FOX LIFE FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e327489a02855d7d55521d92c8874877.png" group-title="Canales Peliculas",FOX LIFE FHD
+#EXTINF:-1 tvg-id="fox15.es" tvg-name="FOX LIFE FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e327489a02855d7d55521d92c8874877.png" group-title="Canales Peliculas",FOX LIFE FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061408
-#EXTINF:-1 tvg-id="fox1.es" tvg-name="FOX LIFE FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e327489a02855d7d55521d92c8874877.png" group-title="Canales Peliculas",FOX LIFE FHD
+#EXTINF:-1 tvg-id="fox16.es" tvg-name="FOX LIFE FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e327489a02855d7d55521d92c8874877.png" group-title="Canales Peliculas",FOX LIFE FHD
 http://145310734294321250.niceapy.xyz:80/play/Antonio123/Antonio123/321250.ts
 
 #EXTINF:-1 tvg-id="fx1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Ztu4pet.png" group-title="Canales Peliculas",FX FHD 
@@ -380,6 +398,8 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044630
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059326
 #EXTINF:-1 tvg-id="ax11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059327
+#EXTINF:-1 tvg-id="ax11.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN FHD
+http://pro.netmos.ovh:7355/samir/azerty/1269
 
 #EXTINF:-1 tvg-id="ax12.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN White HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10255.ts
@@ -389,6 +409,8 @@ http://145310734294321115.niceapy.xyz:80/play/Antonio123/Antonio123/321115.ts
 http://145310734294321116.niceapy.xyz:80/play/Antonio123/Antonio123/321116.ts
 #EXTINF:-1 tvg-id="ax15.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN White HD
 http://145310734294321117.niceapy.xyz:80/play/Antonio123/Antonio123/321117.ts
+#EXTINF:-1 tvg-id="ax15.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/1v6VGbG.png" group-title="Canales Peliculas",AXN White HD
+http://pro.netmos.ovh:7355/samir/azerty/1267
 
 #EXTINF:-1 tvg-id="sy1.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/igzYW7M.png" group-title="Canales Peliculas",SYFY FHD 
 http://145310734294321422.niceapy.xyz:80/play/Antonio123/Antonio123/321422.ts
@@ -406,6 +428,8 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044545
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059337
 #EXTINF:-1 tvg-id="sy8.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/igzYW7M.png" group-title="Canales Peliculas",SYFY FHD 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061363
+#EXTINF:-1 tvg-id="sy8.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/igzYW7M.png" group-title="Canales Peliculas",SYFY FHD 
+http://pro.netmos.ovh:7355/samir/azerty/1263
 
 #EXTINF:-1 tvg-id="tcm1.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/a1UmjcK.png" group-title="Canales Peliculas",TCM FHD
 http://145310734294321425.niceapy.xyz:80/play/Antonio123/Antonio123/321425.ts
@@ -423,6 +447,8 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044373
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044547
 #EXTINF:-1 tvg-id="tcm8.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/a1UmjcK.png" group-title="Canales Peliculas",TCM FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061365
+#EXTINF:-1 tvg-id="tcm8.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/a1UmjcK.png" group-title="Canales Peliculas",TCM FHD
+http://pro.netmos.ovh:7355/samir/azerty/1261
 
 #EXTINF:-1 tvg-id="amc1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD 
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10263.ts
@@ -442,6 +468,8 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044383
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044441
 #EXTINF:-1 tvg-id="amc9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061383
+#EXTINF:-1 tvg-id="amc9.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/7QQwLo6.png" group-title="Canales Peliculas",AMC FHD 
+http://pro.netmos.ovh:7355/samir/azerty/1243
 
 #EXTINF:-1 tvg-id="cmc1.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD 
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10209.ts
@@ -463,6 +491,8 @@ http://145310734294326815.niceapy.xyz:80/play/Antonio123/Antonio123/326815.ts
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059328
 #EXTINF:-1 tvg-id="cmc10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061315
+#EXTINF:-1 tvg-id="cmc10.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/PemXanj.png" group-title="Canales Peliculas",Comedy Central FHD 
+http://pro.netmos.ovh:7355/samir/azerty/1254
 
 #EXTINF:-1 tvg-id="far3.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gqEzpRt.png" group-title="Canales Peliculas",Film & Arts FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044496
