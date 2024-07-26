@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="GOURMET" tvg-logo="https://i.imgur.com/fYvrHY2.png" group-title="Cocina", El Gourmet HD
 http://120875789415886716.ofd0716.xyz:80/live/MONC37B/Afmyyttfa121/886716.ts
