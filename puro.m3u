@@ -1975,7 +1975,7 @@ http://120875789415147548.ofd0716.xyz:80/movie/MONC37B/Afmyyttfa121/147548.mp4
 http://120875789415147593.ofd0716.xyz:80/movie/MONC37B/Afmyyttfa121/147593.mp4
 #EXTINF:-1 tvg-id="Cine" tvg-name="Cine" tvg-logo="https://imgur.com/IWaphwd.png" group-title="Cine", La tormenta (2017)
 http://120875789415147643.ofd0716.xyz:80/movie/MONC37B/Afmyyttfa121/147643.mp4
-#EXTINF:-1 tvg-id="Cine" tvg-name="Cine" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUWqnavD8iGZ5F4xXhWlrtEzKjV.jpg" group-title="Cine",  Liga de la Justicia (2017)
+#EXTINF:-1 tvg-id="Cine" tvg-name="Cine" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUWqnavD8iGZ5F4xXhWlrtEzKjV.jpg" group-title="Cine", Liga de la Justicia (2017)
 http://120875789415147679.ofd0716.xyz:80/movie/MONC37B/Afmyyttfa121/147679.mp4
 #EXTINF:-1 tvg-id="Cine" tvg-name="Cine" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugX4WZJO3jEvTOerctAWJLinujo.jpg" group-title="Cine", Los Vengadores (2012)
 http://120875789415147749.ofd0716.xyz:80/movie/MONC37B/Afmyyttfa121/147749.mkv
@@ -2023,13 +2023,166 @@ http://119174689230148240.ofkd0722.xyz:80/movie/MONC37B/Afmyyttfa121/148240.mp4
 http://119174689230847767.ofkd0722.xyz:80/movie/MONC37B/Afmyyttfa121/847767.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Relax" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaJw3h9eyvEInR0IgClxjCFzAVC.jpg" group-title="Cine", Vengo Del Futuro (2023)
 http://119174689230847881.ofkd0722.xyz:80/movie/MONC37B/Afmyyttfa121/847881.mkv
+#EXTINF
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml"
+
+#EXTINF:-1 tvg-id="" tvg-name="LA:Don Gato: El Inicio De La Pandilla" tvg-logo="http://mu03.wanicelife.com:8880/images/7oYtmc9YK8rzfD20RP4bCePB5lP_small.jpg" group-title="Cine",Don Gato: El Inicio De La Pandilla
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Regreso Al Futuro" tvg-logo="http://mu03.wanicelife.com:8880/images/mAZwHkJJtIkZT5jjrbTKbBVOrNN_small.jpg" group-title="Cine", Regreso Al Futuro
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/36581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Regreso Al Futuro II" tvg-logo="http://mu03.wanicelife.com:8880/images/rwHoZsn0ATcMlqDsgzoELABipa9_small.jpg" group-title="Cine", Regreso Al Futuro II
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/36579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Regreso Al Futuro III" tvg-logo="http://mu03.wanicelife.com:8880/images/iufnDhWqYCNQXzcq5cuXcj2lj45_small.jpg" group-title="Cine", Regreso Al Futuro III
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/36580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Dia De La Independencia" tvg-logo="http://mu03.wanicelife.com:8880/images/2yRHehjuobj8UGbVRwPwU9udvf4_small.jpg" group-title="Cine", Dia De La Independencia
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34539.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA:Dia De La Independencia: Contraataque" tvg-logo="http://mu03.wanicelife.com:8880/images/mz24xKYMCTuW3y0d2RRH1s1YpwL_small.jpg" group-title="Cine", Dia De La Independencia: Contraataque
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Durante La Tormenta" tvg-logo="http://mu03.wanicelife.com:8880/images/asnozZh17f4Rv9Ro1rETAEEAFOt_small.jpg" group-title="Cine", Durante La Tormenta
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:El Fin De Los Días" tvg-logo="http://mu03.wanicelife.com:8880/images/aTp90Ejc3fjTOSP0LPnpNxyF5qb_small.jpg" group-title="Cine", El Fin De Los Días
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:El Fin Del Mundo" tvg-logo="http://mu03.wanicelife.com:8880/images/gL8aFUP6nTd6aZ3yEQ7ejecdDo9_small.jpg" group-title="Cine", El Fin Del Mundo
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:El Final De Todo" tvg-logo="http://mu03.wanicelife.com:8880/images/k2qO672N3FgpVT7a9bSjBQJikEg_small.jpg" group-title="Cine", El Final De Todo
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:El Final Del Viaje" tvg-logo="http://mu03.wanicelife.com:8880/images/5gGkt84bCPt7XRo35FcsrOeer78_small.jpg" group-title="Cine", El Final Del Viaje
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:El Hombre Que Conocía El Infinito" tvg-logo="http://mu03.wanicelife.com:8880/images/nDh1kNiukf0CjxXwEfbYXGQSmRE_small.jpg" group-title="Cine", El Hombre Que Conocía El Infinito
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Extraterrestres De Tellur" tvg-logo="http://mu03.wanicelife.com:8880/images/aTBzm2XtIKrVwepXeOi5gbcGoyZ_small.jpg" group-title="Cine", Extraterrestres De Tellur
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/35063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Fallen" tvg-logo="http://mu03.wanicelife.com:8880/images/udP7MpyXiiatX8pgCdOmpgfvO6W_small.jpg" group-title="Cine", Fallen
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/35068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Forgotten" tvg-logo="http://mu03.wanicelife.com:8880/images/5tjieUbLhmXQg1pK5tyF7sr66Lx_small.jpg" group-title="Cine", Forgotten
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/35100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Iron Man (4K)" tvg-logo="http://mu03.wanicelife.com:8880/images/mXyaurMOHhY5qBbw9uc68IAEXGA_small.jpg" group-title="Cine", Iron Man (4K)
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/35392.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA:Iron Man (DUAL AUDIO)" tvg-logo="http://mu03.wanicelife.com:8880/images/mXyaurMOHhY5qBbw9uc68IAEXGA_small.jpg" group-title="Cine", Iron Man (DUAL AUDIO)
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/35393.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA:Iron Man II" tvg-logo="http://mu03.wanicelife.com:8880/images/ePR5H47l9zdaTYSBKuc1GbaWNfx_small.jpg" group-title="Cine", Iron Man II
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/35400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Iron Man III" tvg-logo="http://mu03.wanicelife.com:8880/images/wvGqiyFWvTqYN5v61UvVw9N5fhO_small.jpg" group-title="Cine", Iron Man III
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/35401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:La Leyenda Del Tesoro Perdido" tvg-logo="http://mu03.wanicelife.com:8880/images/qOiISWd6n524EvOQRjJpGWFA4WK_small.jpg" group-title="Cine", La Leyenda Del Tesoro Perdido
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/35635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:La Leyenda Del Tesoro Perdido 2" tvg-logo="http://mu03.wanicelife.com:8880/images/42Dgr3RhskXCtrfnoOiJEKn760E_small.jpg" group-title="Cine", La Leyenda Del Tesoro Perdido 2
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/35634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Terminator (DUAL AUDIO)" tvg-logo="http://mu03.wanicelife.com:8880/images/xsXUCBZOWIlKoLlEm5TmmWhf4J1_small.jpg" group-title="Cine", Terminator (DUAL AUDIO)
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/36828.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA:Terminator 2 (DUAL AUDIO)" tvg-logo="http://mu03.wanicelife.com:8880/images/xsXUCBZOWIlKoLlEm5TmmWhf4J1_small.jpg" group-title="Cine", Terminator 2 (DUAL AUDIO)
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/36829.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA:Terminator 3 (DUAL AUDIO)" tvg-logo="http://mu03.wanicelife.com:8880/images/xsXUCBZOWIlKoLlEm5TmmWhf4J1_small.jpg" group-title="Cine", Terminator 3 (DUAL AUDIO)
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/36830.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA:Terminator Génesis (DUAL AUDIO)" tvg-logo="http://mu03.wanicelife.com:8880/images/xsXUCBZOWIlKoLlEm5TmmWhf4J1_small.jpg" group-title="Cine", Terminator Génesis (DUAL AUDIO)
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/36831.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA:Terminator Salvacion" tvg-logo="http://mu03.wanicelife.com:8880/images/1U43k2IHdBxdH18ZmQg4zPJUGmk_small.jpg" group-title="Cine", Terminator Salvacion
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/36832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Todo Poderoso" tvg-logo="http://mu03.wanicelife.com:8880/images/bFWcgah8DOFwTE901vor6pVqCvF_small.jpg" group-title="Cine", Todo Poderoso
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/36920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Todo Poderoso 2" tvg-logo="http://mu03.wanicelife.com:8880/images/aZfu9wzlxyTuHB9nhyx7FVV4zJC_small.jpg" group-title="Cine", Todo Poderoso 2
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/36919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Esfera" tvg-logo="http://mu03.wanicelife.com:8880/images/7LiXZgPW0eva5lpUqNf92J5hu7m_small.jpg" group-title="Cine",  Esfera
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/35031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Este Es El Fin" tvg-logo="http://mu03.wanicelife.com:8880/images/ZYwvKLnufksli9r09lyb2E22Bo_small.jpg" group-title="Cine", Este Es El Fin
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/35041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Expediente 39" tvg-logo="http://mu03.wanicelife.com:8880/images/dafM6LJYOAleeyYJdafGGpaMXye_small.jpg" group-title="Cine", Expediente 39
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/35054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:A I  Inteligencia Artificial" tvg-logo="http://mu03.wanicelife.com:8880/images/suXcdJ90Heh1AWNcIQayagUtgWI_small.jpg" group-title="Cine", Inteligencia Artificial
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Beyond Skyline - 2017" tvg-logo="http://mu03.wanicelife.com:8880/images/dbbef6878339c0a33a1b86269334d5c9.jpg" group-title="Cine", Beyond Skyline - 2017
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/61597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:¡Este cuerpo no es el mío! - 2002" tvg-logo="http://mu03.wanicelife.com:8880/images/ee6b7390b2173aa328e255668ff97c70.jpg" group-title="Cine", Este cuerpo no es el mío 2002
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/61634.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:La luz entre los océanos - 2016" tvg-logo="http://mu03.wanicelife.com:8880/images/7c9dc8a979e3881dc4adf032f4864b3e.jpg" group-title="Cine", La luz entre los océanos - 2016
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/61667.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Los elegidos - 2013" tvg-logo="http://mu03.wanicelife.com:8880/images/b04a96fabd03bad2e8495518a9950c8e.jpg" group-title="Cine", Los elegidos - 2013
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/61687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:atmosphere - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6b4DtcF7OEZOHVmkrCyVWxkZViN.jpg" group-title="Cine", Atmosphere - 2017
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/61700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="After Death - 2012" tvg-logo="http://mu03.wanicelife.com:8880/images/b367ac1a51cee548c9da119b6c8c5736.jpg" group-title="Cine", After Death - 2012
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/61819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Abducción Alienígena (DUAL AUDIO)" tvg-logo="http://mu03.wanicelife.com:8880/images/9kB56ZdMB6RgY5QtX9Bar45jCeI_small.jpg" group-title="Cine", Abducción Alienígena (DUAL AUDIO)
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA:Accident Man" tvg-logo="http://mu03.wanicelife.com:8880/images/8J9xbEzRnf9qsLlU1W90iJXqZ6D_small.jpg" group-title="Cine", Accident Man
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Acorazado" tvg-logo="http://mu03.wanicelife.com:8880/images/ffkDOpofgudXxak4hdXqWbgdokV_small.jpg" group-title="Cine", Acorazado
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Al Borde Del Abismo" tvg-logo="http://mu03.wanicelife.com:8880/images/ncae756NabBzNYfSsnsr4gywT61_small.jpg" group-title="Cine", Al Borde Del Abismo
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Al Filo Del Mañana" tvg-logo="http://mu03.wanicelife.com:8880/images/xEzDzqNJerVMKwdVKU7ZOtlPVZ7_small.jpg" group-title="Cine", Al Filo Del Mañana
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Al Final Del Tunel" tvg-logo="http://mu03.wanicelife.com:8880/images/fG2TW0wmkKoZ4fPY09P54BTDM4M_small.jpg" group-title="Cine", Al Final Del Tunel
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Alerta En Lo Profundo" tvg-logo="http://mu03.wanicelife.com:8880/images/xNa8pcnF1oQUav6h3Sh6jEClmD0_small.jpg" group-title="Cine", Alerta En Lo Profundo
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Alerta En Lo Profundo 2" tvg-logo="http://mu03.wanicelife.com:8880/images/xNa8pcnF1oQUav6h3Sh6jEClmD0_small.jpg" group-title="Cine", Alerta En Lo Profundo 2
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Alpha Y Omega" tvg-logo="http://mu03.wanicelife.com:8880/images/1X7rRzpx5UdV5JKFtrsTP1B4Gg2_small.jpg" group-title="Cine", Alpha Y Omega
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Amanecer Rojo (DUAL AUDIO)" tvg-logo="http://mu03.wanicelife.com:8880/images/aMCa1BvEGgQRi8T5wHhq3p2haHS_small.jpg" group-title="Cine", Amanecer Rojo (DUAL AUDIO)
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Archivo 253" tvg-logo="http://mu03.wanicelife.com:8880/images/YBXCeLm00TQ3PawGflZyzkeC7X_small.jpg" group-title="Cine", Archivo 253
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Assassin's Creed (DUAL AUDIO)" tvg-logo="http://mu03.wanicelife.com:8880/images/4luDZA1tIubKThUybj70e8ww19B_small.jpg" group-title="Cine", Assassin's Creed (DUAL AUDIO)
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34236.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA:Atlantis: El Imperio Perdido" tvg-logo="http://mu03.wanicelife.com:8880/images/uR7AKWMDTwyAub5r4QoPPiJImvx_small.jpg" group-title="Cine", Atlantis: El Imperio Perdido
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Atlantis: El Regreso De Milo" tvg-logo="http://mu03.wanicelife.com:8880/images/b4oJ3MWVcw1z5bkp67NkcuCuWSX_small.jpg" group-title="Cine", Atlantis: El Regreso De Milo
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Avatar (4K)" tvg-logo="http://mu03.wanicelife.com:8880/images/4wmpUNf6Fbf1P9oEIEdJpN7DpeP_small.jpg" group-title="Cine", Avatar (4K)
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA:Avatar (DUAL AUDIO)" tvg-logo="http://mu03.wanicelife.com:8880/images/4wmpUNf6Fbf1P9oEIEdJpN7DpeP_small.jpg" group-title="Cine", Avatar (DUAL AUDIO)
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34252.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA:Avenger: Endgame" tvg-logo="http://mu03.wanicelife.com:8880/images/1ELa9bm6zxIADz8u71VZtvNzx3k_small.jpg" group-title="Cine", Avenger: Endgame
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34253.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA:Avengers: Infinity War" tvg-logo="http://mu03.wanicelife.com:8880/images/q6Q81fP4qPvfQTH2Anlgy12jzO2_small.jpg" group-title="Cine", Avengers: Infinity War
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Aventuras En Alaska" tvg-logo="http://mu03.wanicelife.com:8880/images/p4eZyneqVExJY5WIJfa8WdOdqt9_small.jpg" group-title="Cine", Aventuras En Alaska
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Bajo Cero" tvg-logo="http://mu03.wanicelife.com:8880/images/jdPIodYQmaIAL5UnVKSKuLH7B1v_small.jpg" group-title="Cine", Bajo Cero
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Balto 2: Aventura En La Tierra De Hielo" tvg-logo="http://mu03.wanicelife.com:8880/images/nDKSeu8Dzr2rje1IlvrApmYPo3S_small.jpg" group-title="Cine", Aventura En La Tierra De Hielo
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Battleship" tvg-logo="http://mu03.wanicelife.com:8880/images/uuG3nD4jLr4ghEdSFuOsLT9Kf6I_small.jpg" group-title="Cine", Battleship
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Bienvenidos Al Fin Del Mundo" tvg-logo="http://mu03.wanicelife.com:8880/images/iAPgo0y3pz3Aq2RaiFOk7f2elNY_small.jpg" group-title="Cine", Bienvenidos Al Fin Del Mundo
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Camino A Marte" tvg-logo="http://mu03.wanicelife.com:8880/images/sWrIdYoyF5zus39nC63v30V97UV_small.jpg" group-title="Cine", Camino A Marte
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34421.mp4
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34480.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA:Cloverfield" tvg-logo="http://mu03.wanicelife.com:8880/images/5u8J6fgaw7JBStJVxtMyQb71nyQ_small.jpg" group-title="Cine", Cloverfield
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Distrito 13" tvg-logo="http://mu03.wanicelife.com:8880/images/xCkRjmR52MEM2vUVXxlNigXgMqG_small.jpg" group-title="Cine", Distrito 13
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Divergente" tvg-logo="http://mu03.wanicelife.com:8880/images/t36b9yHx1JbrkcpaWPatcDLtEYu_small.jpg" group-title="Cine", Divergente
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/34554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Jurassic Park I" tvg-logo="http://mu03.wanicelife.com:8880/images/5GM4Nqc79PFE3IOqNKwmOxAWkX1_small.jpg" group-title="Cine", Jurassic Park I
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/35469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:La Invención De Hugo" tvg-logo="http://mu03.wanicelife.com:8880/images/hHCRhHc25pSTrvjprTQLzCnub82_small.jpg" group-title="Cine", La Invención De Hugo
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/35619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:La Momia" tvg-logo="http://mu03.wanicelife.com:8880/images/9AJXfgH4JJV6A9Gr7arTe9VyCqb_small.jpg" group-title="Cine", La Momia
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/35662.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA:La Momia 2" tvg-logo="http://mu03.wanicelife.com:8880/images/x5CeEQ2iq9A20LbU0K4Q1TMxFDs_small.jpg" group-title="Cine", La Momia 2
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/35660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:La Ultima Profecia" tvg-logo="http://mu03.wanicelife.com:8880/images/poYhzoLWvxDGCsSfGBLjc90VN1e_small.jpg" group-title="Cine", La Ultima Profecia
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/35762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Los 33 (DUAL AUDIO)" tvg-logo="http://mu03.wanicelife.com:8880/images/wERBSc6yWpLKgmy5QwEGIWDtxxO_small.jpg" group-title="Cine", Los 33 (DUAL AUDIO)
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/35869.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA:Ratatouille" tvg-logo="http://mu03.wanicelife.com:8880/images/rly87M6kSXEeXukoFlFk60TVR1U_small.jpg" group-title="Cine", Ratatouille
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/36568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA:Project X" tvg-logo="http://mu03.wanicelife.com:8880/images/6nqOGtFld3kNyjL8sbJDNGlJz26_small.jpg" group-title="Cine", Project X
+http://vo01.mohdtv.com:8880/movie/ALLChannels681def0aad0f/43892529/36520.mp4
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Expediente X S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/puRJHce1lYqE2GJLn1XBTHszHbF.jpg" group-title="Cine", Expediente X S01 E01
 http://119174689230503563.ofkd0722.xyz:80/series/MONC37B/Afmyyttfa121/503563.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Expediente X S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fArORQn3wtv5Him6lKcRVxsqzHp.jpg" group-title="Cine", Expediente X S01 E02
 http://119174689230503564.ofkd0722.xyz:80/series/MONC37B/Afmyyttfa121/503564.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Expediente X S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rJ5qOZRx12mH6WqqDnhrroBveQ.jpg" group-title="Cine", Expediente X S01 E03
 http://119174689230503565.ofkd0722.xyz:80/series/MONC37B/Afmyyttfa121/503565.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Expediente X S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3yHb7M1qW5WXyLIO7WGhV5c2dlb.jpg" group-title="Cine",  Expediente X S01 E04
+#EXTINF:-1 tvg-id="" tvg-name="Expediente X S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3yHb7M1qW5WXyLIO7WGhV5c2dlb.jpg" group-title="Cine", Expediente X S01 E04
 http://119174689230503566.ofkd0722.xyz:80/series/MONC37B/Afmyyttfa121/503566.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Expediente X S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLgH2dVzUyBWTdLvTW3hwoNR5fX.jpg" group-title="Cine", Expediente X S01 E05
 http://119174689230503567.ofkd0722.xyz:80/series/MONC37B/Afmyyttfa121/503567.mkv
@@ -2111,13 +2264,13 @@ http://119174689230503604.ofkd0722.xyz:80/series/MONC37B/Afmyyttfa121/503604.mkv
 http://119174689230503605.ofkd0722.xyz:80/series/MONC37B/Afmyyttfa121/503605.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Expediente X S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kq5mk6NP6KvqZ11WgRiyfIWoVn6.jpg" group-title="Cine", Expediente X S02 E20
 http://119174689230503606.ofkd0722.xyz:80/series/MONC37B/Afmyyttfa121/503606.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Expediente X S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Sye6ihKyiNYOtZLj3fFZdnsdaM.jpg" group-title="Cine", Expediente X S02 E21
+#EXTINF:-1 tvg-id="" tvg-name="Expediente X S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Sye6ihKyiNYOtZLj3fFZdnsdaM.jpg"  group-title="Cine", Expediente X S02 E21
 http://119174689230503607.ofkd0722.xyz:80/series/MONC37B/Afmyyttfa121/503607.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Expediente X S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vuxchIKqBPO2zLlMBtFcM8xYIR.jpg" group-title="Cine", Expediente X S02 E22
 http://119174689230503608.ofkd0722.xyz:80/series/MONC37B/Afmyyttfa121/503608.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Expediente X S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYzfC421VH592GEnDB5Juz6fhtr.jpg" group-title="Cine", Expediente X S02 E23
 http://119174689230503609.ofkd0722.xyz:80/series/MONC37B/Afmyyttfa121/503609.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Expediente X S02 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLahrpkogJSneGYZnG8n6ofWdk.jpg" group-title="Cine", Expediente X S02 E24
+#EXTINF:-1 tvg-id="" tvg-name="Expediente X S02 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLahrpkogJSneGYZnG8n6ofWdk.jpg"  group-title="Cine", Expediente X S02 E24
 http://119174689230503610.ofkd0722.xyz:80/series/MONC37B/Afmyyttfa121/503610.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Expediente X S02 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltNNyXYwRkMW5e4lIMPrfdroDFn.jpg" group-title="Cine", Expediente X S02 E25
 http://119174689230503611.ofkd0722.xyz:80/series/MONC37B/Afmyyttfa121/503611.mkv
@@ -2457,3 +2610,4 @@ http://119174689230503780.ofkd0722.xyz:80/series/MONC37B/Afmyyttfa121/503780.mkv
 http://119174689230503781.ofkd0722.xyz:80/series/MONC37B/Afmyyttfa121/503781.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Expediente X S11 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZyFXwJ1zGKCGgxk2aRCPR9y6Ww.jpg" group-title="Cine", Expediente X S11 E10
 http://119174689230503782.ofkd0722.xyz:80/series/MONC37B/Afmyyttfa121/503782.mkv
+
