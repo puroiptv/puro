@@ -1,4 +1,3 @@
-
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml"
 
 #EXTINF:0 tvg-country="DO" tvg-logo="https://imgur.com/PygV3f8.png" group-title="Locales", Color Vision 9
@@ -1252,7 +1251,7 @@ http://blazetv.link:8080/nS6VXUKzEc6Y/qVpy44AQN5V7/857825
 
 #EXTINF:-1 tvg-id="" tvg-name="Tcm" tvg-logo="https://imgur.com/LolqxlI.png" group-title="Peliculas", Tcm Latin
 http://blazetv.link:8080/nS6VXUKzEc6Y/qVpy44AQN5V7/858037
-#EXTINF:-1 tvg-id="" tvg-name="Tcm" tvg-logo="https://imgur.com/LolqxlI.png" group-title="Peliculas", Tcm
+#EXTINF:-1 tvg-id="" tvg-name="Tcm" tvg-logo="https://imgur.com/LolqxlI.png" group-title="Peliculas", Tcm F
 http://blazetv.link:8080/nS6VXUKzEc6Y/qVpy44AQN5V7/865914
 #EXTINF:-1 tvg-id="" tvg-name="Tcm" tvg-logo="https://imgur.com/LolqxlI.png" group-title="Peliculas", Tcm FHD
 http://blazetv.link:8080/nS6VXUKzEc6Y/qVpy44AQN5V7/854046
@@ -1260,7 +1259,7 @@ http://blazetv.link:8080/nS6VXUKzEc6Y/qVpy44AQN5V7/854046
 http://blazetv.link:8080/nS6VXUKzEc6Y/qVpy44AQN5V7/854047
 #EXTINF:-1 tvg-id="" tvg-name="Tcm" tvg-logo="https://imgur.com/LolqxlI.png" group-title="Peliculas", Tcm HD
 http://blazetv.link:8080/nS6VXUKzEc6Y/qVpy44AQN5V7/854048
-#EXTINF:-1 tvg-id="" tvg-name="Tcm" tvg-logo="https://imgur.com/LolqxlI.png" group-title="Peliculas",  Tcm SD
+#EXTINF:-1 tvg-id="" tvg-name="Tcm" tvg-logo="https://imgur.com/LolqxlI.png" group-title="Peliculas", Tcm SD
 http://blazetv.link:8080/nS6VXUKzEc6Y/qVpy44AQN5V7/854049
 
 #EXTINF:-1 tvg-id="" tvg-name="LAT: SyFy" tvg-logo="https://imgur.com/xCBlDfn.png" group-title="Peliculas", SyFy
