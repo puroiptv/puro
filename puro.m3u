@@ -3,7 +3,7 @@
 http://nodns1.top:8080/571710674142144/304a7b71f13d/5734
 
 #EXTINF:-1 tvg-id="felix" tvg-name="ES: TELECINCO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="CANAL FELIX",FELIX MORE TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:B6:00:75&stream=978714&extension=ts&play_token=E04sERBwm3
+http://185.243.7.141:80/play/live.php?mac=00:1A:79:B6:00:75&stream=978713&extension=ts&play_token=tELtd1diSg
 
 
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES: TELECINCO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="gomez",GOMEZ
@@ -6799,6 +6799,7 @@ http://nodns1.top:8080/571710674142144/304a7b71f13d/5735
 http://nodns1.top:8080/571710674142144/304a7b71f13d/5617
 #EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="ES: M+ GOLF" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf.png" group-title="ES | DEPORTES",ES: M+ GOLF
 http://nodns1.top:8080/571710674142144/304a7b71f13d/5649
+
 
 
 
