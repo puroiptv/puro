@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1,4K| LA 1 felix UHD
+http://185.243.7.141:80/play/live.php?mac=00:1A:79:B6:00:75&stream=1620282&extension=ts&play_token=a3zovxxRJn
+#EXTINF:-1,4K| DECASA FELIXUHD
+http://185.243.7.141:80/play/live.php?mac=00:1A:79:B6:00:75&stream=1471384&extension=ts&play_token=v8jW0sfB51
+#EXTINF:-1,4K| LIGA CAMPEONES UHD
+http://185.243.7.141:80/play/live.php?mac=00:1A:79:B6:00:75&stream=1471377&extension=ts&play_token=5cltN2IExA
+#EXTINF:-1,4K| ODISEA UHD
+http://185.243.7.141:80/play/live.php?mac=00:1A:79:B6:00:75&stream=1471383&extension=ts&play_token=usjlsTnTxI
+#EXTINF:-1,4K| MUSEUM UHD
+http://185.243.7.141:80/play/live.php?mac=00:1A:79:B6:00:75&stream=1632124&extension=ts&play_token=0tnzucmwYf
+#EXTINF:-1,4K| V SPORT+ UHD
+http://185.243.7.141:80/play/live.php?mac=00:1A:79:B6:00:75&stream=1632123&extension=ts&play_token=x3JIA6Jfsg
+#EXTINF:-1,4K| TRAVEL UHD/4K
+http://185.243.7.141:80/play/live.php?mac=00:1A:79:B6:00:75&stream=1470622&extension=ts&play_token=YVkqAsilDO
+#EXTINF:-1,4K| KINO UHD/4K
+http://185.243.7.141:80/play/live.php?mac=00:1A:79:B6:00:75&stream=1470620&extension=ts&play_token=9cNyAUoofF
+#EXTINF:-1,4K| ELEVEN SPORTS 1 UHD
+http://185.243.7.141:80/play/live.php?mac=00:1A:79:B6:00:75&stream=1470618&extension=ts&play_token=89wunbxR3Z
+#EXTINF:-1,4K| OUR SIBERIA UHD/4K
+http://185.243.7.141:80/play/live.php?mac=00:1A:79:B6:00:75&stream=1471378&extension=ts&play_token=EKGjANXjBE
+#EXTINF:-1,4K| HOME UHD/4K
+http://185.243.7.141:80/play/live.php?mac=00:1A:79:B6:00:75&stream=1471380&extension=ts&play_token=hrC0bIqXan
+#EXTINF:-1,4K| SKY PRIMAFILA 1 UHD
+http://185.243.7.141:80/play/live.php?mac=00:1A:79:B6:00:75&stream=1491180&extension=ts&play_token=c0vXGDHiQ5
+#EXTINF:-1,4K| SKY PRIMAFILA 2 UHD
+http://185.243.7.141:80/play/live.php?mac=00:1A:79:B6:00:75&stream=1491181&extension=ts&play_token=whzidIJMjL
+#EXTINF:-1,4K| SKY PRIMAFILA 3 FELIX UHD
+
+
+
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES: TELECINCO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="ES | GENERAL",ES: TELECINCO
 http://nodns1.top:8080/571710674142144/304a7b71f13d/5734
 
@@ -6799,6 +6829,7 @@ http://nodns1.top:8080/571710674142144/304a7b71f13d/5735
 http://nodns1.top:8080/571710674142144/304a7b71f13d/5617
 #EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="ES: M+ GOLF" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf.png" group-title="ES | DEPORTES",ES: M+ GOLF
 http://nodns1.top:8080/571710674142144/304a7b71f13d/5649
+
 
 
 
